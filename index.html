@@ -67,12 +67,24 @@
                             <div>主页</div>
                         </a>
                         </li>
-                        <li><a href="#">
+                        <li><a href="/about.html">
                             <div>关于我们</div>
                         </a>
                         </li>
                         <li><a href="#">
                             <div>联系我们</div>
+                        </a>
+                        </li>
+                        <li><a href="#">
+                            <div>月球基地</div>
+                        </a>
+                        </li>
+                        <li><a href="#">
+                            <div>APP</div>
+                        </a>
+                        </li>
+                        <li><a href="#">
+                            <div>Blog</div>
                         </a>
                         </li>
                     </ul>
@@ -85,7 +97,7 @@
                         <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
                         <form action="search.html" method="get">
                             <input type="text" name="q" class="form-control" value=""
-                                   placeholder="Type &amp; Hit Enter..">
+                                   placeholder="输入关键字回车搜索">
                         </form>
                     </div><!-- #top-search end -->
 
@@ -101,7 +113,7 @@
 
         <div class="swiper-container swiper-parent">
             <div class="swiper-wrapper">
-                <div class="swiper-slide dark" style="background-image: url('images/index/bg-4.jpg');">
+                <div class="swiper-slide dark" style="background-image: url('images/index/bg.jpg');">
                     <div class="container clearfix">
                         <div class="slider-caption slider-caption-center">
                             <h2 data-caption-animate="fadeInUp">登月舱</h2>
@@ -112,10 +124,7 @@
                 <div class="swiper-slide dark">
                     <div class="container clearfix">
                         <div class="slider-caption slider-caption-center">
-                            <h2 data-caption-animate="fadeInUp">Beautifully Flexible</h2>
-                            <p data-caption-animate="fadeInUp" data-caption-delay="200">Looks beautiful &amp;
-                                ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive functionality
-                                that can be adapted to any screen size.</p>
+                            <h2 data-caption-animate="fadeInUp">探索 不一样的高中生活</h2>
                         </div>
                     </div>
                     <div class="video-wrap">
@@ -126,109 +135,90 @@
                         <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
                     </div>
                 </div>
-                <div class="swiper-slide"
-                     style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
+                <div class="swiper-slide dark"
+                     style="background-image: url('images/index/sm-verdoorn-6.jpg'); background-position: center top;">
                     <div class="container clearfix">
-                        <div class="slider-caption">
-                            <h2 data-caption-animate="fadeInUp">Great Performance</h2>
-                            <p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the
-                                Final Results of your Creation &amp; would crave for more.</p>
+                        <div class="slider-caption slider-caption-center">
+                            <h2 data-caption-animate="fadeInUp">一个属于高中生的社区</h2>
                         </div>
                     </div>
                 </div>
             </div>
             <div id="slider-arrow-left"><i class="icon-angle-left"></i></div>
             <div id="slider-arrow-right"><i class="icon-angle-right"></i></div>
+            <div id="slide-number"><div id="slide-number-current"></div><span>/</span><div id="slide-number-total"></div></div>
         </div>
 
         <script>
-            jQuery(document).ready(function ($) {
-                var swiperSlider = new Swiper('.swiper-parent', {
+            jQuery(document).ready(function($){
+                var swiperSlider = new Swiper('.swiper-parent',{
                     paginationClickable: false,
                     slidesPerView: 1,
                     grabCursor: true,
-                    loop: true,
-                    onSwiperCreated: function (swiper) {
-                        $('[data-caption-animate]').each(function () {
+                    onSwiperCreated: function(swiper){
+                        $('[data-caption-animate]').each(function(){
                             var $toAnimateElement = $(this);
                             var toAnimateDelay = $(this).attr('data-caption-delay');
                             var toAnimateDelayTime = 0;
-                            if (toAnimateDelay) {
-                                toAnimateDelayTime = Number(toAnimateDelay) + 750;
-                            } else {
-                                toAnimateDelayTime = 750;
-                            }
-                            if (!$toAnimateElement.hasClass('animated')) {
+                            if( toAnimateDelay ) { toAnimateDelayTime = Number( toAnimateDelay ) + 750; } else { toAnimateDelayTime = 750; }
+                            if( !$toAnimateElement.hasClass('animated') ) {
                                 $toAnimateElement.addClass('not-animated');
                                 var elementAnimation = $toAnimateElement.attr('data-caption-animate');
-                                setTimeout(function () {
-                                    $toAnimateElement.removeClass('not-animated').addClass(elementAnimation + ' animated');
+                                setTimeout(function() {
+                                    $toAnimateElement.removeClass('not-animated').addClass( elementAnimation + ' animated');
                                 }, toAnimateDelayTime);
                             }
                         });
                         SEMICOLON.slider.swiperSliderMenu();
                     },
-                    onSlideChangeStart: function (swiper) {
-                        $('[data-caption-animate]').each(function () {
+                    onSlideChangeStart: function(swiper){
+                        $('#slide-number-current').html(swiper.activeIndex + 1);
+                        $('[data-caption-animate]').each(function(){
                             var $toAnimateElement = $(this);
                             var elementAnimation = $toAnimateElement.attr('data-caption-animate');
                             $toAnimateElement.removeClass('animated').removeClass(elementAnimation).addClass('not-animated');
                         });
                         SEMICOLON.slider.swiperSliderMenu();
                     },
-                    onSlideChangeEnd: function (swiper) {
-                        $('#slider').find('.swiper-slide').each(function () {
-                            if ($(this).find('video').length > 0) {
-                                $(this).find('video').get(0).pause();
-                            }
-                            if ($(this).find('.yt-bg-player').length > 0) {
-                                $(this).find('.yt-bg-player').pauseYTP();
+                    onSlideChangeEnd: function(swiper){
+                        $('#slider .swiper-slide').each(function(){
+                            if($(this).find('video').length > 0) { $(this).find('video').get(0).pause(); }
+                        });
+                        $('#slider .swiper-slide:not(".swiper-slide-active")').each(function(){
+                            if($(this).find('video').length > 0) {
+                                if($(this).find('video').get(0).currentTime != 0 ) $(this).find('video').get(0).currentTime = 0;
                             }
                         });
-                        $('#slider').find('.swiper-slide:not(".swiper-slide-active")').each(function () {
-                            if ($(this).find('video').length > 0) {
-                                if ($(this).find('video').get(0).currentTime != 0) $(this).find('video').get(0).currentTime = 0;
-                            }
-                            if ($(this).find('.yt-bg-player').length > 0) {
-                                $(this).find('.yt-bg-player').getPlayer().seekTo($(this).find('.yt-bg-player').attr('data-start'));
-                            }
-                        });
-                        if ($('#slider').find('.swiper-slide.swiper-slide-active').find('video').length > 0) {
-                            $('#slider').find('.swiper-slide.swiper-slide-active').find('video').get(0).play();
-                        }
-                        if ($('#slider').find('.swiper-slide.swiper-slide-active').find('.yt-bg-player').length > 0) {
-                            $('#slider').find('.swiper-slide.swiper-slide-active').find('.yt-bg-player').playYTP();
-                        }
+                        if( $('#slider .swiper-slide.swiper-slide-active').find('video').length > 0 ) { $('#slider .swiper-slide.swiper-slide-active').find('video').get(0).play(); }
 
-                        $('#slider .swiper-slide.swiper-slide-active [data-caption-animate]').each(function () {
+                        $('#slider .swiper-slide.swiper-slide-active [data-caption-animate]').each(function(){
                             var $toAnimateElement = $(this);
                             var toAnimateDelay = $(this).attr('data-caption-delay');
                             var toAnimateDelayTime = 0;
-                            if (toAnimateDelay) {
-                                toAnimateDelayTime = Number(toAnimateDelay) + 300;
-                            } else {
-                                toAnimateDelayTime = 300;
-                            }
-                            if (!$toAnimateElement.hasClass('animated')) {
+                            if( toAnimateDelay ) { toAnimateDelayTime = Number( toAnimateDelay ) + 300; } else { toAnimateDelayTime = 300; }
+                            if( !$toAnimateElement.hasClass('animated') ) {
                                 $toAnimateElement.addClass('not-animated');
                                 var elementAnimation = $toAnimateElement.attr('data-caption-animate');
-                                setTimeout(function () {
-                                    $toAnimateElement.removeClass('not-animated').addClass(elementAnimation + ' animated');
+                                setTimeout(function() {
+                                    $toAnimateElement.removeClass('not-animated').addClass( elementAnimation + ' animated');
                                 }, toAnimateDelayTime);
                             }
                         });
                     }
                 });
 
-                $('#slider-arrow-left').on('click', function (e) {
+                $('#slider-arrow-left').on('click', function(e){
                     e.preventDefault();
                     swiperSlider.swipePrev();
                 });
 
-                $('#slider-arrow-right').on('click', function (e) {
+                $('#slider-arrow-right').on('click', function(e){
                     e.preventDefault();
                     swiperSlider.swipeNext();
                 });
+
+                $('#slide-number-current').html(swiperSlider.activeIndex + 1);
+                $('#slide-number-total').html(swiperSlider.slides.length);
             });
         </script>
 
@@ -245,20 +235,19 @@
 
                     <div class="col-lg-5">
                         <div class="heading-block topmargin">
-                            <h1>Welcome to Canvas.<br>MultiPurpose Template.</h1>
+                            <h1>我们在做什么</h1>
                         </div>
-                        <p class="lead">Create a website that you are gonna be proud of. Be it Business, Portfolio,
-                            Agency, Photography, eCommerce &amp; much more.</p>
+                        <p class="lead">登月舱正与高中生们一起建立这个拥有自主探索文化的社区。我们拥抱项目制学习，相信最好的学习体验发生在做自己热爱并认同的事情当中。</p>
                     </div>
 
                     <div class="col-lg-7">
 
                         <div style="position: relative; margin-bottom: -60px;" class="ohidden" data-height-lg="426"
                              data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
-                            <img src="images/services/main-fbrowser.png" style="position: absolute; top: 0; left: 0;"
+                            <img src="images/appshowcase/slider-iphone.png" style="position: absolute; top: 0; left: 0;"
                                  data-animate="fadeInUp" data-delay="100" alt="Chrome">
-                            <img src="images/services/main-fmobile.png" style="position: absolute; top: 0; left: 0;"
-                                 data-animate="fadeInUp" data-delay="400" alt="iPad">
+                            <!--<img src="images/services/main-fmobile.png" style="position: absolute; top: 0; left: 0;"-->
+                                 <!--data-animate="fadeInUp" data-delay="400" alt="iPad">-->
                         </div>
 
                     </div>
@@ -275,36 +264,35 @@
                             <i class="i-plain color i-large icon-line2-screen-desktop inline-block"
                                style="margin-bottom: 15px;"></i>
                             <div class="heading-block nobottomborder" style="margin-bottom: 15px;">
-                                <span class="before-heading">Scalable on Devices.</span>
-                                <h4>Responsive &amp; Retina</h4>
+                                <span class="before-heading">一个属于高中生的探索性实践社区</span>
+                                <h4>关于我们</h4>
                             </div>
-                            <p>Employment respond committed meaningful fight against oppression social challenges rural
-                                legal aid governance. Meaningful work, implementation, process cooperation, campaign
-                                inspire.</p>
+                            <p>打破学校之间的间隔，找到志同道合的小伙伴，一起探索共同热爱的事.
+                                怎么破？现在还是秘密！不过听说登月舱的微信公众号总是会第一时间披露消息……</p>
                         </div>
 
                         <div class="col-md-4 bottommargin">
                             <i class="i-plain color i-large icon-line2-energy inline-block"
                                style="margin-bottom: 15px;"></i>
                             <div class="heading-block nobottomborder" style="margin-bottom: 15px;">
-                                <span class="before-heading">Smartly Coded &amp; Maintained.</span>
-                                <h4>Powerful Performance</h4>
+                                <span class="before-heading">为什么做呢?</span>
+                                <h4>项目理念</h4>
                             </div>
-                            <p>Medecins du Monde Jane Addams reduce child mortality challenges Ford Foundation.
-                                Diversification shifting landscape advocate pathway to a better life rights
-                                international. Assessment.</p>
+                            <p>在这个技术爆炸的时代，我们需要挖掘自身的潜能来面对十分不确定的未来。
+                                而在高中这个最具创造力的年龄，不断探索更多可能性可以帮助我们更好地挖掘潜能和热情。</p>
                         </div>
 
                         <div class="col-md-4 bottommargin">
                             <i class="i-plain color i-large icon-line2-equalizer inline-block"
                                style="margin-bottom: 15px;"></i>
                             <div class="heading-block nobottomborder" style="margin-bottom: 15px;">
-                                <span class="before-heading">Flexible &amp; Customizable.</span>
-                                <h4>Truly Multi-Purpose</h4>
+                                <span class="before-heading">一个完全属于高中生，却向全社会开放的空间。</span>
+                                <h4>月球基地</h4>
                             </div>
-                            <p>Democracy inspire breakthroughs, Rosa Parks; inspiration raise awareness natural
-                                resources. Governance impact; transformative donation philanthropy, respect
-                                reproductive.</p>
+                            <p>
+                                在这里，我们有一个优质的环境来讨论和展示自己的项目。<br>
+                                在这里，我们能获取各种学校不能给予的知识、能力以及来自社会的资源与帮助。 <br>
+                                在这里，我们脱下校服，真正成为社会中的一员，做着对社会有正面影响的事情。<br></p>
                         </div>
 
                     </div>
