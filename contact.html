@@ -25,6 +25,10 @@
     ============================================= -->
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/plugins.js"></script>
+    <!--Polymer-->
+    <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
+    <link rel="import" href="header.html">
+    <link rel="import" href="footer.html">
 
     <!-- Document Title
     ============================================= -->
@@ -40,73 +44,7 @@
 
         <!-- Header
         ============================================= -->
-        <header id="header" class="transparent-header full-header" data-sticky-class="not-dark">
-
-            <div id="header-wrap">
-
-                <div class="container clearfix">
-
-                    <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-
-                    <!-- Logo
-                    ============================================= -->
-                    <div id="logo">
-                        <a href="http://goo.gl/eLJ2Bg" class="standard-logo" data-dark-logo="images/logo-dark.png"><img
-                                src="images/logo.png" alt="Canvas Logo"></a>
-                        <a href="http://goo.gl/eLJ2Bg" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img
-                                src="images/logo@2x.png" alt="Canvas Logo"></a>
-                    </div><!-- #logo end -->
-
-                    <!-- Primary Navigation
-                    ============================================= -->
-                    <nav id="primary-menu" class="dark">
-
-                        <ul>
-                            <li><a href="/index.html">
-                                <div>主页</div>
-                            </a>
-                            </li>
-                            <li><a href="/about.html">
-                                <div>关于我们</div>
-                            </a>
-                            </li>
-                            <li class="current"><a href="/contact.html">
-                                <div>联系我们</div>
-                            </a>
-                            </li>
-                            <li><a href="/lunarbase.html">
-                                <div>月球基地</div>
-                            </a>
-                            </li>
-                            <li><a href="#">
-                                <div>APP</div>
-                            </a>
-                            </li>
-                            <li><a href="#">
-                                <div>Blog</div>
-                            </a>
-                            </li>
-                        </ul>
-
-
-
-                        <!-- Top Search
-                        ============================================= -->
-                        <div id="top-search">
-                            <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
-                            <form action="search.html" method="get">
-                                <input type="text" name="q" class="form-control" value=""
-                                       placeholder="输入关键字回车搜索">
-                            </form>
-                        </div><!-- #top-search end -->
-
-                    </nav><!-- #primary-menu end -->
-
-                </div>
-
-            </div>
-
-        </header><!-- #header end -->
+        <dom-header></dom-header>
 
         <!-- Page Title
         ============================================= -->
@@ -275,72 +213,7 @@
 
         <!-- Footer
         ============================================= -->
-        <footer id="footer" class="dark">
-
-            <div id="copyrights">
-
-                <div class="container clearfix">
-
-                    <div class="col_half">
-                        Copyrights &copy; 2016 北京阿舱科技教育有限公司<br>
-                        <span>Developed by <a href="http://doudoujay.com">doudoujay.com</a></span>
-                    </div>
-
-                    <div class="col_half col_last tright">
-                        <div class="fright clearfix">
-                            <a href="#" class="social-icon si-small si-borderless si-facebook">
-                                <i class="icon-facebook"></i>
-                                <i class="icon-facebook"></i>
-                            </a>
-
-                            <a href="#" class="social-icon si-small si-borderless si-twitter">
-                                <i class="icon-twitter"></i>
-                                <i class="icon-twitter"></i>
-                            </a>
-
-                            <a href="#" class="social-icon si-small si-borderless si-gplus">
-                                <i class="icon-gplus"></i>
-                                <i class="icon-gplus"></i>
-                            </a>
-
-                            <a href="#" class="social-icon si-small si-borderless si-pinterest">
-                                <i class="icon-pinterest"></i>
-                                <i class="icon-pinterest"></i>
-                            </a>
-
-                            <a href="#" class="social-icon si-small si-borderless si-vimeo">
-                                <i class="icon-vimeo"></i>
-                                <i class="icon-vimeo"></i>
-                            </a>
-
-                            <a href="#" class="social-icon si-small si-borderless si-github">
-                                <i class="icon-github"></i>
-                                <i class="icon-github"></i>
-                            </a>
-
-                            <a href="#" class="social-icon si-small si-borderless si-yahoo">
-                                <i class="icon-yahoo"></i>
-                                <i class="icon-yahoo"></i>
-                            </a>
-
-                            <a href="#" class="social-icon si-small si-borderless si-linkedin">
-                                <i class="icon-linkedin"></i>
-                                <i class="icon-linkedin"></i>
-                            </a>
-                        </div>
-
-                        <div class="clear"></div>
-
-                        <i class="icon-envelope2"></i> <a href="mailto:hi@dengyuecang.com">hi@dengyuecang.com</a> <span class="middot">&middot;</span> <i class="icon-headphones"></i> +86-11-1111-1111 <span class="middot">&middot;</span>
-                    </div>
-
-                </div>
-
-            </div><!-- #copyrights end -->
-
-
-
-        </footer><!-- #footer end -->
+        <dom-footer></dom-footer>
 
     </div><!-- #wrapper end -->
 
