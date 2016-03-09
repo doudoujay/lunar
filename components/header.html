@@ -1,5 +1,5 @@
 <link rel="import"
-      href="bower_components/polymer/polymer.html">
+      href="../bower_components/polymer/polymer.html">
 
 <dom-module id="dom-header">
     <template>
@@ -15,9 +15,9 @@
                     ============================================= -->
                     <div id="logo">
                         <a href="http://goo.gl/eLJ2Bg" class="standard-logo" data-dark-logo="images/logo-dark.png"><img
-                                src="images/logo.png" alt="Canvas Logo"></a>
+                                src="../images/logo.png" alt="Canvas Logo"></a>
                         <a href="http://goo.gl/eLJ2Bg" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img
-                                src="images/logo@2x.png" alt="Canvas Logo"></a>
+                                src="../images/logo@2x.png" alt="Canvas Logo"></a>
                     </div><!-- #logo end -->
 
                     <!-- Primary Navigation
@@ -41,13 +41,7 @@
                                 <div>月球基地</div>
                             </a>
                             </li>
-                            <li id="dom-app"><a href="#">
-                                <div>APP</div>
-                            </a>
-                            </li>
-                            <li id="dom-blog"><a href="#">
-                                <div>Blog</div>
-                            </a>
+
                             </li>
                             <li id="dom-makeschool"><a href="#">
                                 <div>Makeschool</div>
@@ -59,7 +53,7 @@
                         ============================================= -->
                         <div id="top-search">
                             <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
-                            <form action="search.html" method="get">
+                            <form action="../search.html" method="get">
                                 <input type="text" name="q" class="form-control" value=""
                                        placeholder="输入关键字回车搜索">
                             </form>
@@ -81,13 +75,16 @@
         properties:{
             current:{
                 type: String,
-                value: 'index'
+                value: ''
 //                Possible value index, contact...
             }
 
         },
         ready: function(){
-            document.getElementById(this.current).className = 'current';
+            if(this.current != ''){
+                document.getElementById(this.current).className = 'current';
+            }
+
         }
 
     });
