@@ -2,30 +2,31 @@
 <html dir="ltr" lang="en-US">
 <head>
 
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="author" content="SemiColonWeb"/>
 
     <!-- Stylesheets
     ============================================= -->
-	<link href="http://fonts.useso.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
-    <link rel="stylesheet" href="style.css" type="text/css" />
-    <link rel="stylesheet" href="css/dark.css" type="text/css" />
-    <link rel="stylesheet" href="css/font-icons.css" type="text/css" />
-    <link rel="stylesheet" href="css/animate.css" type="text/css" />
-    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
-    <link rel="stylesheet" href="css/calendar.css" type="text/css" />
+    <link href="http://fonts.useso.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic"
+          rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="stylesheet" href="css/dark.css" type="text/css"/>
+    <link rel="stylesheet" href="css/font-icons.css" type="text/css"/>
+    <link rel="stylesheet" href="css/animate.css" type="text/css"/>
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css"/>
+    <link rel="stylesheet" href="css/calendar.css" type="text/css"/>
 
-    <link rel="stylesheet" href="css/responsive.css" type="text/css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="css/responsive.css" type="text/css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     <!--[if lt IE 9]>
-    	<script src="js/css3-mediaqueries.js"></script>
+    <script src="js/css3-mediaqueries.js"></script>
     <![endif]-->
 
     <!-- External JavaScripts
     ============================================= -->
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/plugins.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/plugins.js"></script>
     <script type="text/javascript" src="js/jquery.calendario.js"></script>
     <script type="text/javascript" src="js/events-data.js"></script>
     <!--Polymer-->
@@ -38,188 +39,277 @@
 
     <!-- Document Title
     ============================================= -->
-	<title>月球基地|登月舱</title>
+    <title>月球基地|登月舱</title>
 
 </head>
 
 <body class="stretched">
 
-    <!-- Document Wrapper
+<!-- Document Wrapper
+============================================= -->
+<div id="wrapper" class="clearfix">
+
+    <!-- Header
     ============================================= -->
-    <div id="wrapper" class="clearfix">
+    <header id="header" class="semi-transparent full-header" data-sticky-class="no-dark">
 
-        <!-- Header
-        ============================================= -->
-        <header id="header" class="semi-transparent full-header" data-sticky-class="no-dark">
+        <div id="header-wrap">
 
-            <div id="header-wrap" >
+            <div class="container clearfix">
+
+                <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+                <!-- Logo
+                ============================================= -->
+                <div id="logo">
+                    <a href="/index.html" class="standard-logo" data-dark-logo="images/index/logo.png"><img
+                            src="../images/index/logo.png" alt="Canvas Logo"></a>
+                    <a href="/index.html" class="retina-logo" data-dark-logo="images/index/logo.png"><img
+                            src="../images/index/logo.png" alt="Canvas Logo"></a>
+                </div><!-- #logo end -->
+
+                <!-- Primary Navigation
+                ============================================= -->
+                <nav id="primary-menu" class="dark">
+
+                    <ul>
+                        <li id="dom-index"><a href="/index.html">
+                            <div>主页</div>
+                        </a>
+                        </li>
+                        <li id="dom-about"><a href="/about.html">
+                            <div>关于我们</div>
+                        </a>
+                        </li>
+                        <li id="dom-base" class="current"><a href="/lunarbase.html">
+                            <div>月球基地</div>
+                        </a>
+                        </li>
+                        </li>
+                        <li id="dom-app"><a href="/app.html">
+                            <div>app</div>
+                        </a>
+                        </li>
+
+
+                        </li>
+                        <li id="dom-makeschool"><a href="#">
+                            <div>Makeschool</div>
+                        </a>
+                        </li>
+                        <li id="dom-contact"><a href="/contact.html">
+                            <div>联系我们</div>
+                        </a>
+                        </li>
+                    </ul>
+
+                    <!-- Top Search
+                    ============================================= -->
+                    <div id="top-search">
+                        <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+                        <form action="../search.html" method="get">
+                            <input type="text" name="q" class="form-control" value=""
+                                   placeholder="输入关键字回车搜索">
+                        </form>
+                    </div><!-- #top-search end -->
+
+
+                </nav><!-- #primary-menu end -->
+
+            </div>
+
+        </div>
+
+    </header><!-- #header end -->
+
+    <!-- Content
+    ============================================= -->
+    <section id="content">
+
+        <div class="content-wrap notoppadding">
+
+            <dom-pagetitle></dom-pagetitle>
+
+            <div class="section dark notopmargin">
+                <div class="container clearfix ">
+
+                    <div class="heading-block center">
+                        <h2>这是什么?</h2>
+                        <span>就如创业咖啡厅与共创空间是创业着们进行项目讨论与工作的空间，登月舱也为高中的小伙伴们提供进行项目工作的空间</span>
+                    </div>
+
+                    <div class="col_full">
+
+                        <img data-animate="fadeIn" class="aligncenter" src="images/services/macbook.png"
+                             alt="Macbook">
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="divider divider-center"><i class="icon-circle-blank"></i></div>
+
+            <div class="container clearfix" style="padding-top: 80px">
+
+
+                <div class="clear"></div>
+
+
+
+
 
                 <div class="container clearfix">
 
-                    <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+                    <div class="col_two_fifth topmargin nobottommargin" id="radarChart" style="opacity: 0;">
 
-                    <!-- Logo
-                    ============================================= -->
-                    <div id="logo">
-                        <a href="/index.html" class="standard-logo" data-dark-logo="images/index/logo.png"><img
-                                src="../images/index/logo.png" alt="Canvas Logo"></a>
-                        <a href="/index.html" class="retina-logo" data-dark-logo="images/index/logo.png"><img
-                                src="../images/index/logo.png" alt="Canvas Logo"></a>
-                    </div><!-- #logo end -->
-
-                    <!-- Primary Navigation
-                    ============================================= -->
-                    <nav id="primary-menu" class="dark">
-
-                        <ul>
-                            <li id="dom-index"><a href="/index.html">
-                                <div>主页</div>
-                            </a>
-                            </li>
-                            <li id="dom-about"><a href="/about.html">
-                                <div>关于我们</div>
-                            </a>
-                            </li>
-                            <li id="dom-base" class="current"><a href="/lunarbase.html">
-                                <div>月球基地</div>
-                            </a>
-                            </li>
-                            </li>
-                            <li id="dom-app"><a href="/app.html">
-                                <div>app</div>
-                            </a>
-                            </li>
-
-
-                            </li>
-                            <li id="dom-makeschool"><a href="#">
-                                <div>Makeschool</div>
-                            </a>
-                            </li>
-                            <li id="dom-contact"><a href="/contact.html">
-                                <div>联系我们</div>
-                            </a>
-                            </li>
-                        </ul>
-
-                        <!-- Top Search
-                        ============================================= -->
-                        <div id="top-search">
-                            <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
-                            <form action="../search.html" method="get">
-                                <input type="text" name="q" class="form-control" value=""
-                                       placeholder="输入关键字回车搜索">
-                            </form>
-                        </div><!-- #top-search end -->
-
-
-                    </nav><!-- #primary-menu end -->
-
-                </div>
-
-            </div>
-
-        </header><!-- #header end -->
-
-        <!-- Content
-        ============================================= -->
-        <section id="content">
-
-            <div class="content-wrap notoppadding">
-
-                <dom-pagetitle></dom-pagetitle>
-
-                <div class="container clearfix" style="padding-top: 80px">
-
-                    <div class="col_one_fourth nobottommargin">
-                        <div class="feature-box fbox-effect fbox-center fbox-outline nobottomborder">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-calendar i-alt"></i></a>
-                            </div>
-                            <p>就如创业咖啡厅与共创空间是创业着们进行项目讨论与工作的空间，登月舱也为高中的小伙伴们提供进行项目工作的空间——月球基地。</p>
-                        </div>
                     </div>
 
-                    <div class="col_one_fourth nobottommargin">
-                        <div class="feature-box fbox-effect fbox-center fbox-outline nobottomborder">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-map i-alt"></i></a>
-                            </div>
-                            <p>每周末，月球基地都会有精心设计的活动，为小伙伴们提供新奇的体验，或为大家的项目提供咨询与帮助。</p>
-                        </div>
-                    </div>
+                    <div class="col_three_fifth nobottommargin col_last">
 
-                    <div class="col_one_fourth nobottommargin">
-                        <div class="feature-box fbox-effect fbox-center fbox-outline nobottomborder">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-microphone2 i-alt"></i></a>
-                            </div>
-                            <p>第一个月球基地建立在北京大学附属中学内部，但却对全社会的高中生们开放。</p>
+                        <div class="heading-block">
+                            <h3>什么时候,约么?</h3>
+                                <span>每周末，月球基地都会有精心设计的活动，为小伙伴们提供新奇的体验，或为大家的项目提供咨询与帮助。
+</span>
                         </div>
-                    </div>
 
-                    <div class="col_one_fourth nobottommargin col_last">
-                        <div class="feature-box fbox-effect fbox-center fbox-outline nobottomborder">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-food2 i-alt"></i></a>
-                            </div>
-                            <p>在不远的将来，登月舱会将月球基地建立在其他城市或地区中。你所在的地方，会不会是下一个月球基地的建造地址？</p>
-                        </div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur quibusdam,
+                            enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia
+                            libero accusantium esse hic, obcaecati, ullam, laboriosam!</p>
+
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti vero, animi suscipit id
+                            facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum
+                            laudantium cum magnam excepturi quod, fuga architecto provident, cupiditate delectus
+                            voluptate eaque! Sit neque ut eum, voluptatibus odit cum dolorum ipsa voluptates inventore
+                            cumque a.</p>
+
+                        <a href="#">Learn more &rarr;</a>
+
                     </div>
 
                     <div class="clear"></div>
+                    <div class="line"></div>
 
-                    <div class="divider divider-center"><i class="icon-circle-blank"></i></div>
+                    <div class="col_three_fifth">
 
-                    <h3>即将到来的大事件</h3>
-
-                    <div id="posts" class="events small-thumbs">
-
-                        <div class="entry clearfix">
-                            <div class="entry-image">
-                                <a href="#">
-                                    <img src="images/events/thumbs/1.jpg" alt="Inventore voluptates velit totam ipsa tenetur">
-                                    <div class="entry-date">10<span>May</span></div>
-                                </a>
-                            </div>
-                            <div class="entry-c">
-                                <div class="entry-title">
-                                    <h2><a href="#">Inventore voluptates velit totam ipsa tenetur</a></h2>
-                                </div>
-                                <ul class="entry-meta clearfix">
-                                    <li><span class="label label-warning">Private</span></li>
-                                    <li><a href="#"><i class="icon-time"></i> 11:00 - 19:00</a></li>
-                                    <li><a href="#"><i class="icon-map-marker2"></i> Melbourne, Australia</a></li>
-                                </ul>
-                                <div class="entry-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur voluptate rerum molestiae eaque possimus exercitationem eligendi fuga.</p>
-                                    <a href="#" class="btn btn-default" disabled="disabled">Buy Tickets</a> <a href="#" class="btn btn-danger">Read More</a>
-                                </div>
-                            </div>
+                        <div class="heading-block">
+                            <h3>在哪?</h3>
+                            <span>第一个月球基地建立在北京大学附属中学内部，但却对全社会的高中生们开放。</span>
                         </div>
 
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur quibusdam,
+                            enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia
+                            libero accusantium esse hic, obcaecati, ullam, laboriosam!</p>
+
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti vero, animi suscipit id
+                            facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum
+                            laudantium cum magnam excepturi quod, fuga architecto provident, cupiditate delectus
+                            voluptate eaque! Sit neque ut eum, voluptatibus odit cum dolorum ipsa voluptates inventore
+                            cumque a.</p>
+
+                        <a href="#">Learn more &rarr;</a>
 
                     </div>
+
+                    <div class="col_two_fifth topmargin col_last" id="doughnutChart" style="opacity: 0;">
+
+                    </div>
+
+
+                    <div class="clear"></div>
+                    <div class="line"></div>
+
+
+                    <div class="col_two_fifth topmargin nobottommargin" style="opacity: 0;">
+
+                    </div>
+
+                    <div class="col_three_fifth nobottommargin col_last">
+
+                        <div class="heading-block">
+                            <h3>未来蓝图</h3>
+                            <span>在不远的将来，登月舱会将月球基地建立在其他城市或地区中。你所在的地方，会不会是下一个月球基地的建造地址？</span>
+                        </div>
+
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quod consequuntur quibusdam,
+                            enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia
+                            libero accusantium esse hic, obcaecati, ullam, laboriosam!</p>
+
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti vero, animi suscipit id
+                            facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum
+                            laudantium cum magnam excepturi quod, fuga architecto provident, cupiditate delectus
+                            voluptate eaque! Sit neque ut eum, voluptatibus odit cum dolorum ipsa voluptates inventore
+                            cumque a.</p>
+
+                        <a href="#">Learn more &rarr;</a>
+
+                    </div>
+
+
+
+
+                </div>
+
+                <div class="divider divider-center"><i class="icon-circle-blank"></i></div>
+
+                <h3>即将到来的大事件</h3>
+
+                <div id="posts" class="events small-thumbs">
+
+                    <div class="entry clearfix">
+                        <div class="entry-image">
+                            <a href="#">
+                                <img src="images/events/thumbs/1.jpg"
+                                     alt="Inventore voluptates velit totam ipsa tenetur">
+                                <div class="entry-date">10<span>May</span></div>
+                            </a>
+                        </div>
+                        <div class="entry-c">
+                            <div class="entry-title">
+                                <h2><a href="#">Inventore voluptates velit totam ipsa tenetur</a></h2>
+                            </div>
+                            <ul class="entry-meta clearfix">
+                                <li><span class="label label-warning">Private</span></li>
+                                <li><a href="#"><i class="icon-time"></i> 11:00 - 19:00</a></li>
+                                <li><a href="#"><i class="icon-map-marker2"></i> Melbourne, Australia</a></li>
+                            </ul>
+                            <div class="entry-content">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem,
+                                    dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur
+                                    voluptate rerum molestiae eaque possimus exercitationem eligendi fuga.</p>
+                                <a href="#" class="btn btn-default" disabled="disabled">Buy Tickets</a> <a href="#"
+                                                                                                           class="btn btn-danger">Read
+                                More</a>
+                            </div>
+                        </div>
+                    </div>
+
 
                 </div>
 
             </div>
 
-        </section><!-- #content end -->
 
-        <!-- Footer
-        ============================================= -->
-        <dom-footer></dom-footer>
+        </div>
 
-    </div><!-- #wrapper end -->
+    </section><!-- #content end -->
 
-    <!-- Go To Top
+    <!-- Footer
     ============================================= -->
-    <div id="gotoTop" class="icon-angle-up"></div>
+    <dom-footer></dom-footer>
 
-    <!-- Footer Scripts
-    ============================================= -->
-    <script type="text/javascript" src="js/functions.js"></script>
+</div><!-- #wrapper end -->
+
+<!-- Go To Top
+============================================= -->
+<div id="gotoTop" class="icon-angle-up"></div>
+
+<!-- Footer Scripts
+============================================= -->
+<script type="text/javascript" src="js/functions.js"></script>
 
 </body>
 </html>
