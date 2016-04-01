@@ -65,6 +65,9 @@
         },
         onSlideChangeStart: function(swiper){
             swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
+            if (swiper.activeIndex == 0){
+                playWelcome()
+            }
             if (swiper.activeIndex == 1){
                 playDowhat()
             }
@@ -77,7 +80,10 @@
         }
     });
 
-
+    playWelcome = function(){
+        welcome = HYPE.documents['DYC-M-welcome']
+        welcome.startTimelineNamed('main', welcome.kDirectionForward)
+    }
     playDowhat = function(){
         dowhat = HYPE.documents['DYC-M-dowhat']
         dowhat.startTimelineNamed('main', dowhat.kDirectionForward)
