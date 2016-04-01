@@ -61,7 +61,7 @@
             swiperAnimateCache(swiper); //隐藏动画元素
             swiperAnimate(swiper); //初始化完成开始动画
         },
-        onSlideChangeEnd: function(swiper){
+        onSlideChangeStart: function(swiper){
             swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
             if (swiper.activeIndex == 1){
                 playDowhat()
