@@ -33,8 +33,13 @@
             <script type="text/javascript" charset="utf-8" src="DYC-M/DYC-M.hyperesources/dycm_hype_generated_script.js?24389"></script>
         </div>
 
-        <div class="swiper-slide">Slide 2</div>
-        <div class="swiper-slide">Slide 3</div>
+        <div class="swiper-slide" id="dycmdowhat_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+            <script type="text/javascript" charset="utf-8" src="DYC-M-dowhat/DYC-M-dowhat.hyperesources/dycmdowhat_hype_generated_script.js?22622"></script>
+        </div>
+        <div class="swiper-slide" id="dycmspace_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+            <script type="text/javascript" charset="utf-8" src="DYC-M-space/DYC-M-space.hyperesources/dycmspace_hype_generated_script.js?18303"></script>
+        </div>
+
         <div class="swiper-slide">Slide 4</div>
         <div class="swiper-slide">Slide 5</div>
 
@@ -55,9 +60,27 @@
         },
         onSlideChangeEnd: function(swiper){
             swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
+            if (swiper.activeIndex == 1){
+                playDowhat()
+            }
+            if (swiper.activeIndex == 2){
+                playSpace()
+            }
         }
-
     });
+
+
+    playDowhat = function(){
+        dowhat = HYPE.documents['DYC-M-dowhat']
+        dowhat.startTimelineNamed('main', dowhat.kDirectionForward)
+    }
+    playSpace = function(){
+        space = HYPE.documents['DYC-M-space']
+        space.startTimelineNamed('main', space.kDirectionForward)
+    }
+
+
+
 </script>
 </body>
 </html>
