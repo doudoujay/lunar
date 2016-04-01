@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-Q&amp;A/DYC-M-Q&amp;A.hyperesources/041.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-Q&amp;A/DYC-M-Q&amp;A.hyperesources/042.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-Q&amp;A/DYC-M-Q&amp;A.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-Q&amp;A/DYC-M-Q&amp;A.hyperesources/PIE.htc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-Q&amp;A/DYC-M-Q&amp;A.html" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-Q&amp;A.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-Q&amp;A/DYC-M-Q&amp;A.hyperesources/041.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/041.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-Q&amp;A/DYC-M-Q&amp;A.hyperesources/042.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/042.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-Q&amp;A/DYC-M-Q&amp;A.hyperesources/PIE.htc" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/PIE.htc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.html" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/B41E83-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/B41E83-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/dycmspace_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/dycmspace_hype_generated_script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
@@ -31,8 +34,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48979592">
-              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6938776">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -243,7 +246,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DYC-M-Q&amp;A" />
+              <option name="myItemId" value="DYC-M-QA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -630,7 +633,19 @@
       <option name="project" value="LOCAL" />
       <updated>1459478932807</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="init DYC-M Q&amp;A">
+      <created>1459479363100</created>
+      <option name="number" value="00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1459479363100</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fix space layout!">
+      <created>1459481155484</created>
+      <option name="number" value="00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1459481155484</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -652,10 +667,10 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970026" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5622318" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.4892704" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.4320458" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.42918456" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.56795424" order="7" side_tool="true" content_ui="tabs" x="441" y="430" width="706" height="202" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.57081544" order="7" side_tool="true" content_ui="tabs" x="441" y="430" width="706" height="202" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.50751877" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918256" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -707,8 +722,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="改动feature展示方式" />
-    <MESSAGE value="Chrome is OK&#10;Safari is not OK&#10;Polymer bugs.(The Header is not working)" />
     <MESSAGE value="Replace the header from the Polymer&#10;effect is working right now" />
     <MESSAGE value="change footer alignment" />
     <MESSAGE value="about added pic lib&#10;lunar changed layout" />
@@ -732,7 +745,9 @@
     <MESSAGE value="finsh slice 1,2,3" />
     <MESSAGE value="fix DYC-M" />
     <MESSAGE value="try fix DYC-M" />
-    <option name="LAST_COMMIT_MESSAGE" value="try fix DYC-M" />
+    <MESSAGE value="init DYC-M Q&amp;A" />
+    <MESSAGE value="fix space layout!" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix space layout!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1026,8 +1041,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/m/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48979592">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6938776">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
