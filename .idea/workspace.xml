@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked_2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" />
@@ -29,8 +33,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76744187">
-              <caret line="43" column="101" selection-start-line="43" selection-start-column="101" selection-end-line="43" selection-end-column="101" />
+            <state vertical-scroll-proportion="0.8062016">
+              <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -696,7 +700,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459496147225</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="5. try to fix 重叠">
+      <created>1459496752301</created>
+      <option name="number" value="00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1459496752301</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -710,10 +720,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22246066" sideWeight="0.4924812" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22246066" sideWeight="0.4924812" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29155314" sideWeight="0.45779684" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970026" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5622318" order="7" side_tool="true" content_ui="tabs" />
@@ -773,7 +783,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="换图" />
     <MESSAGE value="90% completed the index page" />
     <MESSAGE value="fix some of the 手机视图margin问题" />
     <MESSAGE value="fix some of the 手机视图margin问题 fix bug" />
@@ -798,7 +807,8 @@
     <MESSAGE value="init slice 5 name fix" />
     <MESSAGE value="1. Logo Drop down effect &#10;2. 取消模糊效果" />
     <MESSAGE value="1. add some small zoom effect" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. add some small zoom effect" />
+    <MESSAGE value="5. try to fix 重叠" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. try to fix 重叠" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1082,8 +1092,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/m/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76744187">
-          <caret line="43" column="101" selection-start-line="43" selection-start-column="101" selection-end-line="43" selection-end-column="101" />
+        <state vertical-scroll-proportion="0.8062016">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
