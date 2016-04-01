@@ -29,8 +29,8 @@
 <!-- Swiper -->
 <div class="swiper-container">
     <div class="swiper-wrapper">
-        <div class="swiper-slide" id="dycm_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
-            <script type="text/javascript" charset="utf-8" src="DYC-M-main/DYC-M.hyperesources/dycm_hype_generated_script.js?24389"></script>
+        <div class="swiper-slide" id="dycmwelcome_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+            <script type="text/javascript" charset="utf-8" src="DYC-M-welcome/DYC-M-welcome.hyperesources/dycmwelcome_hype_generated_script.js?20723"></script>
         </div>
 
         <div class="swiper-slide" id="dycmdowhat_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
@@ -71,6 +71,9 @@
             if (swiper.activeIndex == 2){
                 playSpace()
             }
+            if (swiper.activeIndex == 4){
+                playAbout()
+            }
         }
     });
 
@@ -82,6 +85,10 @@
     playSpace = function(){
         space = HYPE.documents['DYC-M-space']
         space.startTimelineNamed('main', space.kDirectionForward)
+    }
+    playAbout = function(){
+        about = HYPE.documents['DYC-M-about']
+        about.startTimelineNamed('main', about.kDirectionForward)
     }
 
 

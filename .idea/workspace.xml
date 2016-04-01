@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/AF6C5B-restorable.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/HYPE-526.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/HYPE-526.thin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/dycmwelcome_hype_generated_script.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/91C092-restorable.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/HYPE-458.full.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/HYPE-458.thin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/dycm_hype_generated_script.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.html" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01bg.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01circle-1.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01circle-1@2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1_2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01circle.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01circle1.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01circle2.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01content.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01content.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01dot.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01dot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01logo.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/01title.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01title.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/PIE.htc" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/PIE.htc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/DYC-M-main/DYC-M.hyperesources/blank.gif" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
@@ -24,21 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.25">
-              <caret line="45" column="25" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64625853">
-              <caret line="47" column="101" selection-start-line="47" selection-start-column="101" selection-end-line="47" selection-end-column="101" />
+            <state vertical-scroll-proportion="0.76744187">
+              <caret line="43" column="83" selection-start-line="43" selection-start-column="83" selection-end-line="43" selection-end-column="83" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -46,6 +64,16 @@
                 <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DYC-M-welcome.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.875">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -251,43 +279,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="DYC-M-welcome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="DYC-M-space" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="m" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DYC-M-QA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="m" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DYC-M-about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -351,10 +361,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/m" />
+      <recent name="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources" />
       <recent name="$PROJECT_DIR$/m/DYC-M-main" />
       <recent name="$PROJECT_DIR$/m/images/1" />
       <recent name="$PROJECT_DIR$/m/js" />
-      <recent name="$PROJECT_DIR$/m/css" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -704,7 +714,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459484801021</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="init slice 5 name fix">
+      <created>1459485049273</created>
+      <option name="number" value="00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1459485049273</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -781,7 +797,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="changed form to mikecrm" />
     <MESSAGE value="换图  init" />
     <MESSAGE value="不透明nav" />
     <MESSAGE value="换图" />
@@ -806,7 +821,8 @@
     <MESSAGE value="change the title layout and fix QA git" />
     <MESSAGE value="QA git" />
     <MESSAGE value="init slice 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="init slice 5" />
+    <MESSAGE value="init slice 5 name fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="init slice 5 name fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1080,9 +1096,17 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.25">
+        <state vertical-scroll-proportion="-0.5102041">
           <caret line="45" column="25" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="25" />
           <folding />
         </state>
@@ -1090,8 +1114,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/m/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64625853">
-          <caret line="47" column="101" selection-start-line="47" selection-start-column="101" selection-end-line="47" selection-end-column="101" />
+        <state vertical-scroll-proportion="0.76744187">
+          <caret line="43" column="83" selection-start-line="43" selection-start-column="83" selection-end-line="43" selection-end-column="83" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
