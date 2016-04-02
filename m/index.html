@@ -23,29 +23,41 @@
     <script src="../bower_components/amazeui/amazeui-2.5.2/dist/js/amazeui.min.js"></script>
     <script src="../js/jquery.js"></script>
 
+    <!--AVOS-->
+    <script src="js/av-mini-0.6.4.js"></script>
 
 </head>
 <body>
 <!-- Swiper -->
 <div class="swiper-container">
     <div class="swiper-wrapper">
-        <div class="swiper-slide" id="dycmwelcome_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
-            <script type="text/javascript" charset="utf-8" src="DYC-M-welcome/DYC-M-welcome.hyperesources/dycmwelcome_hype_generated_script.js?20723"></script>
+        <div class="swiper-slide" id="dycmwelcome_hype_container"
+             style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+            <script type="text/javascript" charset="utf-8"
+                    src="DYC-M-welcome/DYC-M-welcome.hyperesources/dycmwelcome_hype_generated_script.js?20723"></script>
         </div>
 
-        <div class="swiper-slide" id="dycmdowhat_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
-            <script type="text/javascript" charset="utf-8" src="DYC-M-dowhat/DYC-M-dowhat.hyperesources/dycmdowhat_hype_generated_script.js?22622"></script>
+        <div class="swiper-slide" id="dycmdowhat_hype_container"
+             style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+            <script type="text/javascript" charset="utf-8"
+                    src="DYC-M-dowhat/DYC-M-dowhat.hyperesources/dycmdowhat_hype_generated_script.js?22622"></script>
         </div>
-        <div class="swiper-slide" id="dycmspace_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
-            <script type="text/javascript" charset="utf-8" src="DYC-M-space/DYC-M-space.hyperesources/dycmspace_hype_generated_script.js?18303"></script>
+        <div class="swiper-slide" id="dycmspace_hype_container"
+             style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+            <script type="text/javascript" charset="utf-8"
+                    src="DYC-M-space/DYC-M-space.hyperesources/dycmspace_hype_generated_script.js?18303"></script>
         </div>
 
-        <div class="swiper-slide" id="dycmqa_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
-            <script type="text/javascript" charset="utf-8" src="DYC-M-QA/DYC-M-QA.hyperesources/dycmqa_hype_generated_script.js?42923"></script>
+        <div class="swiper-slide" id="dycmqa_hype_container"
+             style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+            <script type="text/javascript" charset="utf-8"
+                    src="DYC-M-QA/DYC-M-QA.hyperesources/dycmqa_hype_generated_script.js?42923"></script>
         </div>
 
-        <div class="swiper-slide" id="dycmabout_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
-            <script type="text/javascript" charset="utf-8" src="DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js?12028"></script>
+        <div class="swiper-slide" id="dycmabout_hype_container"
+             style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+            <script type="text/javascript" charset="utf-8"
+                    src="DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js?12028"></script>
         </div>
 
     </div>
@@ -55,50 +67,109 @@
 </div>
 
 <script>
+    var countNum;
     var swiper = new Swiper('.swiper-container', {
         pagination: '.swiper-pagination',
         paginationClickable: true,
         direction: 'vertical',
-        onInit: function(swiper){ //Swiper2.x的初始化是onFirstInit
+        onInit: function (swiper) { //Swiper2.x的初始化是onFirstInit
             swiperAnimateCache(swiper); //隐藏动画元素
             swiperAnimate(swiper); //初始化完成开始动画
+
         },
-        onSlideChangeStart: function(swiper){
+        onSlideChangeStart: function (swiper) {
             swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
-            if (swiper.activeIndex == 0){
+            if (swiper.activeIndex == 0) {
                 playWelcome()
             }
-            if (swiper.activeIndex == 1){
+            if (swiper.activeIndex == 1) {
                 playDowhat()
             }
-            if (swiper.activeIndex == 2){
+            if (swiper.activeIndex == 2) {
                 playSpace()
             }
-            if (swiper.activeIndex == 4){
+            if (swiper.activeIndex == 4) {
                 playAbout()
             }
         }
     });
 
-    playWelcome = function(){
+    AVOSQueryInit = function () {
+        AV.initialize('a29q0Xknz8C9zfdbOogwFI7g-gzGzoHsz', 'Feao8RVGHW3KwnldWQSeoUFL');
+
+
+    }
+
+
+    AVOSAddCount = function () {
+        var Count = AV.Object.extend('count');
+        var count = new Count();
+        var query = new AV.Query(Count);
+
+        query.get('56ff30437db2a20059fe9ef3').then(function (count) {
+
+            count.set('count_times', countNum+1);
+            count.save();
+
+        }, function (error) {
+            // 失败了
+        });
+
+    }
+    AVOSGetCount = function () {
+
+        var Count = AV.Object.extend('count');
+        var count = new Count();
+        var query = new AV.Query(Count);
+
+        query.get('56ff30437db2a20059fe9ef3').then(function (count) {
+
+            var times = count.get('count_times');
+            countNum = times;
+
+        }, function (error) {
+            // 失败了
+        });
+
+    }
+
+
+    AVOSQueryInit()
+    AVOSGetCount()
+
+    playWelcome = function () {
         welcome = HYPE.documents['DYC-M-welcome']
         welcome.startTimelineNamed('main', welcome.kDirectionForward)
     }
-    playDowhat = function(){
+    playDowhat = function () {
         dowhat = HYPE.documents['DYC-M-dowhat']
         dowhat.startTimelineNamed('main', dowhat.kDirectionForward)
     }
-    playSpace = function(){
+    playSpace = function () {
         space = HYPE.documents['DYC-M-space']
         space.startTimelineNamed('main', space.kDirectionForward)
     }
-    playAbout = function(){
+    playAbout = function () {
         about = HYPE.documents['DYC-M-about']
-        about.startTimelineNamed('main', about.kDirectionForward)
+        if (about.currentTimeInTimelineNamed('click-button') == 0) {
+            about.startTimelineNamed('main', about.kDirectionForward)
+        }
+
     }
 
 
+    isWeiXin = function (){
+        var ua = window.navigator.userAgent.toLowerCase();
+        if(ua.match(/MicroMessenger/i) == 'micromessenger'){
+            return true;
+            alert("微信用户!")
+        }else{
+            return false;
+        }
+    }
+
 
 </script>
+
 </body>
 </html>
