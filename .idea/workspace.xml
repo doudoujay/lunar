@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/w.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/w.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6538463">
-              <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="169" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.2248062">
+              <caret line="152" column="40" selection-start-line="152" selection-start-column="40" selection-end-line="152" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -36,16 +37,6 @@
                 <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="w.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/m/w.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.88435376">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -148,8 +139,8 @@
         <option value="$PROJECT_DIR$/m/js/app.js" />
         <option value="$PROJECT_DIR$/m/css/app.css" />
         <option value="$PROJECT_DIR$/m/DYC-M/DYC-M.hyperesources/dycm_hype_generated_script.js" />
-        <option value="$PROJECT_DIR$/m/index.html" />
         <option value="$PROJECT_DIR$/m/w.html" />
+        <option value="$PROJECT_DIR$/m/index.html" />
       </list>
     </option>
   </component>
@@ -434,12 +425,6 @@
       <created>1457272644203</created>
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
-    </task>
-    <task id="LOCAL-00007" summary="fix">
-      <created>1457395127264</created>
-      <option name="number" value="00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1457395127264</updated>
     </task>
     <task id="LOCAL-00008" summary="polymer modulelized the footer and header">
       <created>1457397136586</created>
@@ -729,7 +714,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459567494509</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="&#10;Wechat test run 2">
+      <created>1459567612985</created>
+      <option name="number" value="00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1459567612985</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -806,7 +797,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="fixed top bar透明&#10;搜索功能on" />
     <MESSAGE value="delete the extra files" />
     <MESSAGE value="reduce the images size" />
     <MESSAGE value="init mobile redirection" />
@@ -831,7 +821,8 @@
     <MESSAGE value="5. fix the animation" />
     <MESSAGE value="added AVOS&#10;Wechat test" />
     <MESSAGE value="&#10;Wechat test run" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;Wechat test run" />
+    <MESSAGE value="&#10;Wechat test run 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Wechat test run 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1123,8 +1114,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/m/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6538463">
-          <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="169" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.2248062">
+          <caret line="152" column="40" selection-start-line="152" selection-start-column="40" selection-end-line="152" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1132,14 +1123,6 @@
             <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/w.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88435376">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
