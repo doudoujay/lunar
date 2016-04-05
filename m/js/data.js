@@ -46,7 +46,10 @@ AVOSGetCount = function () {
 
 thunmbUp = function () {
     about = HYPE.documents['DYC-M-about']
-    AVOSAddCount()
     about.getElementById('countText').textContent = countNum + 1;
+    about.getElementById('countText_nowechat').textContent = countNum + 1;
+
+    AVOSAddCount()
+
 
 }
