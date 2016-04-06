@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.html" afterPath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/5D1E11-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/5D1E11-restorable.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/dycmdowhat_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/dycmdowhat_hype_generated_script.js" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="17.588236">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3478261">
+              <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -54,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/m/js/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38709676">
-              <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="e#0#36#0" expanded="false" />
               </folding>
@@ -368,24 +365,6 @@
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
     </task>
-    <task id="LOCAL-00014" summary="change google&#10;fix nav">
-      <created>1457619926016</created>
-      <option name="number" value="00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1457619926017</updated>
-    </task>
-    <task id="LOCAL-00015" summary="add calendar">
-      <created>1457692204278</created>
-      <option name="number" value="00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1457692204279</updated>
-    </task>
-    <task id="LOCAL-00016" summary="改动feature展示方式">
-      <created>1457867341310</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1457867341310</updated>
-    </task>
     <task id="LOCAL-00017" summary="Chrome is OK&#10;Safari is not OK&#10;Polymer bugs.(The Header is not working)">
       <created>1457920873152</created>
       <option name="number" value="00017" />
@@ -662,7 +641,25 @@
       <option name="project" value="LOCAL" />
       <updated>1459843649252</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="dowhat layout">
+      <created>1459845539949</created>
+      <option name="number" value="00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1459845539949</updated>
+    </task>
+    <task id="LOCAL-00064" summary="add 成为首席体验官 button without function">
+      <created>1459907123818</created>
+      <option name="number" value="00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1459907123818</updated>
+    </task>
+    <task id="LOCAL-00065" summary="fix the 点赞 blinking problem">
+      <created>1459907435657</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1459907435657</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -739,9 +736,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="finsh slice 1,2,3" />
-    <MESSAGE value="fix DYC-M" />
-    <MESSAGE value="try fix DYC-M" />
     <MESSAGE value="init DYC-M Q&amp;A" />
     <MESSAGE value="fix space layout!" />
     <MESSAGE value="change the title layout and fix QA git" />
@@ -764,7 +758,10 @@
     <MESSAGE value="try no wechat view" />
     <MESSAGE value="add favicon&#10;QA 改文案" />
     <MESSAGE value="文案全部搞定~&#10;点赞的闪烁按钮搞定" />
-    <option name="LAST_COMMIT_MESSAGE" value="文案全部搞定~&#10;点赞的闪烁按钮搞定" />
+    <MESSAGE value="dowhat layout" />
+    <MESSAGE value="add 成为首席体验官 button without function" />
+    <MESSAGE value="fix the 点赞 blinking problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix the 点赞 blinking problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1047,26 +1044,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/m/js/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#36#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/m/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.588236">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3478261">
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/js/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38709676">
-          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#36#0" expanded="false" />
           </folding>
         </state>
       </provider>
