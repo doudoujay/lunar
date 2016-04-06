@@ -2,7 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/01bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/01circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/01circle1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/01circle2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/01content.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/01dot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/01logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/01title.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/1/登月舱01_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/2/02content1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/2/02content2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/2/02line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/2/02photo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/2/02photo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/2/02title1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/2/02title2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/2/登月舱02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/2/登月舱02_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/03cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/03content1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/03content2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/03line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/03photo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/03shape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/03title1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/03title2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/登月舱03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/3/登月舱03_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/4/041.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/4/042.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/4/04bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/4/登月舱04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/4/登月舱04_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05bg2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05bg3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05bg4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05button1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05button2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05button_clicked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05content1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05content2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05content3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05content4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05content5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/05title.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/登月舱05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/登月舱050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/5/登月舱05_spec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/WAP规范.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/images/wap.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/m/images/bitbug_favicon.ico" afterPath="$PROJECT_DIR$/images/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
@@ -27,8 +84,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2753623">
-              <caret line="103" column="18" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.67391306">
+              <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,6 +94,13 @@
                 <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/favicon.ico">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -232,20 +296,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -277,9 +327,9 @@
       <recent name="$PROJECT_DIR$/m/images/1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/m/js" />
       <recent name="$PROJECT_DIR$/m/css" />
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/index" />
       <recent name="$PROJECT_DIR$/components" />
     </key>
@@ -887,11 +937,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/wap.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/m/js/maps/swiper.min.js.map">
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
@@ -951,41 +996,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/1/01bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/1/01logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/1/01circle1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/1/01circle2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43010753">
           <caret line="197" column="27" selection-start-line="197" selection-start-column="27" selection-end-line="197" selection-end-column="27" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/1/01content.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/1/登月舱01_spec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/m/js/av-mini-0.6.4.js">
@@ -1022,21 +1037,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/1/01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/1/01dot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/images/1/01circle.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37414965">
@@ -1055,10 +1055,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/m/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2753623">
-          <caret line="103" column="18" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.67391306">
+          <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
