@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="css/swiper.min.css">
     <link rel="stylesheet" href="css/animate.min.css">
 
-
     <link rel="shortcut icon" href="../images/favicon.ico"/>
 
     <link rel="bookmark" href="../images/favicon.ico"/>
@@ -17,17 +16,19 @@
 
     <!-- Swiper JS -->
     <script src="js/swiper.min.js"></script>
-
+    <script src="js/swiper.animate1.0.2.min.js"></script>
 
 
     <!-- app styles -->
     <link rel="stylesheet" href="css/app.css">
 
 
+
     <!--Amaze UI-->
     <link rel="stylesheet" href="../bower_components/amazeui/amazeui-2.5.2/dist/css/amazeui.min.css">
     <script src="../bower_components/amazeui/amazeui-2.5.2/dist/js/amazeui.min.js"></script>
     <script src="../js/jquery.js"></script>
+
 
     <!--AVOS-->
     <script src="js/av-mini-0.6.4.js"></script>
@@ -76,7 +77,6 @@
 </div>
 
 <script>
-
     var swiper = new Swiper('.swiper-container', {
         pagination: '.swiper-pagination',
         paginationClickable: true,
@@ -84,7 +84,6 @@
         onInit: function (swiper) { //Swiper2.x的初始化是onFirstInit
             swiperAnimateCache(swiper); //隐藏动画元素
             swiperAnimate(swiper); //初始化完成开始动画
-
         },
         onSlideChangeStart: function (swiper) {
             swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
@@ -99,17 +98,12 @@
             }
             if (swiper.activeIndex == 4) {
                 playAbout()
-
             }
         }
     });
-
     AVOSQueryInit()
     AVOSGetCount()
-
     //    TODO: 添加字体
-
-
 </script>
 
 </body>
