@@ -3,9 +3,9 @@
 
 <dom-module id="dom-header">
     <template>
-        <header id="header" class="semi-transparent full-header" data-sticky-class="no-dark">
+        <header id="header" class="full-header" data-sticky-class="no-dark">
 
-            <div id="header-wrap" >
+            <div id="header-wrap">
 
                 <div class="container clearfix">
 
@@ -25,7 +25,7 @@
                     <nav id="primary-menu" class="dark">
 
                         <ul>
-                            <li id="dom-index"><a href="/index.html">
+                            <li id="dom-index" class="current"><a href="/index.html">
                                 <div>主页</div>
                             </a>
                             </li>
@@ -91,6 +91,7 @@
         ready: function(){
             if(this.current != ''){
                 document.getElementById(this.current).className = 'current';
+
             }
 
         }
