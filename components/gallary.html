@@ -4,7 +4,7 @@
 
 <dom-module id="dom-gallary">
     <template>
-        <section >
+        <section>
 
             <div class="content-wrap">
 
@@ -34,8 +34,12 @@
                     ============================================= -->
                     <div id="portfolio" class="portfolio-2 portfolio-masonry clearfix">
 
-                        <dom-gallary-component></dom-gallary-component>
-
+                        <dom-gallary-component pic_url="images/gallary/event-1.jpg"
+                                               class="portfolio-item pf-events"></dom-gallary-component>
+                        <dom-gallary-component pic_url="images/gallary/event-2.jpg"
+                                               class="portfolio-item pf-events"></dom-gallary-component>
+                        <dom-gallary-component pic_url="images/gallary/event-3.jpg"
+                                               class="portfolio-item pf-events"></dom-gallary-component>
 
 
                     </div><!-- #portfolio end -->
@@ -44,27 +48,27 @@
                     ============================================= -->
                     <script type="text/javascript">
 
-                        jQuery(window).load(function(){
+                        jQuery(window).load(function () {
 
                             var $container = $('#portfolio');
 
-                            $container.isotope({ transitionDuration: '0.65s' });
+                            $container.isotope({transitionDuration: '0.65s'});
 
-                            $('#portfolio-filter a').click(function(){
+                            $('#portfolio-filter a').click(function () {
                                 $('#portfolio-filter li').removeClass('activeFilter');
                                 $(this).parent('li').addClass('activeFilter');
                                 var selector = $(this).attr('data-filter');
-                                $container.isotope({ filter: selector });
+                                $container.isotope({filter: selector});
                                 return false;
                             });
 
-                            $('#portfolio-shuffle').click(function(){
+                            $('#portfolio-shuffle').click(function () {
                                 $container.isotope('updateSortData').isotope({
                                     sortBy: 'random'
                                 });
                             });
 
-                            $(window).resize(function() {
+                            $(window).resize(function () {
                                 $container.isotope('layout');
                             });
 
@@ -83,5 +87,8 @@
 <script>
     Polymer({
         is: "dom-gallary",
+        ready: function () {
+
+        }
     });
 </script>

@@ -3,13 +3,13 @@
 
 <dom-module id="dom-gallary-component">
     <template>
-        <article class="portfolio-item pf-events">
+        <article >
             <div class="portfolio-image">
                 <a href="portfolio-single.html">
-                    <img src="/images/gallary/event-1.jpg" class="img-rounded">
+                    <img src={{pic_url}} class="img-rounded">
                 </a>
                 <div class="portfolio-overlay">
-                    <a href="/images/gallary/event-1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                    <a href={{pic_url}} class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
                     <a href="/" class="right-icon"><i class="icon-home"></i></a>
                 </div>
             </div>
@@ -21,5 +21,10 @@
 <script>
     Polymer({
         is: "dom-gallary-component",
+        properties: {
+            pic_url: String
+
+        }
+
     });
 </script>
