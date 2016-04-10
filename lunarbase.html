@@ -29,6 +29,7 @@
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
 
+
     <!--Polymer-->
     <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
     <link rel="import" href="components/header.html">
@@ -109,8 +110,6 @@
                     </div><!-- #top-search end -->
 
 
-
-
                 </nav><!-- #primary-menu end -->
 
             </div>
@@ -127,7 +126,8 @@
 
             <dom-pagetitle></dom-pagetitle>
 
-            <div class="section notopmargin  nobottompadding dark" style="background-image: url('images/index/new-5.jpg'); background-size: cover">
+            <div class="section notopmargin  nobottompadding dark"
+                 style="background-image: url('images/index/new-5.jpg'); background-size: cover">
                 <div class="container clearfix ">
 
                     <div class="heading-block center">
@@ -147,16 +147,12 @@
             </div>
 
 
-
             <div class="divider divider-center"><i class="icon-circle-blank"></i></div>
 
             <div class="container clearfix" style="padding-top: 80px">
 
 
                 <div class="clear"></div>
-
-
-
 
 
                 <div class="container clearfix">
@@ -191,7 +187,7 @@
 
                     </div>
 
-                    <div class="col-md-7  col_last center" >
+                    <div class="col-md-7  col_last center">
                         <img src="images/index/icon-location.png" class="img-rounded" style="max-width: 220px" alt="">
                     </div>
 
@@ -214,8 +210,6 @@
 
 
                     </div>
-
-
 
 
                 </div>
@@ -279,7 +273,16 @@
 <script type="text/javascript" src="js/functions.js"></script>
 
 <!--baidu search-->
-<script type="text/javascript">(function(){document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E'));var bdcs = document.createElement('script');bdcs.type = 'text/javascript';bdcs.async = true;bdcs.src = 'http://znsv.baidu.com/customer_search/api/js?sid=17406763442287518241' + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date()/3600000);var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bdcs, s);})();</script>
+<script type="text/javascript">(function () {
+    document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E'));
+    var bdcs = document.createElement('script');
+    bdcs.type = 'text/javascript';
+    bdcs.async = true;
+    bdcs.src = 'http://znsv.baidu.com/customer_search/api/js?sid=17406763442287518241' + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date() / 3600000);
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(bdcs, s);
+})();
+</script>
 
 
 </body>
