@@ -6,8 +6,6 @@ var countNum;
 
 AVOSQueryInit = function () {
     AV.initialize('a29q0Xknz8C9zfdbOogwFI7g-gzGzoHsz', 'Feao8RVGHW3KwnldWQSeoUFL');
-
-
 }
 
 
