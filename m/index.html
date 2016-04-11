@@ -13,6 +13,8 @@
 
     <link rel="bookmark" href="../images/favicon.ico"/>
 
+
+
     <script src="../js/jweixin-1.0.0.js"></script>
 
 
@@ -22,10 +24,18 @@
 
 
 
+
+
     <!-- app styles -->
     <link rel="stylesheet" href="css/app.css">
 
 
+    <link rel="stylesheet" href="../bower_components/jquery.avgrund/style/avgrund.css">
+    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="../bower_components/jquery.avgrund/jquery.avgrund.min.js"></script>
+
+    <link rel="stylesheet" href="css/animate.min.css">
+    <script src="js/animatedModal.min.js"></script>
 
 
 
@@ -44,6 +54,7 @@
              style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
             <script type="text/javascript" charset="utf-8"
                     src="DYC-M-welcome/DYC-M-welcome.hyperesources/dycmwelcome_hype_generated_script.js?20723"></script>
+
         </div>
 
         <div class="swiper-slide" id="dycmdowhat_hype_container"
@@ -72,6 +83,21 @@
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
+    <!--Call your modal-->
+
+
+    <!--DEMO01-->
+    <div id="animatedModal">
+        <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID  class="close-animatedModal" -->
+        <div class="close-animatedModal">
+            CLOSE MODAL
+        </div>
+
+        <div class="modal-content">
+            <!--Your modal content goes here-->
+        </div>
+    </div>
+
 
 </div>
 
@@ -83,6 +109,7 @@
         onInit: function (swiper) { //Swiper2.x的初始化是onFirstInit
             swiperAnimateCache(swiper); //隐藏动画元素
             swiperAnimate(swiper); //初始化完成开始动画
+
         },
         onSlideChangeStart: function (swiper) {
             swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
@@ -97,11 +124,16 @@
             }
             if (swiper.activeIndex == 4) {
                 playAbout()
+
             }
         }
     });
     AVOSQueryInit()
     AVOSGetCount()
+
+
+
+
     //    TODO: 添加字体
 </script>
 
