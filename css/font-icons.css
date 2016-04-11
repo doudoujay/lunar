@@ -34,8 +34,8 @@
 /*added the custum font*/
 @font-face {
     font-family: 'lantinghei';
-    src: url('fonts/lantinghei.ttf');
-    src: url('fonts/lantinghei.ttf') format('truetype');
+    src: url('fonts/DroidSansFallback.ttf');
+    src: url('fonts/DroidSansFallback.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
