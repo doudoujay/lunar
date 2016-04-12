@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_iconLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/A1C12F-restorable.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/HYPE-526.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/HYPE-526.thin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/PIE.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/indexapp_hype_generated_script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/footer.html" afterPath="$PROJECT_DIR$/components/footer.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85714287">
-              <caret line="298" column="46" selection-start-line="298" selection-start-column="46" selection-end-line="298" selection-end-column="46" />
+            <state vertical-scroll-proportion="-7.4117646">
+              <caret line="298" column="86" selection-start-line="298" selection-start-column="86" selection-end-line="298" selection-end-column="86" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -122,6 +109,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.73717946">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -184,7 +181,6 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/components/gallary_component.html" />
         <option value="$PROJECT_DIR$/lunarbase.html" />
-        <option value="$PROJECT_DIR$/components/footer.html" />
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/m/js/data.js" />
         <option value="$PROJECT_DIR$/m/test.html" />
@@ -197,6 +193,7 @@
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/components/index-app-backup.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/components/footer.html" />
       </list>
     </option>
   </component>
@@ -277,78 +274,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HYPE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HYPE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index-app.hyperesources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -483,18 +408,6 @@
       <created>1457272644203</created>
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
-    </task>
-    <task id="LOCAL-00034" summary="init mobile redirection">
-      <created>1459319717760</created>
-      <option name="number" value="00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1459319717760</updated>
-    </task>
-    <task id="LOCAL-00035" summary="fix init mobile redirection">
-      <created>1459319925119</created>
-      <option name="number" value="00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1459319925119</updated>
     </task>
     <task id="LOCAL-00036" summary="test index h5">
       <created>1459321910448</created>
@@ -778,7 +691,19 @@
       <option name="project" value="LOCAL" />
       <updated>1460473697557</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="fix the index-app bug again">
+      <created>1460473804699</created>
+      <option name="number" value="00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1460473804699</updated>
+    </task>
+    <task id="LOCAL-00084" summary="reduce the image size">
+      <created>1460474093737</created>
+      <option name="number" value="00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1460474093737</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -855,8 +780,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="临时修复宇航员的layout" />
-    <MESSAGE value="get the thunmbUp() function done!" />
     <MESSAGE value="try no wechat view" />
     <MESSAGE value="add favicon&#10;QA 改文案" />
     <MESSAGE value="文案全部搞定~&#10;点赞的闪烁按钮搞定" />
@@ -880,7 +803,9 @@
     <MESSAGE value="the new index" />
     <MESSAGE value="fix the white bug" />
     <MESSAGE value="fix the index-app bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix the index-app bug" />
+    <MESSAGE value="fix the index-app bug again" />
+    <MESSAGE value="reduce the image size" />
+    <option name="LAST_COMMIT_MESSAGE" value="reduce the image size" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1039,14 +964,6 @@
           <folding>
             <marker date="1425019836000" expanded="true" signature="52225:52269" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1286,8 +1203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85714287">
-          <caret line="298" column="46" selection-start-line="298" selection-start-column="46" selection-end-line="298" selection-end-column="46" />
+        <state vertical-scroll-proportion="-7.4117646">
+          <caret line="298" column="86" selection-start-line="298" selection-start-column="86" selection-end-line="298" selection-end-column="86" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1297,6 +1214,14 @@
             <element signature="n#style#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73717946">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
