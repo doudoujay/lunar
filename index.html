@@ -24,6 +24,7 @@
     ============================================= -->
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
 
     <!--Amazeui-->
     <link rel="stylesheet" href="bower_components/amazeui/amazeui-2.5.2/dist/css/amazeui.min.css">
@@ -32,13 +33,12 @@
     <!--TODO: weixin share customized-->
 
 
-
     <!--Redirect to mobile-->
     <script src="js/redirection-mobile.js"></script>
     <script>
-        SA.redirection_mobile ({
-            mobile_url : "cn.dengyuecang.com/m",
-            mobile_prefix : "https"
+        SA.redirection_mobile({
+            mobile_url: "cn.dengyuecang.com/m",
+            mobile_prefix: "https"
         });
     </script>
     <!-- Document Title
@@ -50,6 +50,7 @@
     <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
     <link rel="import" href="components/header.html">
     <link rel="import" href="components/footer.html">
+    <link rel="import" href="components/index-app.html">
 
 
 </head>
@@ -122,7 +123,6 @@
                     </div><!-- #top-search end -->
 
 
-
                 </nav><!-- #primary-menu end -->
 
 
@@ -143,7 +143,8 @@
                         <div class="slider-caption slider-caption-center">
 
 
-                            <img src="images/index/web_txt.png" style="width: 70%; height: 70%" data-caption-animate="fadeInUp">
+                            <img src="images/index/web_txt.png" style="width: 70%; height: 70%"
+                                 data-caption-animate="fadeInUp">
                             <h3 data-caption-animate="bounceIn" data-caption-delay="200">探索不止 / 拥抱未来</h3>
                         </div>
                     </div>
@@ -272,189 +273,126 @@
     ============================================= -->
     <section id="content">
 
-        <div class="content-wrap notoppadding">
-
+        <div class="content-wrap notoppadding nobottompadding">
             <div class="section full-screen nomargin noborder"
-                 style="background-image: url('images/index/bg-front.png'); background-size: cover; background-color: white">
-                <div class="vertical-middle">
-                    <div class="container clearfix">
-                        <div class="col-md-8 center topmargin">
-                            <div class=" topmargin ">
-                                <h1>一个属于高中生的社区</h1>
-                            </div>
-                            <p class="lead ">登月舱正与高中生们一起建立这个拥有自主探索文化的社区。我们拥抱项目制学习，相信最好的学习体验发生在做自己热爱并认同的事情当中。</p>
-                        </div>
+                 style="background-size: cover; background-color: white">
 
-                        <div class="col-md-4">
-
-                            <div class="right">
-                                <img src="images/index/heart.gif"
-                                     data-animate="fadeInUp" data-delay="100" alt="Chrome">
-                                <!--<img src="images/services/main-fmobile.png" style="position: absolute; top: 0; left: 0;"-->
-                                <!--data-animate="fadeInUp" data-delay="400" alt="iPad">-->
-                            </div>
-
-                        </div>
-
-                    </div>
+                <div id="indexapp_hype_container"
+                     style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite"
+                     class="col-md-8 col-md-offset-2">
+                    <script type="text/javascript" charset="utf-8"
+                            src="../HYPE/index-app/index-app.hyperesources/indexapp_hype_generated_script.js?15065"></script>
                 </div>
             </div>
-
-
-            <div class="section full-screen nomargin noborder"
-                 style="background-image: url('images/index/02.png'); background-size: cover">
-                <div class="vertical-middle">
-                    <div class="container clearfix">
-
-                        <div class="col-md-5 img-rounded modal-padding bottommargin-sm"
-                             style="background: url('images/index/04.png');background-repeat: no-repeat;background-size: cover; background-position: center; opacity: 0.6">
-
-                            <div class="emphasis-title">
-                                <h2><i class="i-plain color i-large icon-line2-energy inline-block"></i>关于我们</h2>
-
-                                <h3 class="topmargin-lg">登月舱是什么?一个属于高中生的探索性实践社区</h3>
-
-                            </div>
-
-
-                        </div>
-
-                        <div class="col-md-offset-1 col-md-6 center">
-
-                            <img src="images/index/whydo-01.jpg" class="img-rounded" alt="">
-
-                        </div>
-
-                    </div>
+            <div class="section fullscreen noborder am-g center"
+                 style="background-image:url('images/index/page3-bg.png');background-size: cover; background-color: white;">
+                <div class="am-u-md-12">
+                    <img src="images/index/page3_txt1.png" class="am-u-md-2 am-u-md-offset-5">
                 </div>
-            </div>
-            <div class="section full-screen nomargin noborder"
-                 style="background-image: url('/images/index/01.jpg'); background-size: cover">
-                <div class="vertical-middle">
-                    <div class="container clearfix">
-                        <div class="col-md-6 center bottommargin-sm">
-
-                            <img src="images/index/whydo-02.jpg" class="img-rounded" alt="">
-
-                        </div>
-
-                        <div class="col-md-offset-1 col-md-5 nobottommargin img-rounded modal-padding "
-                             style="background: url('images/index/04.png'); background-size: cover; background-position: center; background-repeat: no-repeat;opacity: 0.6">
-
-                            <div class="emphasis-title">
-                                <h2><i class="i-plain color i-large icon-line2-screen-desktop inline-block"></i>项目理念</h2>
-                                <h3 class="topmargin-sm">在这个技术爆炸的时代，我们需要挖掘自身的潜能来面对十分不确定的未来。</h3>
-                            </div>
-
-                        </div>
-
-                    </div>
+                <div class="am-u-md-12 am-padding-top">
+                    <img src="images/index/page3_txt2.png" class="am-u-md-2 am-u-md-offset-5">
                 </div>
-            </div>
-            <div class="section full-screen nomargin noborder"
-                 style="background-image: url('images/index/03.png'); background-size: cover">
-                <div class="vertical-middle">
-                    <div class="container clearfix">
+                <div class="col-md-10 col-md-offset-1 am-padding-top-lg">
 
-                        <div class="col-md-5 nobottommargin img-rounded modal-padding bottommargin-sm"
-                             style="background: url('images/index/04.png');background-size: cover; background-position: center; background-repeat: no-repeat;opacity: 0.6">
+                    <img class="col-md-4" src="images/index/page3_pic1.png">
+                    <img class="col-md-4" src="images/index/page3_pic2.png">
+                    <img class="col-md-4" src="images/index/page3_pic3.png">
 
-                            <div class="emphasis-title">
-                                <h2><i class="i-plain color i-large icon-line2-badge inline-block"></i>月球基地</h2>
-                                <h3 class="topmargin-sm">一个完全属于高中生,却向全社会开放的空间。</h3>
-                            </div>
 
-                        </div>
-                        <div class="col-md-offset-1 col-md-6 center">
-
-                            <img src="images/index/_DSC2929.jpg" class="img-rounded" alt="">
-
-                        </div>
-
-                    </div>
                 </div>
+                <div class="col-md-8 col-md-offset-2 am-padding-bottom-xl am-padding-top-xl">
+                    <img src="images/index/page3_txt3.png" alt="">
+                </div>
+
+
             </div>
 
-            <div class="container clearfix">
+            <div class="content-wrap" style="background-color: #F2F2F2">
 
-                <div class="row topmargin-lg bottommargin-sm">
+                <div class="container clearfix" style="background-color: #F2F2F2">
 
-                    <div class="heading-block center">
-                        <h2>你懂的</h2>
-                        <span class="divcenter">嘿嘿嘿</span>
+                    <!-- Postcontent
+                    ============================================= -->
+                    <div class="col-md-6">
+                        <h1 class="center">欢迎来骚扰阿舱</h1>
+                        <h3 class="nomargin" title="Phone Number"><img src="images/index/contact_iconPhone.png"> (91)
+                            8547 632521</h3><br>
+                        <h3 class="nomargin" title="Fax"><img src="images/index/contact_iconAdress.png">
+                            北京市海淀区大泥湾路北大附中南楼月球基地</h3><br>
+                        <h3 class="nomargin" title="Email Address"><img src="images/index/contact_iconEmail.png"> <a
+                                href="mailto:hi@dengyuecang.com">hi@dengyuecang.com</h3></a>
+                        <!--TODO: add the contact form-->
+
+                        <div class="divider"></div>
+
+                        <div id="contact-form-result" data-notify-type="success"
+                             data-notify-msg="<i class=icon-ok-sign></i> 成功发送给阿舱啦~"></div>
+
+                        <form class="nobottommargin" id="template-contactform" name="template-contactform"
+                              action="include/sendemail.php" method="post">
+
+                            <div class="form-process"></div>
+
+                            <div class="col_half">
+                                <input type="text" placeholder="姓名" id="template-contactform-name"
+                                       name="template-contactform-name" value="" class="sm-form-control required"/>
+                            </div>
+
+                            <div class="col_half col_last">
+                                <input type="tel" placeholder="电话" id="template-contactform-email"
+                                       name="template-contactform-email" value="" class="required sm-form-control"/>
+                            </div>
+
+                            <div class="col_full">
+                                <textarea class="required sm-form-control" placeholder="说些什么..."
+                                          id="template-contactform-message" name="template-contactform-message" rows="5"
+                                          cols="30"></textarea>
+                            </div>
+
+                            <div class="col_full hidden">
+                                <input type="text" id="template-contactform-botcheck"
+                                       name="template-contactform-botcheck" value="" class="sm-form-control"/>
+                            </div>
+
+                            <div class="col_full">
+                                <button name="submit" type="submit" id="submit-button" tabindex="5" value="Submit"
+                                        class="button button-3d nomargin">发送
+                                </button>
+                            </div>
+
+                        </form>
+                        <!--TODO: Fix the send email func-->
+                        <script type="text/javascript">
+
+                            $("#template-contactform").validate({
+                                submitHandler: function (form) {
+                                    $('.form-process').fadeIn();
+                                    $(form).ajaxSubmit({
+                                        target: '#contact-form-result',
+                                        success: function () {
+                                            $('.form-process').fadeOut();
+                                            $('#template-contactform').find('.sm-form-control').val('');
+                                            $('#contact-form-result').attr('data-notify-msg', $('#contact-form-result').html()).html('');
+                                            SEMICOLON.widget.notifications($('#contact-form-result'));
+                                        }
+                                    });
+                                }
+                            });
+
+
+                        </script>
                     </div>
 
-                    <div class="col-md-4 col-sm-6 bottommargin">
 
-                        <div class="feature-box fbox-right topmargin" data-animate="fadeIn">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-line-heart"></i></a>
-                            </div>
-                            <h3>你懂的</h3>
-                            <p>嘿嘿嘿</p>
-                        </div>
-
-                        <div class="feature-box fbox-right topmargin" data-animate="fadeIn" data-delay="200">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-line-paper"></i></a>
-                            </div>
-                            <h3>你懂的</h3>
-                            <p>嘿嘿嘿</p>
-                        </div>
-
-                        <div class="feature-box fbox-right topmargin" data-animate="fadeIn" data-delay="400">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-line-layers"></i></a>
-                            </div>
-                            <h3>你懂的</h3>
-                            <p>嘿嘿嘿</p>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-3 hidden-sm topmargin bottommargin center leftmargin-sm rightmargin-sm"
-                         data-animate="pulse">
-                        <img src="images/index/logo-hans-4.png" alt="DYC">
-                    </div>
-
-                    <div class="col-md-4 col-sm-6 bottommargin">
-
-                        <div class="feature-box topmargin" data-animate="fadeIn">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-line-power"></i></a>
-                            </div>
-                            <h3>你懂的</h3>
-                            <p>嘿嘿嘿</p>
-                        </div>
-
-                        <div class="feature-box topmargin" data-animate="fadeIn" data-delay="200">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-line-check"></i></a>
-                            </div>
-                            <h3>你懂的</h3>
-                            <p>嘿嘿嘿</p>
-                        </div>
-
-                        <div class="feature-box topmargin" data-animate="fadeIn" data-delay="400">
-                            <div class="fbox-icon">
-                                <a href="#"><i class="icon-bulb"></i></a>
-                            </div>
-                            <h3>你懂的</h3>
-                            <p>嘿嘿嘿</p>
-                        </div>
-
-                    </div>
+                    <!-- Sidebar
+                    ============================================= -->
+                    <div class="col-md-6 col_last nobottommargin center">
+                        <img src="images/index/contact_map.png" alt="">
+                    </div><!-- .sidebar end -->
 
                 </div>
 
             </div>
-
-
-            <a class="button button-full center tright topmargin footer-stick" href="/contact.html">
-                <div class="container clearfix">
-                    联系我们<i class="icon-caret-right" style="top:4px;"></i>
-                </div>
-            </a>
 
 
         </div>
