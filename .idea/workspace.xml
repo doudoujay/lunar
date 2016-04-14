@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/.font-spider/fontawesome-webfont" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/.font-spider/DroidSansFallback" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/DroidSansFallback.ttf" afterPath="$PROJECT_DIR$/css/fonts/DroidSansFallback.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.eot" afterPath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.woff" afterPath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-icons.eot" afterPath="$PROJECT_DIR$/css/fonts/font-icons.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-icons.ttf" afterPath="$PROJECT_DIR$/css/fonts/font-icons.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-icons.woff" afterPath="$PROJECT_DIR$/css/fonts/font-icons.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/lined-icons.eot" afterPath="$PROJECT_DIR$/css/fonts/lined-icons.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/lined-icons.woff" afterPath="$PROJECT_DIR$/css/fonts/lined-icons.woff" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="删掉一些不需要的栏目">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.svg" afterPath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/font-icons.svg" afterPath="$PROJECT_DIR$/css/fonts/font-icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/lined-icons.svg" afterPath="$PROJECT_DIR$/css/fonts/lined-icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,97 +24,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.4117646">
-              <caret line="298" column="86" selection-start-line="298" selection-start-column="86" selection-end-line="298" selection-end-column="86" />
+            <state vertical-scroll-proportion="0.67948717">
+              <caret line="76" column="66" selection-start-line="76" selection-start-column="66" selection-end-line="76" selection-end-column="66" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/app.js">
+      <file leaf-file-name="lunar-page3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/m/lunar-page3/lunar-page3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="81" selection-start-line="4" selection-start-column="81" selection-end-line="4" selection-end-column="81" />
+            <state vertical-scroll-proportion="-11.875">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swiper.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/m/css/swiper.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="5.3137255">
+              <caret line="14" column="3667" selection-start-line="14" selection-start-column="3667" selection-end-line="14" selection-end-column="3667" />
               <folding>
-                <element signature="e#0#37#0" expanded="false" />
+                <element signature="e#2932#3190#2" expanded="true" />
+                <element signature="e#3331#3589#2" expanded="true" />
+                <element signature="e#3709#3967#2" expanded="true" />
+                <element signature="e#4047#4305#2" expanded="true" />
+                <element signature="e#4446#4704#2" expanded="true" />
+                <element signature="e#4824#5082#2" expanded="true" />
+                <element signature="e#14025#15472#2" expanded="true" />
+                <element signature="e#15627#17071#2" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-app.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/index-app.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="11" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-app-backup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/index-app-backup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.625">
-              <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sendemail.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/sendemail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.375">
-              <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="199" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.8333335">
-              <caret line="10231" column="22" selection-start-line="10231" selection-start-column="22" selection-end-line="10231" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/components/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8974359">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -193,23 +128,23 @@
         <option value="$PROJECT_DIR$/components/topsearch.html" />
         <option value="$PROJECT_DIR$/css/fonts.css" />
         <option value="$PROJECT_DIR$/components/gallary.html" />
-        <option value="$PROJECT_DIR$/app.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/components/gallary_component.html" />
-        <option value="$PROJECT_DIR$/lunarbase.html" />
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/m/js/data.js" />
         <option value="$PROJECT_DIR$/m/test.html" />
         <option value="$PROJECT_DIR$/m/js/app.js" />
-        <option value="$PROJECT_DIR$/m/index.html" />
-        <option value="$PROJECT_DIR$/css/font-icons.css" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/components/index-app.html" />
-        <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/components/index-app-backup.html" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/css/font-icons.css" />
+        <option value="$PROJECT_DIR$/app.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lunarbase.html" />
+        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/components/footer.html" />
+        <option value="$PROJECT_DIR$/m/index.html" />
       </list>
     </option>
   </component>
@@ -289,7 +224,107 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-page3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-page2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="videos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -478,48 +513,6 @@
       <created>1457272644203</created>
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
-    </task>
-    <task id="LOCAL-00037" summary="First page finished">
-      <created>1459436940175</created>
-      <option name="number" value="00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1459436940175</updated>
-    </task>
-    <task id="LOCAL-00038" summary="finsh slice 1,2,3">
-      <created>1459477712447</created>
-      <option name="number" value="00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1459477712447</updated>
-    </task>
-    <task id="LOCAL-00039" summary="fix DYC-M">
-      <created>1459478213081</created>
-      <option name="number" value="00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1459478213081</updated>
-    </task>
-    <task id="LOCAL-00040" summary="try fix DYC-M">
-      <created>1459478932807</created>
-      <option name="number" value="00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1459478932807</updated>
-    </task>
-    <task id="LOCAL-00041" summary="init DYC-M Q&amp;A">
-      <created>1459479363100</created>
-      <option name="number" value="00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1459479363100</updated>
-    </task>
-    <task id="LOCAL-00042" summary="fix space layout!">
-      <created>1459481155484</created>
-      <option name="number" value="00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1459481155484</updated>
-    </task>
-    <task id="LOCAL-00043" summary="change the title layout and fix QA git">
-      <created>1459481688102</created>
-      <option name="number" value="00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1459481688102</updated>
     </task>
     <task id="LOCAL-00044" summary="QA git">
       <created>1459482081501</created>
@@ -773,7 +766,49 @@
       <option name="project" value="LOCAL" />
       <updated>1460474421021</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="zip the font">
+      <created>1460510323944</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1460510323944</updated>
+    </task>
+    <task id="LOCAL-00087" summary="fix the webfont zip problem">
+      <created>1460527055531</created>
+      <option name="number" value="00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1460527055531</updated>
+    </task>
+    <task id="LOCAL-00088" summary="试一下改contact us">
+      <created>1460528564046</created>
+      <option name="number" value="00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1460528564046</updated>
+    </task>
+    <task id="LOCAL-00089" summary="删掉一些不需要的栏目">
+      <created>1460531007123</created>
+      <option name="number" value="00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1460531007123</updated>
+    </task>
+    <task id="LOCAL-00090" summary="add m page2">
+      <created>1460609999057</created>
+      <option name="number" value="00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1460609999058</updated>
+    </task>
+    <task id="LOCAL-00091" summary="fix page2">
+      <created>1460612348305</created>
+      <option name="number" value="00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1460612348305</updated>
+    </task>
+    <task id="LOCAL-00092" summary="add page3">
+      <created>1460612481885</created>
+      <option name="number" value="00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1460612481885</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -850,13 +885,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="add favicon&#10;QA 改文案" />
-    <MESSAGE value="文案全部搞定~&#10;点赞的闪烁按钮搞定" />
-    <MESSAGE value="dowhat layout" />
-    <MESSAGE value="add 成为首席体验官 button without function" />
-    <MESSAGE value="fix the 点赞 blinking problem" />
-    <MESSAGE value="favicon" />
-    <MESSAGE value="try fix wechat sharebg bug" />
     <MESSAGE value="delete makeschool&#10;Add lantinghei font" />
     <MESSAGE value="gallary structure init&#10;app.js wx&#10;change字体&#10;" />
     <MESSAGE value="干掉灰色footer 上面的条条" />
@@ -875,7 +903,14 @@
     <MESSAGE value="fix the index-app bug again" />
     <MESSAGE value="reduce the image size" />
     <MESSAGE value="footer高度瘦身" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer高度瘦身" />
+    <MESSAGE value="zip the font" />
+    <MESSAGE value="fix the webfont zip problem" />
+    <MESSAGE value="试一下改contact us" />
+    <MESSAGE value="删掉一些不需要的栏目" />
+    <MESSAGE value="add m page2" />
+    <MESSAGE value="fix page2" />
+    <MESSAGE value="add page3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add page3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -884,21 +919,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/icons/menu-divider.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/icons/submenu.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/200x200.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/redirection-mobile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1079,22 +1099,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lunarbase.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.032051284">
-          <caret line="24" column="76" selection-start-line="24" selection-start-column="76" selection-end-line="24" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9358974">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="34" selection-end-column="112" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.032051284">
@@ -1171,20 +1175,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/m/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1923077">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/m/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.097561">
@@ -1192,22 +1182,6 @@
           <folding>
             <element signature="e#0#37#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/font-icons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76282054">
-          <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.8333335">
-          <caret line="10231" column="22" selection-start-line="10231" selection-start-column="22" selection-end-line="10231" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1227,54 +1201,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="81" selection-start-line="4" selection-start-column="81" selection-end-line="4" selection-end-column="81" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/index/page3_pic3.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.375">
-          <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="199" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/index-app.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
+        <state vertical-scroll-proportion="0.16025642">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/index-app-backup.html">
+    <entry file="file://$PROJECT_DIR$/css/font-icons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.625">
-          <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.448718">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06097561">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m/css/swiper.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.3137255">
+          <caret line="14" column="3667" selection-start-line="14" selection-start-column="3667" selection-end-line="14" selection-end-column="3667" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+            <element signature="e#2932#3190#2" expanded="true" />
+            <element signature="e#3331#3589#2" expanded="true" />
+            <element signature="e#3709#3967#2" expanded="true" />
+            <element signature="e#4047#4305#2" expanded="true" />
+            <element signature="e#4446#4704#2" expanded="true" />
+            <element signature="e#4824#5082#2" expanded="true" />
+            <element signature="e#14025#15472#2" expanded="true" />
+            <element signature="e#15627#17071#2" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.4117646">
-          <caret line="298" column="86" selection-start-line="298" selection-start-column="86" selection-end-line="298" selection-end-column="86" />
+        <state vertical-scroll-proportion="0.30612245">
+          <caret line="275" column="63" selection-start-line="275" selection-start-column="63" selection-end-line="275" selection-end-column="63" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1283,15 +1259,93 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#5;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunarbase.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2628205">
+          <caret line="229" column="77" selection-start-line="229" selection-start-column="77" selection-end-line="229" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.027210884">
+          <caret line="11232" column="26" selection-start-line="11232" selection-start-column="26" selection-end-line="11232" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/index-app-backup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.99359">
+          <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#template#0;n#dom-module#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12179487">
+          <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="199" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7051282">
+          <caret line="88" column="25" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8974359">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.22435898">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m/lunar-page2/lunar-page2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5448718">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m/lunar-page3/lunar-page3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67948717">
+          <caret line="76" column="66" selection-start-line="76" selection-start-column="66" selection-end-line="76" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
