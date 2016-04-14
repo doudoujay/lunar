@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="try to fix wx sdk">
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="try to fix wx sdk 2">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/wx.js" afterPath="$PROJECT_DIR$/js/wx.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,8 +66,8 @@
       <file leaf-file-name="wx.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/wx.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82191783">
-              <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.2739726">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -447,18 +446,6 @@
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
     </task>
-    <task id="LOCAL-00063" summary="dowhat layout">
-      <created>1459845539949</created>
-      <option name="number" value="00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1459845539949</updated>
-    </task>
-    <task id="LOCAL-00064" summary="add 成为首席体验官 button without function">
-      <created>1459907123818</created>
-      <option name="number" value="00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1459907123818</updated>
-    </task>
     <task id="LOCAL-00065" summary="fix the 点赞 blinking problem">
       <created>1459907435657</created>
       <option name="number" value="00065" />
@@ -741,7 +728,19 @@
       <option name="project" value="LOCAL" />
       <updated>1460644786976</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="try to fix wx sdk 2">
+      <created>1460645941680</created>
+      <option name="number" value="00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1460645941680</updated>
+    </task>
+    <task id="LOCAL-00113" summary="try to fix wx sdk 3">
+      <created>1460646109164</created>
+      <option name="number" value="00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1460646109164</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -819,8 +818,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="zip the font" />
-    <MESSAGE value="fix the webfont zip problem" />
     <MESSAGE value="试一下改contact us" />
     <MESSAGE value="删掉一些不需要的栏目" />
     <MESSAGE value="add m page2" />
@@ -844,7 +841,9 @@
     <MESSAGE value="fix wechat share" />
     <MESSAGE value="wechat sdk integration" />
     <MESSAGE value="try to fix wx sdk" />
-    <option name="LAST_COMMIT_MESSAGE" value="try to fix wx sdk" />
+    <MESSAGE value="try to fix wx sdk 2" />
+    <MESSAGE value="try to fix wx sdk 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="try to fix wx sdk 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1240,8 +1239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/wx.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82191783">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.2739726">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding />
         </state>
       </provider>
