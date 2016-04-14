@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="解决page3卡顿">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app_2x.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="解决page3排版">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_title.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content3.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content4.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content5.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05title.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05title.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-bg.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text_2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.html" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/9712D3-restorable.plist" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/9712D3-restorable.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/lunarpage3_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/lunarpage3_hype_generated_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,28 +53,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.666667">
-              <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.8639456">
+              <caret line="104" column="13" selection-start-line="104" selection-start-column="13" selection-end-line="105" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lunar-page4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m/lunar-page4/lunar-page4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -73,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/m/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8408602">
-              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
               <folding>
                 <element signature="e#0#37#0" expanded="false" />
               </folding>
@@ -158,8 +172,8 @@
         <option value="$PROJECT_DIR$/lunarbase.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/components/footer.html" />
-        <option value="$PROJECT_DIR$/m/index.html" />
         <option value="$PROJECT_DIR$/m/js/app.js" />
+        <option value="$PROJECT_DIR$/m/index.html" />
       </list>
     </option>
   </component>
@@ -551,18 +565,6 @@
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
     </task>
-    <task id="LOCAL-00053" summary="5. fix the animation">
-      <created>1459562002772</created>
-      <option name="number" value="00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1459562002773</updated>
-    </task>
-    <task id="LOCAL-00054" summary="added AVOS&#10;Wechat test">
-      <created>1459567414684</created>
-      <option name="number" value="00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1459567414684</updated>
-    </task>
     <task id="LOCAL-00055" summary="&#10;Wechat test run">
       <created>1459567494509</created>
       <option name="number" value="00055" />
@@ -845,7 +847,19 @@
       <option name="project" value="LOCAL" />
       <updated>1460615398455</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="解决page3排版">
+      <created>1460615924632</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1460615924632</updated>
+    </task>
+    <task id="LOCAL-00103" summary="解决page3在排版">
+      <created>1460616022533</created>
+      <option name="number" value="00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1460616022533</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -923,8 +937,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="reduce the image sizes" />
-    <MESSAGE value="change字体from lantinghei to 苹果 without changing name" />
     <MESSAGE value="90% contact" />
     <MESSAGE value="the new index" />
     <MESSAGE value="fix the white bug" />
@@ -948,7 +960,9 @@
     <MESSAGE value="add auto play animation" />
     <MESSAGE value="fixed the transition bug" />
     <MESSAGE value="解决page3卡顿" />
-    <option name="LAST_COMMIT_MESSAGE" value="解决page3卡顿" />
+    <MESSAGE value="解决page3排版" />
+    <MESSAGE value="解决page3在排版" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决page3在排版" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1348,9 +1362,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/m/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/m/lunar-page4/lunar-page4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
+        <state vertical-scroll-proportion="0.8503401">
           <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
           <folding />
         </state>
@@ -1358,24 +1382,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/m/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.666667">
-          <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.8639456">
+          <caret line="104" column="13" selection-start-line="104" selection-start-column="13" selection-end-line="105" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8408602">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
           </folding>
         </state>
       </provider>
