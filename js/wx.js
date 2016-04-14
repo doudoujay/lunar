@@ -2,16 +2,17 @@
  * Created by jay on 16/4/14.
  */
 
-var timestamp=Math.round(new Date().getTime()/1000);
+var timestamp=1460644896;
 var nonceStr = 'lunar';
 var jsapi_ticket = 'kgt8ON7yVITDhtdwci0qeW1KthWBEhS6CdyxtdQhM2EJysCI2QauFgA9rrUEkU0QVBVbtJofQBJTMF3mr6c2cA';
 var url = 'http://cn.dengyuecang.com/m/';
 
 
 
-string = 'jsapi_ticket='+jsapi_ticket+'&nonceStr'+nonceStr+'&timestamp'+timestamp+'&url'+url;
+string = 'jsapi_ticket='+jsapi_ticket+'&noncestr='+nonceStr+'&timestamp='+timestamp+'&url='+url;
 
-wx_sign = hex_md5(string);
+wx_sign = hex_sha1(string);
+
 
 wx.config({
     debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
