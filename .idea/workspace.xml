@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="change footer logo for real">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/logo.png" afterPath="$PROJECT_DIR$/images/index/logo.png" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="fix logo">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_share_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_share_bg_2x.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-bg.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content3.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content4.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content5.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05title.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05title.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_title.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_title.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,6 +55,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.73188406">
+              <caret line="278" column="49" selection-start-line="278" selection-start-column="49" selection-end-line="278" selection-end-column="49" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8979592">
+            <state vertical-scroll-proportion="-16.5">
               <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
@@ -151,12 +194,12 @@
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/css/font-icons.css" />
         <option value="$PROJECT_DIR$/app.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lunarbase.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/m/js/app.js" />
         <option value="$PROJECT_DIR$/m/index.html" />
         <option value="$PROJECT_DIR$/components/footer.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -494,12 +537,6 @@
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
     </task>
-    <task id="LOCAL-00058" summary="临时修复宇航员的layout">
-      <created>1459568396645</created>
-      <option name="number" value="00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1459568396645</updated>
-    </task>
     <task id="LOCAL-00059" summary="get the thunmbUp() function done!">
       <created>1459816704725</created>
       <option name="number" value="00059" />
@@ -788,7 +825,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460617624603</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="fix logo">
+      <created>1460617812647</created>
+      <option name="number" value="00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1460617812647</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -866,7 +909,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="fix the white bug" />
     <MESSAGE value="fix the index-app bug" />
     <MESSAGE value="fix the index-app bug again" />
     <MESSAGE value="reduce the image size" />
@@ -891,7 +933,8 @@
     <MESSAGE value="解决page3在排版" />
     <MESSAGE value="删除q&amp;a&#10;改share" />
     <MESSAGE value="change footer logo for real" />
-    <option name="LAST_COMMIT_MESSAGE" value="change footer logo for real" />
+    <MESSAGE value="fix logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix logo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1002,6 +1045,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1158,6 +1202,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.448718">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1165,6 +1210,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06097561">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1181,24 +1227,6 @@
             <element signature="e#4824#5082#2" expanded="true" />
             <element signature="e#14025#15472#2" expanded="true" />
             <element signature="e#15627#17071#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30612245">
-          <caret line="275" column="63" selection-start-line="275" selection-start-column="63" selection-end-line="275" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#button#0;n#div#5;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1289,10 +1317,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8979592">
+        <state vertical-scroll-proportion="-16.5">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73188406">
+          <caret line="278" column="49" selection-start-line="278" selection-start-column="49" selection-end-line="278" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
