@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="删除q&amp;a&#10;改share">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/erweima-footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/erweima.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/logo-footer.png" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="change footer logo for real">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/footer.html" afterPath="$PROJECT_DIR$/components/footer.html" />
     </list>
@@ -76,9 +73,11 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8639456">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-              <folding />
+            <state vertical-scroll-proportion="0.59183675">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -495,12 +494,6 @@
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
     </task>
-    <task id="LOCAL-00056" summary="&#10;Wechat test run 2">
-      <created>1459567612985</created>
-      <option name="number" value="00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1459567612985</updated>
-    </task>
     <task id="LOCAL-00057" summary="wechat test ok">
       <created>1459567810464</created>
       <option name="number" value="00057" />
@@ -789,7 +782,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460616419637</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="change footer logo for real">
+      <created>1460617576005</created>
+      <option name="number" value="00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1460617576006</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -808,13 +807,13 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23962805" sideWeight="0.4924812" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29155314" sideWeight="0.45207438" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.4892704" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29155314" sideWeight="0.5479256" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.44206008" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.44206008" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.5579399" order="7" side_tool="true" content_ui="tabs" x="441" y="430" width="706" height="202" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.5107296" order="7" side_tool="true" content_ui="tabs" x="441" y="430" width="706" height="202" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.50751877" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.49213162" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -867,7 +866,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="the new index" />
     <MESSAGE value="fix the white bug" />
     <MESSAGE value="fix the index-app bug" />
     <MESSAGE value="fix the index-app bug again" />
@@ -892,7 +890,8 @@
     <MESSAGE value="解决page3排版" />
     <MESSAGE value="解决page3在排版" />
     <MESSAGE value="删除q&amp;a&#10;改share" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除q&amp;a&#10;改share" />
+    <MESSAGE value="change footer logo for real" />
+    <option name="LAST_COMMIT_MESSAGE" value="change footer logo for real" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1300,9 +1299,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8639456">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
+        <state vertical-scroll-proportion="0.59183675">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
