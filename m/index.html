@@ -14,7 +14,6 @@
     <link rel="bookmark" href="../images/favicon.ico"/>
 
 
-
     <script src="../js/jweixin-1.0.0.js"></script>
 
 
@@ -27,8 +26,6 @@
     <link rel="stylesheet" href="../bower_components/amazeui/amazeui-2.5.2/dist/css/amazeui.min.css">
 
 
-
-
     <!-- app styles -->
     <link rel="stylesheet" href="css/app.css">
 
@@ -39,7 +36,6 @@
 
     <link rel="stylesheet" href="css/animate.min.css">
     <script src="js/animatedModal.min.js"></script>
-
 
 
     <!--AVOS-->
@@ -60,21 +56,18 @@
 
         </div>
 
-        <div class="swiper-slide" id="lunarpage2_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
-            <script type="text/javascript" charset="utf-8" src="lunar-page2/lunar-page2.hyperesources/lunarpage2_hype_generated_script.js?38187"></script>
-        </div>
-        <div class="swiper-slide" id="lunarpage3_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
-            <script type="text/javascript" charset="utf-8" src="lunar-page3/lunar-page3.hyperesources/lunarpage3_hype_generated_script.js?16800"></script>
-        </div>
-        <div class="swiper-slide" id="dycmdowhat_hype_container"
+        <div class="swiper-slide" id="lunarpage2_hype_container"
              style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
             <script type="text/javascript" charset="utf-8"
-                    src="DYC-M-dowhat/DYC-M-dowhat.hyperesources/dycmdowhat_hype_generated_script.js?22622"></script>
+                    src="lunar-page2/lunar-page2.hyperesources/lunarpage2_hype_generated_script.js?38187"></script>
         </div>
-        <div class="swiper-slide" id="dycmspace_hype_container"
+        <div class="swiper-slide" id="lunarpage3_hype_container"
              style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
             <script type="text/javascript" charset="utf-8"
-                    src="DYC-M-space/DYC-M-space.hyperesources/dycmspace_hype_generated_script.js?18303"></script>
+                    src="lunar-page3/lunar-page3.hyperesources/lunarpage3_hype_generated_script.js?16800"></script>
+        </div>
+        <div class="swiper-slide" id="lunarpage4_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+            <script type="text/javascript" charset="utf-8" src="lunar-page4/lunar-page4.hyperesources/lunarpage4_hype_generated_script.js?76714"></script>
         </div>
 
         <div class="swiper-slide" id="dycmqa_hype_container"
@@ -101,7 +94,7 @@
         pagination: '.swiper-pagination',
         paginationClickable: true,
         direction: 'vertical',
-        nextButton:'.swiper-button-next',
+        nextButton: '.swiper-button-next',
         onInit: function (swiper) { //Swiper2.x的初始化是onFirstInit
             swiperAnimateCache(swiper); //隐藏动画元素
             swiperAnimate(swiper); //初始化完成开始动画
@@ -125,10 +118,8 @@
             }
         }
     });
-    AVOSQueryInit()
-    AVOSGetCount()
-
-
+    AVOSQueryInit();
+    AVOSGetCount();
 
 
     //    TODO: 添加字体
