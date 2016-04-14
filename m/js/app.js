@@ -26,15 +26,15 @@ playDowhat = function () {
 };
 playPage2 = function () {
     page2 = HYPE.documents['lunar-page2'];
-    page2.startTimelineNamed('main', dowhat.kDirectionForward)
+    page2.startTimelineNamed('main', page2.kDirectionForward)
 };
 playPage3 = function () {
     page3 = HYPE.documents['lunar-page3'];
-    page3.startTimelineNamed('main', space.kDirectionForward)
+    page3.startTimelineNamed('main', page3.kDirectionForward)
 };
 playPage4 = function () {
     page4 = HYPE.documents['lunar-page4'];
-    page4.startTimelineNamed('main', space.kDirectionForward)
+    page4.startTimelineNamed('main', page4.kDirectionForward)
 };
 playAbout = function () {
     about = HYPE.documents['DYC-M-about'];
