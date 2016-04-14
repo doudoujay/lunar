@@ -106,6 +106,7 @@
         },
         onSlideChangeStart: function (swiper) {
             swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
+//            增加动画触发
             if (swiper.activeIndex == 0) {
                 playWelcome()
             }
