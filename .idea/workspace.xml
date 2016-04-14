@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="解决page3排版">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_title.png" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="删除q&amp;a&#10;改share">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/01.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/02.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/03.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04bg.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04button.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/05.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/06.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/06.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1_2x.png" />
@@ -28,11 +35,47 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-bg.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-bg.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_title.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_title.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02line.png" afterPath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02photo2.jpg" afterPath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02photo2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02title1.png" afterPath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02title1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02title2.png" afterPath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02title2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03cloud.png" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03cloud.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03cloud_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03cloud_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03line.png" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03photo.jpg" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03photo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03title1.png" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03title1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03title2.png" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03title2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle1.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle2.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01content.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01content.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01dot.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01dot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01logo.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01title.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01title.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt.png" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2.png" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_bg.jpg" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittle.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittleTxt.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittleTxt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_txt.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg.jpg" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg_2x.jpg" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg_2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_titlle.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_titlle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_tittleTxt.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_tittleTxt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt1.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt2.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt3.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -565,12 +608,6 @@
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
     </task>
-    <task id="LOCAL-00055" summary="&#10;Wechat test run">
-      <created>1459567494509</created>
-      <option name="number" value="00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1459567494509</updated>
-    </task>
     <task id="LOCAL-00056" summary="&#10;Wechat test run 2">
       <created>1459567612985</created>
       <option name="number" value="00056" />
@@ -859,7 +896,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460616022533</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="删除q&amp;a&#10;改share">
+      <created>1460616419637</created>
+      <option name="number" value="00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1460616419637</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -873,10 +916,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676682" sideWeight="0.4924812" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676682" sideWeight="0.4924812" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29155314" sideWeight="0.45207438" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.49213162" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29155314" sideWeight="0.5479256" order="7" side_tool="true" content_ui="tabs" />
@@ -937,7 +980,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="90% contact" />
     <MESSAGE value="the new index" />
     <MESSAGE value="fix the white bug" />
     <MESSAGE value="fix the index-app bug" />
@@ -962,7 +1004,8 @@
     <MESSAGE value="解决page3卡顿" />
     <MESSAGE value="解决page3排版" />
     <MESSAGE value="解决page3在排版" />
-    <option name="LAST_COMMIT_MESSAGE" value="解决page3在排版" />
+    <MESSAGE value="删除q&amp;a&#10;改share" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除q&amp;a&#10;改share" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
