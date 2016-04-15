@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="改share页面">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn1_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn2_2x.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2_2x.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_share_bg_2x.jpg" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_share_bg_2x.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/wx.js" afterPath="$PROJECT_DIR$/js/wx.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/js/data.js" afterPath="$PROJECT_DIR$/m/js/data.js" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,8 +69,8 @@
       <file leaf-file-name="wx.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/wx.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7741935">
-              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.5483871">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -472,12 +461,6 @@
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
     </task>
-    <task id="LOCAL-00068" summary="delete makeschool&#10;Add lantinghei font">
-      <created>1460080909059</created>
-      <option name="number" value="00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1460080909060</updated>
-    </task>
     <task id="LOCAL-00069" summary="gallary structure init&#10;app.js wx&#10;change字体&#10;">
       <created>1460099468303</created>
       <option name="number" value="00069" />
@@ -766,7 +749,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460689323040</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="改share页面">
+      <created>1460693868035</created>
+      <option name="number" value="00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1460693868035</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -844,7 +833,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="删掉一些不需要的栏目" />
     <MESSAGE value="add m page2" />
     <MESSAGE value="fix page2" />
     <MESSAGE value="add page3" />
@@ -869,7 +857,8 @@
     <MESSAGE value="try to fix wx sdk 2" />
     <MESSAGE value="try to fix wx sdk 3" />
     <MESSAGE value="biaoda表单可以用了" />
-    <option name="LAST_COMMIT_MESSAGE" value="biaoda表单可以用了" />
+    <MESSAGE value="改share页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="改share页面" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -998,6 +987,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5769231">
           <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1005,6 +995,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4207317">
           <caret line="126" column="1" selection-start-line="126" selection-start-column="1" selection-end-line="126" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1254,8 +1245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/wx.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7741935">
-          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.5483871">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding />
         </state>
       </provider>
