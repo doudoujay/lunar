@@ -27,6 +27,7 @@ wx.ready(function () {
     console.log('wechat success')
 });
 
+
 wx.error(function (res) {
     console.log(res)
 });
