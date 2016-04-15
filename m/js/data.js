@@ -6,7 +6,7 @@ var countNum;
 
 AVOSQueryInit = function () {
     AV.initialize('a29q0Xknz8C9zfdbOogwFI7g-gzGzoHsz', 'Feao8RVGHW3KwnldWQSeoUFL');
-}
+};
 
 
 AVOSAddCount = function () {
@@ -23,7 +23,23 @@ AVOSAddCount = function () {
         // 失败了
     });
 
-}
+};
+
+submitForm = function (name, tel, comment) {
+    var web_feeback = AV.Object.extend("web_feedback");
+    var feedback = new web_feeback();
+    feedback.save({
+        name:name,
+        tel:tel,
+        comment:comment
+    }, {
+        success: function(object) {
+            alert("感谢您的提交，我们会尽快与您取得联系！");
+        }
+    });
+
+};
+
 
 AVOSGetCount = function () {
 
@@ -40,14 +56,14 @@ AVOSGetCount = function () {
         // 失败了
     });
 
-}
+};
 
 thunmbUp = function () {
-    about = HYPE.documents['DYC-M-about']
+    about = HYPE.documents['DYC-M-about'];
     about.getElementById('countText').textContent = countNum + 1;
     about.getElementById('countText_nowechat').textContent = countNum + 1;
 
     AVOSAddCount()
 
 
-}
+};
