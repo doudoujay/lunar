@@ -14,13 +14,15 @@
     <link rel="bookmark" href="../images/favicon.ico"/>
 
 
-    <script src="../js/jweixin-1.0.0.js"></script>
+    <!--<script src="../js/jweixin-1.0.0.js"></script>-->
+
 
     <!--sha1-->
     <script src="../js/sha1.js"></script>
 
     <!--wechat-->
-    <script src="../js/wx.js"></script>
+    <script src="../js/wx-v1.js"></script>
+    <script src="../bower_components/wechat.js/wechat.js"></script>
 
     <!-- Swiper JS -->
     <script src="js/swiper.min.js"></script>
@@ -127,7 +129,19 @@
     AVOSGetCount();
 
 
-    //    TODO: 添加字体
+    data_friend = {
+        'img': 'http://cn.dengyuecang.com/images/index/logo.png',   // 选填，默认为空或者当前页面第一张图片
+        'link': '链接',
+        'desc': '描述',
+        'title': '标题'
+    };
+
+    $(document).ready(function() {
+        wechat('friend',data_friend)
+    });
+
+
+
 </script>
 <style>
     /*其他颜色需更改css样式 007aff */

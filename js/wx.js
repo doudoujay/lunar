@@ -27,6 +27,7 @@ wx.ready(function () {
     console.log('wechat success')
 });
 
+
 wx.error(function (res) {
     console.log(res)
 });
@@ -57,3 +58,4 @@ wx.onMenuShareAppMessage({
         // 用户取消分享后执行的回调函数
     }
 });
+

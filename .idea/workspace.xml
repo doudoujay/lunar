@@ -1,9 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="改share页面 again">
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="wx share try again">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars-source.gemspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars.amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars.amd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars.js.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars.runtime.amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars.runtime.amd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/handlebars.runtime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/lib/handlebars/source.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/handlebars/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/wechat.js/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/wechat.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/wechat.js/dist/wechat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/wechat.js/dist/wechat.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/wechat.js/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/wechat.js/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/wechat.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/wechat.js/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/wechat.js/wechat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/wx-v1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/polymer/.bower.json" afterPath="$PROJECT_DIR$/bower_components/polymer/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/polymer/bower.json" afterPath="$PROJECT_DIR$/bower_components/polymer/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/polymer/build.log" afterPath="$PROJECT_DIR$/bower_components/polymer/build.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer-micro.html" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer-micro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer-mini.html" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer-mini.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer.html" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/wx.js" afterPath="$PROJECT_DIR$/js/wx.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +66,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-97.05882">
+            <state vertical-scroll-proportion="-99.70588">
               <caret line="350" column="114" selection-start-line="350" selection-start-column="114" selection-end-line="350" selection-end-column="114" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -41,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#0#37#0" expanded="false" />
               </folding>
@@ -49,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.125">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.76086956">
+              <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -64,11 +103,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wx.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wx.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/wx.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16129032">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wx-v1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/wx-v1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,9 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/contact-6.html" />
-        <option value="$PROJECT_DIR$/include/sendemail.php" />
-        <option value="$PROJECT_DIR$/js/jquery.calendario.js" />
         <option value="$PROJECT_DIR$/js/events-data.js" />
         <option value="$PROJECT_DIR$/postcontent.html" />
         <option value="$PROJECT_DIR$/header.html" />
@@ -174,12 +220,15 @@
         <option value="$PROJECT_DIR$/lunarbase.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/components/footer.html" />
-        <option value="$PROJECT_DIR$/m/index.html" />
         <option value="$PROJECT_DIR$/m/js/app.js" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/m/js/data.js" />
+        <option value="$PROJECT_DIR$/js/wechat.js" />
         <option value="$PROJECT_DIR$/js/wx.js" />
+        <option value="$PROJECT_DIR$/bower_components/wechat.js/wechat.js" />
+        <option value="$PROJECT_DIR$/js/wx-v1.js" />
+        <option value="$PROJECT_DIR$/m/index.html" />
       </list>
     </option>
   </component>
@@ -339,6 +388,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechat.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechat.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -362,18 +465,18 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/images/index" />
-      <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/m/js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/images/index" />
       <recent name="$PROJECT_DIR$/components" />
       <recent name="$PROJECT_DIR$/css/fonts" />
+      <recent name="$PROJECT_DIR$/m/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/index" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/m/js" />
     </key>
   </component>
@@ -458,12 +561,6 @@
       <created>1457272644203</created>
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
-    </task>
-    <task id="LOCAL-00070" summary="干掉灰色footer 上面的条条">
-      <created>1460099986774</created>
-      <option name="number" value="00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1460099986774</updated>
     </task>
     <task id="LOCAL-00071" summary="delete makeschool&#10;Add lantinghei font&#10;change footer bg">
       <created>1460100121389</created>
@@ -753,7 +850,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460694051972</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="wx share try again">
+      <created>1460699334717</created>
+      <option name="number" value="00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1460699334717</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -831,7 +934,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="fix page2" />
     <MESSAGE value="add page3" />
     <MESSAGE value="try fix page 3" />
     <MESSAGE value="try fix page 3 2" />
@@ -856,7 +958,8 @@
     <MESSAGE value="biaoda表单可以用了" />
     <MESSAGE value="改share页面" />
     <MESSAGE value="改share页面 again" />
-    <option name="LAST_COMMIT_MESSAGE" value="改share页面 again" />
+    <MESSAGE value="wx share try again" />
+    <option name="LAST_COMMIT_MESSAGE" value="wx share try again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -865,27 +968,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/style.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71014494">
-          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7482993">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/topsearch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19480519">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/pagetitle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20408164">
@@ -1126,6 +1208,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.92753625">
           <caret line="14" column="3667" selection-start-line="14" selection-start-column="3667" selection-end-line="14" selection-end-column="3667" />
+          <folding>
+            <element signature="e#2932#3190#2" expanded="false" />
+            <element signature="e#3331#3589#2" expanded="false" />
+            <element signature="e#3709#3967#2" expanded="false" />
+            <element signature="e#4047#4305#2" expanded="false" />
+            <element signature="e#4446#4704#2" expanded="false" />
+            <element signature="e#4824#5082#2" expanded="false" />
+            <element signature="e#14025#15472#2" expanded="false" />
+            <element signature="e#15627#17071#2" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1187,27 +1279,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-97.05882">
-          <caret line="350" column="114" selection-start-line="350" selection-start-column="114" selection-end-line="350" selection-end-column="114" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#5;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/m/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7741935">
@@ -1218,15 +1289,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/m/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state vertical-scroll-proportion="-99.70588">
+          <caret line="350" column="114" selection-start-line="350" selection-start-column="114" selection-end-line="350" selection-end-column="114" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#5;n#form#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1241,11 +1310,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/wechat.js/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/wechat.js/wechat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5839416">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wx-v1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/wx.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16129032">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76086956">
+          <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
