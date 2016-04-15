@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="fix 蹦到论坛">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2.png" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2.png" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="page3牛逼动画">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg.jpg" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg_2x.jpg" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg_2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_titlle.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_titlle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_tittleTxt.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_tittleTxt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt1.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt2.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt3.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.html" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/66AA5C-restorable.plist" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/66AA5C-restorable.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/lunarpage2_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/lunarpage2_hype_generated_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/C469F3-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/dycmabout_hype_generated_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.html" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/7E952E-restorable.plist" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/7E952E-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/lunarpage4_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/lunarpage4_hype_generated_script.js" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.875">
-              <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.7619048">
+              <caret line="119" column="27" selection-start-line="119" selection-start-column="27" selection-end-line="119" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -73,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/m/js/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7419355">
-              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
               <folding>
                 <element signature="e#0#36#0" expanded="false" />
               </folding>
@@ -177,9 +192,9 @@
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/wx-work.js" />
-        <option value="$PROJECT_DIR$/m/index.html" />
         <option value="$PROJECT_DIR$/js/wx.js" />
         <option value="$PROJECT_DIR$/m/js/data.js" />
+        <option value="$PROJECT_DIR$/m/index.html" />
       </list>
     </option>
   </component>
@@ -448,12 +463,6 @@
       <created>1457272644203</created>
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
-    </task>
-    <task id="LOCAL-00075" summary="try to fix mobile qrcode popup">
-      <created>1460360761964</created>
-      <option name="number" value="00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1460360761964</updated>
     </task>
     <task id="LOCAL-00076" summary="fix wechat qrcode problem">
       <created>1460385391267</created>
@@ -743,7 +752,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460731775526</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="page3牛逼动画">
+      <created>1460732629888</created>
+      <option name="number" value="00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1460732629888</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -821,7 +836,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="try fix page 2&amp;3" />
     <MESSAGE value="try fix page 2 text alignment" />
     <MESSAGE value="init m-page 4" />
     <MESSAGE value="fix page 4" />
@@ -846,7 +860,8 @@
     <MESSAGE value="try fix wechat jsapi ticket 2" />
     <MESSAGE value="try fix wechat jsapi ticket 3" />
     <MESSAGE value="fix 蹦到论坛" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix 蹦到论坛" />
+    <MESSAGE value="page3牛逼动画" />
+    <option name="LAST_COMMIT_MESSAGE" value="page3牛逼动画" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1209,21 +1224,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/m/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.875">
-          <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/m/js/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7419355">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
           <folding>
             <element signature="e#0#36#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7619048">
+          <caret line="119" column="27" selection-start-line="119" selection-start-column="27" selection-end-line="119" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
