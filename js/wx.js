@@ -6,7 +6,7 @@
 timestamp = Math.round(new Date().getTime() / 1000);
 var nonceStr = 'lunar';
 var jsapi_ticket = 'kgt8ON7yVITDhtdwci0qeW1KthWBEhS6CdyxtdQhM2FWMsjEwRyb7mjtD7UnhkwakGj0yxtM83XtOzBxEFHO8Q';
-var url = 'http://cn.dengyuecang.com/m';
+var url = 'cn.dengyuecang.com';
 
 
 string = 'jsapi_ticket=' + jsapi_ticket + '&noncestr=' + nonceStr + '&timestamp=' + timestamp + '&url=' + url;
