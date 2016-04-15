@@ -5,7 +5,7 @@
 
 timestamp = Math.round(new Date().getTime() / 1000);
 var nonceStr = 'lunar';
-var jsapi_ticket = 'kgt8ON7yVITDhtdwci0qeW1KthWBEhS6CdyxtdQhM2E169419ofH5NU04wq4myeMwtgwX7g8q1cyD8QEOTDAoA';
+var jsapi_ticket = 'kgt8ON7yVITDhtdwci0qeW1KthWBEhS6CdyxtdQhM2FWMsjEwRyb7mjtD7UnhkwakGj0yxtM83XtOzBxEFHO8Q';
 var url = 'http://cn.dengyuecang.com/m';
 
 
@@ -57,3 +57,4 @@ wx.onMenuShareAppMessage({
         // 用户取消分享后执行的回调函数
     }
 });
+
