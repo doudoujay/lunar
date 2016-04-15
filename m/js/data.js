@@ -34,7 +34,7 @@ submitForm = function (name, tel, comment) {
         comment:comment
     }, {
         success: function(object) {
-            alert("感谢您的提交，我们会尽快与您取得联系！");
+            alert("感谢您对阿舱对支持！");
         }
     });
 

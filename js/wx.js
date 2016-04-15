@@ -3,14 +3,14 @@
  */
 
 
-timestamp = Math.round(new Date().getTime() / 1000);
+//timestamp = Math.round(new Date().getTime() / 1000);
+timestamp = 1460692133;
 var nonceStr = 'lunar';
 var jsapi_ticket = 'kgt8ON7yVITDhtdwci0qeW1KthWBEhS6CdyxtdQhM2EJysCI2QauFgA9rrUEkU0QVBVbtJofQBJTMF3mr6c2cA';
 var url = 'http://cn.dengyuecang.com/m';
 
 
-
-string = 'jsapi_ticket='+jsapi_ticket+'&noncestr='+nonceStr+'&timestamp='+timestamp+'&url='+url;
+string = 'jsapi_ticket=' + jsapi_ticket + '&noncestr=' + nonceStr + '&timestamp=' + timestamp + '&url=' + url;
 
 wx_sign = hex_sha1(string);
 
@@ -21,7 +21,7 @@ wx.config({
     timestamp: timestamp, // 必填，生成签名的时间戳
     nonceStr: nonceStr, // 必填，生成签名的随机串
     signature: wx_sign,// 必填，签名，见附录1
-    jsApiList: ['onMenuShareTimeline','onMenuShareAppMessage'] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    jsApiList: ['onMenuShareTimeline', 'onMenuShareAppMessage'] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
 });
 
 wx.ready(function () {
