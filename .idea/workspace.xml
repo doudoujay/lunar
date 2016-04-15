@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="try fix wechat jsapi ticket 3">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/moment-share.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_bg.jpg" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2_2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn_2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittle.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittleTxt.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittleTxt.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_txt.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_txt.png" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="fix 蹦到论坛">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2.png" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/wx.js" afterPath="$PROJECT_DIR$/js/wx.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/js/data.js" afterPath="$PROJECT_DIR$/m/js/data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.html" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/9712D3-restorable.plist" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/9712D3-restorable.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/lunarpage3_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/lunarpage3_hype_generated_script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.html" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/66AA5C-restorable.plist" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/66AA5C-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/lunarpage2_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/lunarpage2_hype_generated_script.js" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -459,12 +449,6 @@
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
     </task>
-    <task id="LOCAL-00074" summary="partially finish the contact">
-      <created>1460358570872</created>
-      <option name="number" value="00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1460358570873</updated>
-    </task>
     <task id="LOCAL-00075" summary="try to fix mobile qrcode popup">
       <created>1460360761964</created>
       <option name="number" value="00075" />
@@ -753,7 +737,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460707033386</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="fix 蹦到论坛">
+      <created>1460731775525</created>
+      <option name="number" value="00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1460731775526</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -831,7 +821,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="try fix page 3 2" />
     <MESSAGE value="try fix page 2&amp;3" />
     <MESSAGE value="try fix page 2 text alignment" />
     <MESSAGE value="init m-page 4" />
@@ -856,7 +845,8 @@
     <MESSAGE value="try fix wechat jsapi ticket" />
     <MESSAGE value="try fix wechat jsapi ticket 2" />
     <MESSAGE value="try fix wechat jsapi ticket 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="try fix wechat jsapi ticket 3" />
+    <MESSAGE value="fix 蹦到论坛" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix 蹦到论坛" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
