@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="try fix wechat jsapi ticket 2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/wx-work.js" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="try fix wechat jsapi ticket 3">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/moment-share.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_bg.jpg" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittle.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittleTxt.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittleTxt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_txt.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_txt.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/wx.js" afterPath="$PROJECT_DIR$/js/wx.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/js/data.js" afterPath="$PROJECT_DIR$/m/js/data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.html" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/9712D3-restorable.plist" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/9712D3-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/lunarpage3_hype_generated_script.js" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/lunarpage3_hype_generated_script.js" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,38 +66,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/m/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.375">
-              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            <state vertical-scroll-proportion="-10.875">
+              <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/wechat.js/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="24.75">
-              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="58" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wx.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wx.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/wx.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.67741936">
-              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/m/js/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.7419355">
+              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
               <folding>
                 <element signature="e#0#36#0" expanded="false" />
               </folding>
@@ -184,10 +186,10 @@
         <option value="$PROJECT_DIR$/m/js/app.js" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/m/js/data.js" />
         <option value="$PROJECT_DIR$/js/wx-work.js" />
         <option value="$PROJECT_DIR$/m/index.html" />
         <option value="$PROJECT_DIR$/js/wx.js" />
+        <option value="$PROJECT_DIR$/m/js/data.js" />
       </list>
     </option>
   </component>
@@ -316,7 +318,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,25 +332,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wechat.js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
+              <option name="myItemId" value="index" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -375,8 +363,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/images/index" />
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/components" />
       <recent name="$PROJECT_DIR$/css/fonts" />
       <recent name="$PROJECT_DIR$/m/js" />
@@ -470,12 +458,6 @@
       <created>1457272644203</created>
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
-    </task>
-    <task id="LOCAL-00073" summary="no qrcode popup">
-      <created>1460299133247</created>
-      <option name="number" value="00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1460299133247</updated>
     </task>
     <task id="LOCAL-00074" summary="partially finish the contact">
       <created>1460358570872</created>
@@ -765,7 +747,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460706303647</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="try fix wechat jsapi ticket 3">
+      <created>1460707033386</created>
+      <option name="number" value="00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1460707033386</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -843,7 +831,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="try fix page 3" />
     <MESSAGE value="try fix page 3 2" />
     <MESSAGE value="try fix page 2&amp;3" />
     <MESSAGE value="try fix page 2 text alignment" />
@@ -868,7 +855,8 @@
     <MESSAGE value="改share页面 again" />
     <MESSAGE value="try fix wechat jsapi ticket" />
     <MESSAGE value="try fix wechat jsapi ticket 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="try fix wechat jsapi ticket 2" />
+    <MESSAGE value="try fix wechat jsapi ticket 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="try fix wechat jsapi ticket 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1215,37 +1203,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/m/js/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#36#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/wechat.js/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="24.75">
-          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="58" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.08163265">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/wx.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67741936">
-          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.875">
+          <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m/js/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7419355">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#36#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

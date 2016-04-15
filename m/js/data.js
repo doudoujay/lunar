@@ -25,6 +25,21 @@ AVOSAddCount = function () {
 
 };
 
+getWX = function () {
+    var wx = AV.Object.extend('wx');
+    var wx = new wx();
+    var query = new AV.Query(wx);
+
+    query.get('5710afd32e958a005ca012f3').then(function (q) {
+        t = q.get('wx');
+
+        console.log(t)
+    }, function (error) {
+        // 失败了
+    });
+
+};
+
 submitForm = function (name, tel, comment) {
     var web_feeback = AV.Object.extend("web_feedback");
     var feedback = new web_feeback();
