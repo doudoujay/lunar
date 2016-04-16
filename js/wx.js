@@ -3,23 +3,41 @@
  */
 
 
-timestamp = Math.round(new Date().getTime() / 1000);
-var nonceStr = 'lunar';
-var jsapi_ticket = 'kgt8ON7yVITDhtdwci0qeW1KthWBEhS6CdyxtdQhM2H4lF2epZ10V4-r5SEhaRKe6uxUV5iiujc_PgYy6F_k3Q';
-var url = 'http://cn.dengyuecang.com';
+
+var timestamp = '';
+var nonceStr = '';
+var jsapi_ticket = '';
+var url = '';
+var signature = '';
+
+getWX = function () {
+    var wxClass = AV.Object.extend('wx');
+    var query =  new AV.Query(wxClass);
 
 
-string = 'jsapi_ticket=' + jsapi_ticket + '&noncestr=' + nonceStr + '&timestamp=' + timestamp + '&url=' + url;
+    query.get('5710afd32e958a005ca012f3').then(function (post) {
+        temp = post.get('wx');
+        timestamp = temp['timestamp'];
+        jsapi_ticket = temp['jsapi_ticket'];
+        url = temp['url'];
+        nonceStr = temp['nonceStr'];
+        signature = temp['signature']
+    }, function (error) {
+        // 失败了
+    });
 
-wx_sign = hex_sha1(string);
 
+};
+$(document).ready(function() {
+    getWX()
+});
 
 wx.config({
     debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
     appId: 'wx39bcc3b4179b8af6', // 必填，公众号的唯一标识
     timestamp: timestamp, // 必填，生成签名的时间戳
     nonceStr: nonceStr, // 必填，生成签名的随机串
-    signature: wx_sign,// 必填，签名，见附录1
+    signature: signature,// 必填，签名，见附录1
     jsApiList: ['onMenuShareTimeline', 'onMenuShareAppMessage'] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
 });
 

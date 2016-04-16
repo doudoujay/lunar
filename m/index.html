@@ -13,6 +13,10 @@
 
     <link rel="bookmark" href="../images/favicon.ico"/>
 
+    <link rel="stylesheet" href="../bower_components/jquery.avgrund/style/avgrund.css">
+    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="../bower_components/jquery.avgrund/jquery.avgrund.min.js"></script>
+
 
     <script src="../js/jweixin-1.0.0.js"></script>
 
@@ -37,9 +41,6 @@
     <link rel="stylesheet" href="css/app.css">
 
 
-    <link rel="stylesheet" href="../bower_components/jquery.avgrund/style/avgrund.css">
-    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="../bower_components/jquery.avgrund/jquery.avgrund.min.js"></script>
 
     <link rel="stylesheet" href="css/animate.min.css">
     <script src="js/animatedModal.min.js"></script>
@@ -103,6 +104,7 @@
             swiperAnimateCache(swiper); //隐藏动画元素
             swiperAnimate(swiper); //初始化完成开始动画
 
+
         },
         onSlideChangeStart: function (swiper) {
             swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
@@ -127,7 +129,6 @@
     });
     AVOSQueryInit();
     AVOSGetCount();
-
 
 </script>
 <style>
