@@ -1,35 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="try fix the wechat share with backend server">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt2_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt3_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt4_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt5_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/web_baseBg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/lunarbase/web_baseBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/5A63D8-restorable.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/HYPE-526.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/HYPE-526.thin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/PIE.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/lunarbase_hype_generated_script.js" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="change the lunarbase首页">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/pagetitle.html" afterPath="$PROJECT_DIR$/components/pagetitle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/wx.js" afterPath="$PROJECT_DIR$/js/wx.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lunarbase.html" afterPath="$PROJECT_DIR$/lunarbase.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/index.html" afterPath="$PROJECT_DIR$/m/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.html" afterPath="$PROJECT_DIR$/app.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,37 +36,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lunarbase.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lunarbase.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-34.0">
-              <caret line="121" column="43" selection-start-line="121" selection-start-column="43" selection-end-line="121" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pagetitle.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/components/pagetitle.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64625853">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.5102041">
+              <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.05882353">
+              <caret line="79" column="2" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -217,7 +180,6 @@
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/wx-work.js" />
-        <option value="$PROJECT_DIR$/app.html" />
         <option value="$PROJECT_DIR$/m/js/data.js" />
         <option value="$PROJECT_DIR$/m/index.html" />
         <option value="chrome-extension://afbgkgodpomhjclhnfddafacgfgkiibd/jquery-2.2.2.min.js" />
@@ -225,6 +187,7 @@
         <option value="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.html" />
         <option value="$PROJECT_DIR$/lunarbase.html" />
         <option value="$PROJECT_DIR$/components/pagetitle.html" />
+        <option value="$PROJECT_DIR$/app.html" />
       </list>
     </option>
   </component>
@@ -475,12 +438,6 @@
       <created>1457272644203</created>
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
-    </task>
-    <task id="LOCAL-00080" summary="the new index">
-      <created>1460450312259</created>
-      <option name="number" value="00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1460450312260</updated>
     </task>
     <task id="LOCAL-00081" summary="fix the white bug">
       <created>1460473333292</created>
@@ -770,7 +727,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460793183660</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="change the lunarbase首页">
+      <created>1460963400130</created>
+      <option name="number" value="00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1460963400131</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TodoView">
@@ -789,13 +752,13 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2539342" sideWeight="0.4924812" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29155314" sideWeight="0.44921315" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.4892704" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29155314" sideWeight="0.5479256" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.43061516" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.5693848" order="7" side_tool="true" content_ui="tabs" x="441" y="430" width="706" height="202" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.50751877" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.4892704" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -848,7 +811,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="fix page 4" />
     <MESSAGE value="add auto play animation" />
     <MESSAGE value="fixed the transition bug" />
     <MESSAGE value="解决page3卡顿" />
@@ -873,7 +835,8 @@
     <MESSAGE value="page3牛逼动画" />
     <MESSAGE value="finish animation" />
     <MESSAGE value="try fix the wechat share with backend server" />
-    <option name="LAST_COMMIT_MESSAGE" value="try fix the wechat share with backend server" />
+    <MESSAGE value="change the lunarbase首页" />
+    <option name="LAST_COMMIT_MESSAGE" value="change the lunarbase首页" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1040,13 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.027210884">
-          <caret line="11232" column="26" selection-start-line="11232" selection-start-column="26" selection-end-line="11232" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/index-app-backup.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="5.99359">
@@ -1154,27 +1110,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jweixin-1.0.0.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1235,20 +1170,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/components/pagetitle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6122449">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lunarbase.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-34.0">
-          <caret line="121" column="43" selection-start-line="121" selection-start-column="43" selection-end-line="121" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.4347826">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/pagetitle.html">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64625853">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.05882353">
+          <caret line="79" column="2" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5102041">
+          <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
