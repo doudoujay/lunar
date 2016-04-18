@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="try fix lunarbase hype">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt1.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt2.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt3.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt4.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt5.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt5.png" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="try fix lunarbase alignment">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt1_2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.html" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/5A63D8-restorable.plist" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/5A63D8-restorable.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/lunarbase_hype_generated_script.js" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/lunarbase_hype_generated_script.js" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +39,8 @@
       <file leaf-file-name="lunarbase.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lunarbase.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8768116">
-              <caret line="136" column="49" selection-start-line="136" selection-start-column="49" selection-end-line="136" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.1884058">
+              <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -353,6 +346,28 @@
               <option name="myItemId" value="HYPE" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunarbase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunarbase.hyperesources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HYPE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -485,12 +500,6 @@
       <created>1457272644203</created>
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
-    </task>
-    <task id="LOCAL-00083" summary="fix the index-app bug again">
-      <created>1460473804699</created>
-      <option name="number" value="00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1460473804699</updated>
     </task>
     <task id="LOCAL-00084" summary="reduce the image size">
       <created>1460474093737</created>
@@ -780,7 +789,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460964441213</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="try fix lunarbase alignment">
+      <created>1460964652688</created>
+      <option name="number" value="00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1460964652688</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TodoView">
@@ -858,7 +873,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="解决page3卡顿" />
     <MESSAGE value="解决page3排版" />
     <MESSAGE value="解决page3在排版" />
     <MESSAGE value="删除q&amp;a&#10;改share" />
@@ -883,7 +897,8 @@
     <MESSAGE value="change the lunarbase首页" />
     <MESSAGE value="fix the app 布局" />
     <MESSAGE value="try fix lunarbase hype" />
-    <option name="LAST_COMMIT_MESSAGE" value="try fix lunarbase hype" />
+    <MESSAGE value="try fix lunarbase alignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="try fix lunarbase alignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1259,8 +1274,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lunarbase.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8768116">
-          <caret line="136" column="49" selection-start-line="136" selection-start-column="49" selection-end-line="136" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.1884058">
+          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
