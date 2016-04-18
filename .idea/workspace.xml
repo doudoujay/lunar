@@ -1,9 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="try fix lunarbase alignment">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt1_2x.png" />
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="压缩修复&#10;暂时删除大事件">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/font-icons.ttf" afterPath="$PROJECT_DIR$/css/fonts/font-icons.tff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon1.png" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon2.png" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon3.png" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon4.png" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon5.png" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon6.png" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_icon6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_iconLogo.png" afterPath="$PROJECT_DIR$/HYPE/index-app/index-app.hyperesources/page2_iconLogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt1.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt1_2x.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt2.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt2_2x.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt3.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt3_2x.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt3_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt4.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt4_2x.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt4_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt5.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt5_2x.png" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/txt5_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/web_baseBg.jpg" afterPath="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.hyperesources/web_baseBg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/dist/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/app-icon72x72@2x.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/app-icon72x72@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-chrome.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-chrome.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-firefox.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-firefox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-ie.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-ie.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-opera.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-opera.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-safari.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/admin-safari.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/adminPage.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/adminPage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/blogPage.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/blogPage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/landing.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/landing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/landingPage.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/landingPage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/sidebarPage.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/examples/sidebarPage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/favicon.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/startup-640x1096.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/docs/examples/assets/i/startup-640x1096.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/tools/generator-amuiwidget/app/templates/src/icon.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/tools/generator-amuiwidget/app/templates/src/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-b.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-b.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-cw.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-cw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-s.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-s.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-sw.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-sw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-w.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/vendor/amazeui/amazeui-w.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/accordion/src/accordion.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/accordion/src/accordion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/blank/src/blank.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/blank/src/blank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/divider/src/divider.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/divider/src/divider.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/duoshuo/src/duoshuo.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/duoshuo/src/duoshuo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/figure/src/figure.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/figure/src/figure.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/footer/src/footer.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/footer/src/footer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/gallery/src/gallery.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/gallery/src/gallery.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/gotop/src/gotop.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/gotop/src/gotop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/header/src/header.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/header/src/header.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/intro/src/intro.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/intro/src/intro.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/layout4/src/layout4.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/layout4/src/layout4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/list_news/src/list_news.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/list_news/src/list_news.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/map/src/map.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/map/src/map.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/mechat/src/mechat.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/mechat/src/mechat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/menu/src/menu.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/menu/src/menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/navbar/src/navbar.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/navbar/src/navbar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/pagination/src/pagination.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/pagination/src/pagination.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/paragraph/src/paragraph.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/paragraph/src/paragraph.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/slider/src/slider.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/slider/src/slider.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/tabs/src/tabs.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/tabs/src/tabs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/titlebar/src/titlebar.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/titlebar/src/titlebar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/wechatpay/src/wechatpay.png" afterPath="$PROJECT_DIR$/bower_components/amazeui/amazeui-2.5.2/widget/wechatpay/src/wechatpay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts/DroidSansFallback.ttf" afterPath="$PROJECT_DIR$/css/fonts/DroidSansFallback.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/appshowcase/ipad-section.png" afterPath="$PROJECT_DIR$/images/appshowcase/ipad-section.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/appshowcase/iphone-solid.png" afterPath="$PROJECT_DIR$/images/appshowcase/iphone-solid.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/appshowcase/s1.png" afterPath="$PROJECT_DIR$/images/appshowcase/s1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/appshowcase/s4.png" afterPath="$PROJECT_DIR$/images/appshowcase/s4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/appshowcase/s5.png" afterPath="$PROJECT_DIR$/images/appshowcase/s5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/appshowcase/slider-iphone.png" afterPath="$PROJECT_DIR$/images/appshowcase/slider-iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/camera_skins.png" afterPath="$PROJECT_DIR$/images/camera_skins.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/footer-logo@2x.png" afterPath="$PROJECT_DIR$/images/footer-logo@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/footer-widget-logo@2x.png" afterPath="$PROJECT_DIR$/images/footer-widget-logo@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallary/people-14.jpeg" afterPath="$PROJECT_DIR$/images/gallary/people-14.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallary/people-24.png" afterPath="$PROJECT_DIR$/images/gallary/people-24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallary/scene-3.jpg" afterPath="$PROJECT_DIR$/images/gallary/scene-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/features/flag.png" afterPath="$PROJECT_DIR$/images/icons/features/flag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/features/map.png" afterPath="$PROJECT_DIR$/images/icons/features/map.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/features/performance.png" afterPath="$PROJECT_DIR$/images/icons/features/performance.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/features/responsive.png" afterPath="$PROJECT_DIR$/images/icons/features/responsive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/features/retina.png" afterPath="$PROJECT_DIR$/images/icons/features/retina.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/features/seo.png" afterPath="$PROJECT_DIR$/images/icons/features/seo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/features/support.png" afterPath="$PROJECT_DIR$/images/icons/features/support.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/features/tick.png" afterPath="$PROJECT_DIR$/images/icons/features/tick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/macbook.png" afterPath="$PROJECT_DIR$/images/icons/macbook.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/map-icon-red.png" afterPath="$PROJECT_DIR$/images/icons/map-icon-red.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/restaurant/cup-dark.png" afterPath="$PROJECT_DIR$/images/icons/restaurant/cup-dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/restaurant/cup.png" afterPath="$PROJECT_DIR$/images/icons/restaurant/cup.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/restaurant/fork-dark.png" afterPath="$PROJECT_DIR$/images/icons/restaurant/fork-dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/restaurant/fork.png" afterPath="$PROJECT_DIR$/images/icons/restaurant/fork.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/restaurant/glass-dark.png" afterPath="$PROJECT_DIR$/images/icons/restaurant/glass-dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/restaurant/glass.png" afterPath="$PROJECT_DIR$/images/icons/restaurant/glass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/restaurant/tea-dark.png" afterPath="$PROJECT_DIR$/images/icons/restaurant/tea-dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/restaurant/tea.png" afterPath="$PROJECT_DIR$/images/icons/restaurant/tea.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/icons/video-play.png" afterPath="$PROJECT_DIR$/images/icons/video-play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/IMG_2799_DxO.jpg" afterPath="$PROJECT_DIR$/images/index/IMG_2799_DxO.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/animate1.png" afterPath="$PROJECT_DIR$/images/index/animate1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/circle.png" afterPath="$PROJECT_DIR$/images/index/circle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/contact_iconAdress.png" afterPath="$PROJECT_DIR$/images/index/contact_iconAdress.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/contact_iconEmail.png" afterPath="$PROJECT_DIR$/images/index/contact_iconEmail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/contact_iconPhone.png" afterPath="$PROJECT_DIR$/images/index/contact_iconPhone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/contact_map.png" afterPath="$PROJECT_DIR$/images/index/contact_map.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/erweima-footer.png" afterPath="$PROJECT_DIR$/images/index/erweima-footer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/erweima.png" afterPath="$PROJECT_DIR$/images/index/erweima.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/home_footer_erweima.png" afterPath="$PROJECT_DIR$/images/index/home_footer_erweima.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/home_footer_erweimaClick.png" afterPath="$PROJECT_DIR$/images/index/home_footer_erweimaClick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/home_footer_logo.png" afterPath="$PROJECT_DIR$/images/index/home_footer_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/icon-Time.png" afterPath="$PROJECT_DIR$/images/index/icon-Time.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/icon-blueprint-black.png" afterPath="$PROJECT_DIR$/images/index/icon-blueprint-black.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/icon-blueprint.png" afterPath="$PROJECT_DIR$/images/index/icon-blueprint.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/icon-location.png" afterPath="$PROJECT_DIR$/images/index/icon-location.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/icon-wechat-01.png" afterPath="$PROJECT_DIR$/images/index/icon-wechat-01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/icon-wechat-02.png" afterPath="$PROJECT_DIR$/images/index/icon-wechat-02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/icon-wechat-03.png" afterPath="$PROJECT_DIR$/images/index/icon-wechat-03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/logo-footer.png" afterPath="$PROJECT_DIR$/images/index/logo-footer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/logo-hans-4.png" afterPath="$PROJECT_DIR$/images/index/logo-hans-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/logo.png" afterPath="$PROJECT_DIR$/images/index/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/lunarbase-head.png" afterPath="$PROJECT_DIR$/images/index/lunarbase-head.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/lunarbase/txt1.png" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/lunarbase/txt2.png" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/lunarbase/txt3.png" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/lunarbase/txt4.png" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/lunarbase/txt5.png" afterPath="$PROJECT_DIR$/images/index/lunarbase/txt5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/lunarbase/web_baseBg.png" afterPath="$PROJECT_DIR$/images/index/lunarbase/web_baseBg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/moment-share.png" afterPath="$PROJECT_DIR$/images/index/moment-share.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/new-6.png" afterPath="$PROJECT_DIR$/images/index/new-6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page2_icon1.png" afterPath="$PROJECT_DIR$/images/index/page2_icon1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page2_icon2.png" afterPath="$PROJECT_DIR$/images/index/page2_icon2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page2_icon3.png" afterPath="$PROJECT_DIR$/images/index/page2_icon3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page2_icon4.png" afterPath="$PROJECT_DIR$/images/index/page2_icon4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page2_icon5.png" afterPath="$PROJECT_DIR$/images/index/page2_icon5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page2_icon6.png" afterPath="$PROJECT_DIR$/images/index/page2_icon6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page2_spec.png" afterPath="$PROJECT_DIR$/images/index/page2_spec.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page3-bg.png" afterPath="$PROJECT_DIR$/images/index/page3-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page3_pic1.png" afterPath="$PROJECT_DIR$/images/index/page3_pic1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page3_pic2.png" afterPath="$PROJECT_DIR$/images/index/page3_pic2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page3_pic3.png" afterPath="$PROJECT_DIR$/images/index/page3_pic3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/page4_txt1.png" afterPath="$PROJECT_DIR$/images/index/page4_txt1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/qrcode.jpg" afterPath="$PROJECT_DIR$/images/index/qrcode.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/web_app_app.png" afterPath="$PROJECT_DIR$/images/index/web_app_app.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/web_app_bg.png" afterPath="$PROJECT_DIR$/images/index/web_app_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/web_bg.png" afterPath="$PROJECT_DIR$/images/index/web_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/web_txt.png" afterPath="$PROJECT_DIR$/images/index/web_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index/web_video.png" afterPath="$PROJECT_DIR$/images/index/web_video.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-dark@2x.png" afterPath="$PROJECT_DIR$/images/logo-dark@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-resto-dark@2x.png" afterPath="$PROJECT_DIR$/images/logo-resto-dark@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-resto.png" afterPath="$PROJECT_DIR$/images/logo-resto.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-resto@2x.png" afterPath="$PROJECT_DIR$/images/logo-resto@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-side-dark@2x.png" afterPath="$PROJECT_DIR$/images/logo-side-dark@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-side@2x.png" afterPath="$PROJECT_DIR$/images/logo-side@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mac.png" afterPath="$PROJECT_DIR$/images/mac.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/captcha/assets/bg.png" afterPath="$PROJECT_DIR$/include/captcha/assets/bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_large_left.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_large_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_large_right.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_large_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_left.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_left2.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_left2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_right.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_right2.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/arrow_right2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/arrowleft.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/arrowleft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/arrowright.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/arrowright.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/boxed_bgtile.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/boxed_bgtile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/bullet.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/bullet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/bullet_boxed.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/bullet_boxed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/bullets.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/bullets.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/bullets2.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/bullets2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/grain.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/grain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/large_left.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/large_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/large_right.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/large_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/navigdots.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/navigdots.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/shadow1.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/shadow1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/shadow2.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/shadow2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/shadow3.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/shadow3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/small_left.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/small_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/small_left_boxed.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/small_left_boxed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/small_right.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/small_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/assets/small_right_boxed.png" afterPath="$PROJECT_DIR$/include/rs-plugin/assets/small_right_boxed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/images/gradient/g30.png" afterPath="$PROJECT_DIR$/include/rs-plugin/images/gradient/g30.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/rs-plugin/images/gradient/g40.png" afterPath="$PROJECT_DIR$/include/rs-plugin/images/gradient/g40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/01.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/02.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/03.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04button.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/04button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/05.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/06.png" afterPath="$PROJECT_DIR$/m/DYC-M-QA/DYC-M-QA.hyperesources/06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg3_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05bg4_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05button_clicked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content3.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content4.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content5.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05content5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05line_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05title.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/05title.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/share-text_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn1.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn2.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn2_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_btn2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_title.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_title.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_txt.png" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_page5_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_share_bg.jpg" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_share_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_share_bg_2x.jpg" afterPath="$PROJECT_DIR$/m/DYC-M-about/DYC-M-about.hyperesources/wap_share_bg_2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02photo2.jpg" afterPath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02photo2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02title1.png" afterPath="$PROJECT_DIR$/m/DYC-M-dowhat/DYC-M-dowhat.hyperesources/02title1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03cloud.png" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03cloud.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03cloud_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03cloud_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03photo.jpg" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03photo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03title1.png" afterPath="$PROJECT_DIR$/m/DYC-M-space/DYC-M-space.hyperesources/03title1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1_2x.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle-1_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle1.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle2.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01circle2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01content.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01content.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01dot.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01dot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01logo.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01title.png" afterPath="$PROJECT_DIR$/m/DYC-M-welcome/DYC-M-welcome.hyperesources/01title.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt1.png" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2-1.png" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2.png" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt3.png" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt4.png" afterPath="$PROJECT_DIR$/m/lunar-page2/lunar-page2.hyperesources/wap_page2_txt4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_app.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_bg.jpg" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn2_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_btn_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittle.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittleTxt.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_tittleTxt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_txt.png" afterPath="$PROJECT_DIR$/m/lunar-page3/lunar-page3.hyperesources/wap_page3_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg.jpg" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg_2x.jpg" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_bg_2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle_2x.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_circle_2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_titlle.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_titlle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_tittleTxt.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_tittleTxt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt1.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt2.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt3.png" afterPath="$PROJECT_DIR$/m/lunar-page4/lunar-page4.hyperesources/wap_page4_txt3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-icons.css" afterPath="$PROJECT_DIR$/css/font-icons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lunarbase.html" afterPath="$PROJECT_DIR$/lunarbase.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +293,8 @@
       <file leaf-file-name="lunarbase.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lunarbase.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1884058">
-              <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.79710144">
+              <caret line="235" column="41" selection-start-line="235" selection-start-column="41" selection-end-line="235" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -48,10 +302,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="font-icons.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/font-icons.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.25">
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="app.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-93.75">
+            <state vertical-scroll-proportion="-13.375">
               <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -111,16 +375,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-1.2352941">
               <caret line="262" column="12" selection-start-line="262" selection-start-column="12" selection-end-line="276" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wx.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/wx.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -199,7 +453,6 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/components/index-app.html" />
         <option value="$PROJECT_DIR$/components/index-app-backup.html" />
-        <option value="$PROJECT_DIR$/css/font-icons.css" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/components/footer.html" />
         <option value="$PROJECT_DIR$/m/js/app.js" />
@@ -213,6 +466,7 @@
         <option value="$PROJECT_DIR$/HYPE/lunarbase/lunarbase.html" />
         <option value="$PROJECT_DIR$/components/pagetitle.html" />
         <option value="$PROJECT_DIR$/app.html" />
+        <option value="$PROJECT_DIR$/css/font-icons.css" />
         <option value="$PROJECT_DIR$/lunarbase.html" />
       </list>
     </option>
@@ -328,8 +582,18 @@
               <option name="myItemId" value="HYPE" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lunarbase" />
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -343,15 +607,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HYPE" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lunarbase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunarbase.hyperesources" />
+              <option name="myItemId" value="fonts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,21 +625,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HYPE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lunar-web2.0" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".font-spider" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -412,11 +666,11 @@
       <recent name="$PROJECT_DIR$/m/js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/fonts" />
       <recent name="$PROJECT_DIR$/images/index/lunarbase" />
       <recent name="$PROJECT_DIR$/images/index" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/components" />
-      <recent name="$PROJECT_DIR$/css/fonts" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
@@ -500,12 +754,6 @@
       <created>1457272644203</created>
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
-    </task>
-    <task id="LOCAL-00084" summary="reduce the image size">
-      <created>1460474093737</created>
-      <option name="number" value="00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1460474093737</updated>
     </task>
     <task id="LOCAL-00085" summary="footer高度瘦身">
       <created>1460474421021</created>
@@ -795,7 +1043,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460964652688</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="try fix lunarbase txt_2x">
+      <created>1460964853025</created>
+      <option name="number" value="00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1460964853025</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="TodoView">
@@ -817,19 +1071,19 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.4892704" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29155314" sideWeight="0.5479256" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.43061516" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.5693848" order="7" side_tool="true" content_ui="tabs" x="441" y="430" width="706" height="202" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.50751877" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918256" sideWeight="0.47711015" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33514985" sideWeight="0.49753347" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.48354793" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918256" sideWeight="0.47711015" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29155314" sideWeight="0.44921315" order="6" side_tool="false" content_ui="tabs" />
@@ -873,8 +1127,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="解决page3排版" />
-    <MESSAGE value="解决page3在排版" />
     <MESSAGE value="删除q&amp;a&#10;改share" />
     <MESSAGE value="change footer logo for real" />
     <MESSAGE value="fix logo" />
@@ -898,7 +1150,9 @@
     <MESSAGE value="fix the app 布局" />
     <MESSAGE value="try fix lunarbase hype" />
     <MESSAGE value="try fix lunarbase alignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="try fix lunarbase alignment" />
+    <MESSAGE value="try fix lunarbase txt_2x" />
+    <MESSAGE value="压缩修复&#10;暂时删除大事件" />
+    <option name="LAST_COMMIT_MESSAGE" value="压缩修复&#10;暂时删除大事件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1055,13 +1309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16025642">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/font-icons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.448718">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1232,18 +1479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-93.75">
-          <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/m/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-52.5">
@@ -1272,10 +1507,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.375">
+          <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lunarbase.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1884058">
-          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.79710144">
+          <caret line="235" column="41" selection-start-line="235" selection-start-column="41" selection-end-line="235" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
