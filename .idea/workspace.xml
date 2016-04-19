@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="del search&#10;slider fix">
+    <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="加描述">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
     </list>
@@ -39,8 +39,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.73188406">
-              <caret line="114" column="152" selection-start-line="114" selection-start-column="152" selection-end-line="114" selection-end-column="152" />
+            <state vertical-scroll-proportion="0.6231884">
+              <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -415,12 +415,6 @@
       <option name="number" value="Default" />
       <updated>1457272644203</updated>
     </task>
-    <task id="LOCAL-00094" summary="try fix page 3 2">
-      <created>1460613004278</created>
-      <option name="number" value="00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1460613004278</updated>
-    </task>
     <task id="LOCAL-00095" summary="try fix page 2&amp;3">
       <created>1460613179803</created>
       <option name="number" value="00095" />
@@ -709,7 +703,13 @@
       <option name="project" value="LOCAL" />
       <updated>1461054542651</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="加描述">
+      <created>1461054709788</created>
+      <option name="number" value="00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1461054709788</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TodoView">
@@ -787,7 +787,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="try to fix wx sdk 2" />
     <MESSAGE value="try to fix wx sdk 3" />
     <MESSAGE value="biaoda表单可以用了" />
     <MESSAGE value="改share页面" />
@@ -812,7 +811,8 @@
     <MESSAGE value="change footer" />
     <MESSAGE value="fix some stupid stuff" />
     <MESSAGE value="del search&#10;slider fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="del search&#10;slider fix" />
+    <MESSAGE value="加描述" />
+    <option name="LAST_COMMIT_MESSAGE" value="加描述" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1189,8 +1189,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73188406">
-          <caret line="114" column="152" selection-start-line="114" selection-start-column="152" selection-end-line="114" selection-end-column="152" />
+        <state vertical-scroll-proportion="0.6231884">
+          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
           <folding />
         </state>
       </provider>
