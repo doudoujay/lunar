@@ -111,15 +111,6 @@
 
                     </ul>
 
-                    <!-- Top Search
-                    ============================================= -->
-                    <div id="top-search">
-                        <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
-                        <form action="../search.html" method="get">
-                            <input type="text" name="q" class="form-control" value=""
-                                   placeholder="输入关键字回车搜索">
-                        </form>
-                    </div><!-- #top-search end -->
 
 
                 </nav><!-- #primary-menu end -->
@@ -249,7 +240,11 @@
 
                 $('#slider-arrow-right').on('click', function (e) {
                     e.preventDefault();
-                    swiperSlider.swipeNext();
+                    if (swiperSlider.activeIndex != 1){
+                        swiperSlider.swipeNext();
+//                        TODO: may be delete in the future
+                    }
+
                 });
 
                 $('#slide-number-current').html(swiperSlider.activeIndex + 1);
@@ -403,16 +398,6 @@
 <script type="text/javascript" src="js/functions.js"></script>
 
 
-<!--baidu search-->
-<script type="text/javascript">(function () {
-    document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E'));
-    var bdcs = document.createElement('script');
-    bdcs.type = 'text/javascript';
-    bdcs.async = true;
-    bdcs.src = 'http://znsv.baidu.com/customer_search/api/js?sid=17406763442287518241' + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date() / 3600000);
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(bdcs, s);
-})();</script>
 
 
 </body>
