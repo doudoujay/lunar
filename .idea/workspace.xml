@@ -2,62 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="加描述颜色">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(2)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(3).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(3)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(4).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(4)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(5).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(5)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(6).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(6)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(8).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/image(8)_2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/image(2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/image(2)_2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/image_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(1)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(2)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(4).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(4)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(5).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(5)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(6).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(6)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(7).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(7)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(8).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(8)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(9).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image(9)_2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/image_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/151A43-restorable.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/HYPE-526.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/HYPE-526.thin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/PIE.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-app-new/dyc-app-new.hyperesources/dycappnew_hype_generated_script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/3C7AC1-restorable.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/HYPE-526.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/HYPE-526.thin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/PIE.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/dycbasenew_hype_generated_script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/D896C6-restorable.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/HYPE-526.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/HYPE-526.thin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/PIE.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-joinus/dyc-joinus.hyperesources/dycjoinus_hype_generated_script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(1)_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(13).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(13)_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(14).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(14)_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(15).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(15)_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image_2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/image(5).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/FE0AB3-restorable.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/HYPE-526.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/HYPE-526.thin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/PIE.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/dycteam_hype_generated_script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.html" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/3C7AC1-restorable.plist" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/3C7AC1-restorable.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/dycbasenew_hype_generated_script.js" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/dycbasenew_hype_generated_script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
@@ -82,17 +48,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29710144">
-              <caret line="278" column="22" selection-start-line="278" selection-start-column="22" selection-end-line="278" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.442029">
+              <caret line="137" column="28" selection-start-line="137" selection-start-column="28" selection-end-line="137" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dyc-team.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HYPE/dyc-team/dyc-team.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="28" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,13 +91,6 @@
               <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="27" selection-end-column="10" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="preloader@2x.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/preloader@2x.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -346,7 +316,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dyc-map" />
+              <option name="myItemId" value="dyc-team" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,7 +334,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dyc-base-new" />
+              <option name="myItemId" value="dyc-map" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -415,8 +385,8 @@
       <recent name="$PROJECT_DIR$/m/js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/HYPE" />
       <recent name="$PROJECT_DIR$/images/index" />
+      <recent name="$PROJECT_DIR$/HYPE" />
       <recent name="$PROJECT_DIR$/css/fonts" />
       <recent name="$PROJECT_DIR$/images/index/lunarbase" />
       <recent name="$PROJECT_DIR$/js" />
@@ -915,18 +885,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HYPE/index-app/index-app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3846154">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/index/page3_pic3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/index-app.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16025642">
@@ -1254,18 +1212,27 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HYPE/dyc-team/dyc-team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29710144">
-          <caret line="278" column="22" selection-start-line="278" selection-start-column="22" selection-end-line="278" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.442029">
+          <caret line="137" column="28" selection-start-line="137" selection-start-column="28" selection-end-line="137" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
