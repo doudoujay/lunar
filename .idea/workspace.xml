@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d0e2e0-e610-4041-b28b-aeb0ded4886f" name="Default" comment="加描述颜色">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(1)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(13).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(13)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(14).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(14)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(15).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image(15)_2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/image_2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/index/image(5).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/FE0AB3-restorable.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/HYPE-526.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/HYPE-526.thin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/PIE.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HYPE/dyc-team/dyc-team.hyperesources/dycteam_hype_generated_script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.html" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/3C7AC1-restorable.plist" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/3C7AC1-restorable.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/dycbasenew_hype_generated_script.js" afterPath="$PROJECT_DIR$/HYPE/dyc-base-new/dyc-base-new.hyperesources/dycbasenew_hype_generated_script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="lunar-web2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.442029">
-              <caret line="137" column="28" selection-start-line="137" selection-start-column="28" selection-end-line="137" selection-end-column="28" />
+              <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -782,7 +760,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27896994" sideWeight="0.4924812" order="0" side_tool="false" content_ui="combo" />
@@ -792,7 +770,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.4148784" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.58512163" order="7" side_tool="true" content_ui="tabs" x="441" y="430" width="706" height="202" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.58512163" order="7" side_tool="true" content_ui="tabs" x="441" y="430" width="706" height="202" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.50751877" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918256" sideWeight="0.47711015" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1223,7 +1201,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.442029">
-          <caret line="137" column="28" selection-start-line="137" selection-start-column="28" selection-end-line="137" selection-end-column="28" />
+          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
