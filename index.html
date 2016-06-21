@@ -116,7 +116,6 @@
                     </ul>
 
 
-
                 </nav><!-- #primary-menu end -->
 
 
@@ -143,7 +142,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide dark" style="background-image: url('images/index/bg-0.jpg');background-size: cover">
+                <div class="swiper-slide dark"
+                     style="background-image: url('images/index/bg-0.jpg');background-size: cover">
                     <div class="container clearfix">
                         <div class="slider-caption slider-caption-center">
                             <h2 data-caption-animate="bounce">探索</h2>
@@ -151,10 +151,10 @@
                         </div>
                     </div>
                     <!--<div class="video-wrap">-->
-                        <!--<video poster="images/videos/explore-poster.jpg" preload="auto" loop autoplay muted>-->
-                            <!--<source src='images/videos/explore.webm' type='video/webm'/>-->
-                        <!--</video>-->
-                        <!--<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>-->
+                    <!--<video poster="images/videos/explore-poster.jpg" preload="auto" loop autoplay muted>-->
+                    <!--<source src='images/videos/explore.webm' type='video/webm'/>-->
+                    <!--</video>-->
+                    <!--<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>-->
                     <!--</div>-->
                 </div>
             </div>
@@ -244,7 +244,7 @@
 
                 $('#slider-arrow-right').on('click', function (e) {
                     e.preventDefault();
-                    if (swiperSlider.activeIndex != 1){
+                    if (swiperSlider.activeIndex != 1) {
                         swiperSlider.swipeNext();
 //                        TODO: may be delete in the future
                     }
@@ -262,23 +262,26 @@
     ============================================= -->
     <section id="content">
 
-        <div class="section parallax nobottommargin nobottomborder notopmargin" style="background-color: #FEC32B ; data-stellar-background-ratio="0.3">
-
+        <div class="section parallax nobottommargin nobottomborder notopmargin" style="background-color: #FEC32B ">
+            <!--牛逼app-->
             <div class="container clearfix">
 
                 <div class="heading-block center">
                     <h2>“我们正在开发一个改变高中生活的产品，连接你、我及社会。”</h2>
                 </div>
 
-                <div style="position: relative; margin-bottom: -50px;" data-height-lg="415" data-height-md="342" data-height-sm="262" data-height-xs="160" data-height-xxs="102">
-                    <div class="col-md-offset-4 col-md-4" >
-                        <img src="images/page2_iphone.png" style="position: absolute; z-index: 0" data-animate="fadeInUp" class="center">
+                <div style="position: relative; margin-bottom: -50px;" data-height-lg="415" data-height-md="342"
+                     data-height-sm="262" data-height-xs="160" data-height-xxs="102">
+                    <div class="col-md-offset-4 col-md-4">
+                        <img src="images/page2_iphone.png" style="position: absolute; z-index: 0"
+                             data-animate="fadeInUp" class="center">
                         <div style="z-index: 1;padding-top: 200px" class="col-md-12 center">
 
                             <h2 class="col-md-12" data-animate="bounceIn">生活可以变得<br>更酷、更有意义</h2>
 
                             <button name="submit" value="Submit"
-                                    class="button button-3d nomargin" style="background-color: white; top: 50px" data-animate="fadeInUp" data-delay="300">获得内测资格
+                                    class="button button-3d nomargin" style="background-color: white; top: 50px"
+                                    data-animate="fadeInUp" data-delay="300">获得内测资格
                             </button>
                         </div>
 
@@ -291,6 +294,34 @@
 
         </div>
 
+        <div class="section parallax nobottommargin nobottomborder notopmargin" style="background-color: white ">
+            <!--牛逼app-->
+            <div class="container clearfix">
+
+                <div class="col-md-6 col-md-offset-3">
+
+
+                </div>
+                <div></div>
+
+
+            </div>
+
+        </div>
+
+        <div class="section full-screen noborder notoppadding notopmargin"
+             style="background-size: cover; background-color: white">
+
+            <div id="lunarbased_hype_container"
+                 style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
+                <script type="text/javascript" charset="utf-8"
+                        src="HYPE/lunar-base-d/lunar-base-d.hyperesources/lunarbased_hype_generated_script.js?80767"></script>
+            </div>
+
+
+
+
+        </div>
         <div class="content-wrap notoppadding nobottompadding">
             <div class="section full-screen noborder notoppadding"
                  style="background-size: cover; background-color: white">
@@ -365,7 +396,9 @@
 
                             <div class="col_half col_last">
                                 <input type="text" placeholder="电话" id="template-contactform-tel"
-                                       name="template-contactform-tel" value="" class="required sm-form-control" onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')" />
+                                       name="template-contactform-tel" value="" class="required sm-form-control"
+                                       onkeyup="this.value=this.value.replace(/\D/g,'')"
+                                       onafterpaste="this.value=this.value.replace(/\D/g,'')"/>
                             </div>
 
                             <div class="col_full">
@@ -393,7 +426,7 @@
                                     var name = document.getElementById('template-contactform-name').value;
                                     var tel = document.getElementById('template-contactform-tel').value;
                                     var msg = document.getElementById('template-contactform-message').value;
-                                    submitForm(name,tel,msg)
+                                    submitForm(name, tel, msg)
 
                                 }
                             });
@@ -429,8 +462,6 @@
 <!-- Footer Scripts
 ============================================= -->
 <script type="text/javascript" src="js/functions.js"></script>
-
-
 
 
 </body>
