@@ -89,22 +89,22 @@
                 <nav id="primary-menu" class="dark">
 
                     <ul>
-                        <li id="dom-index"><a href="/index.html">
+                        <li id="dom-index"><a href="#" data-scrollto="#">
                             <div>主页</div>
                         </a>
                         </li>
 
-                        <li id="dom-base"><a href="/lunarbase.html">
+                        <li id="dom-base"><a href="#base" data-scrollto=#base">
                             <div>月球基地</div>
                         </a>
                         </li>
 
-                        <li id="dom-app"><a href="/app.html">
+                        <li id="dom-app"><a href="#app" data-scrollto="#app">
                             <div>app</div>
                         </a>
                         </li>
 
-                        <li id="dom-about" class="current"><a href="/about.html">
+                        <li id="dom-about" class="current"><a href="#team" data-scrollto="#team">
                             <div>团队介绍</div>
                         </a>
                         </li>
@@ -263,7 +263,7 @@
     <section id="content">
 
         <div class="section full-screen noborder notoppadding notopmargin nobottompadding nobottommargin"
-             style="background-size: cover; background-color: white">
+             style="background-size: cover; background-color: white" id="base">
             <!--月球基地-->
             <div id="lunarbased_hype_container"
                  style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;" aria-live="polite">
@@ -273,7 +273,31 @@
 
 
         </div>
-        <div class="section parallax nobottommargin nobottomborder notopmargin" style="background-color: #FEC32B ">
+
+        <div class="section fullscreen noborder am-g center"
+             style="background-image:url('images/index/page3-bg.png');background-size: cover; background-color: white;">
+            <div class="am-u-md-12">
+                <img src="images/index/page3_txt1.png" class="am-u-md-2 am-u-md-offset-5">
+            </div>
+            <div class="am-u-md-12 am-padding-top">
+                <img src="images/index/page3_txt2.png" class="am-u-md-2 am-u-md-offset-5">
+            </div>
+            <div class="col-md-10 col-md-offset-1 am-padding-top-lg">
+
+                <img class="col-md-4" src="images/index/page3_pic1.png">
+                <img class="col-md-4" src="images/index/page3_pic2.png">
+                <img class="col-md-4" src="images/index/page3_pic3.png">
+
+
+            </div>
+            <div class="col-md-8 col-md-offset-2 am-padding-bottom-xl am-padding-top-xl">
+                <img src="images/index/page3_txt3.png" alt="">
+            </div>
+
+
+        </div>
+
+        <div class="section parallax nobottommargin nobottomborder notopmargin" style="background-color: #FEC32B " id="app">
             <!--牛逼app-->
             <div class="container clearfix">
 
@@ -321,29 +345,228 @@
                             src="/HYPE/index-app/index-app.hyperesources/indexapp_hype_generated_script.js?15065"></script>
                 </div>
             </div>
+            <div class="section dark noborder notoppadding nobottompadding center nomargin" id="team">
+                <div class="col_one_fifth nomargin" style="background-color: #F4AC00; width: 20%">
+                    <div class="divider"></div>
+                    <img src="images/page4_head.png">
+                    <h1>Jason</h1>
+                    <h2 class="notopmargin">舱里第一个人类</h2>
 
-            <div class="section fullscreen noborder am-g center"
-                 style="background-image:url('images/index/page3-bg.png');background-size: cover; background-color: white;">
-                <div class="am-u-md-12">
-                    <img src="images/index/page3_txt1.png" class="am-u-md-2 am-u-md-offset-5">
+                    <p>“我觉得问题的本质不在这里...”</p>
                 </div>
-                <div class="am-u-md-12 am-padding-top">
-                    <img src="images/index/page3_txt2.png" class="am-u-md-2 am-u-md-offset-5">
+                <div class="col_one_fifth nomargin" style="background-color: #8DB222;width: 20%">
+                    <div class="divider"></div>
+                    <img src="images/p2.png">
+                    <h1>Zale</h1>
+                    <h2 class="notopmargin">皮条君</h2>
+
+                    <p>“你们都没我可爱”</p>
                 </div>
-                <div class="col-md-10 col-md-offset-1 am-padding-top-lg">
+                <div class="col_one_fifth nomargin" style="background-color: #FA6548;width: 20%">
+                    <div class="divider"></div>
+                    <img src="images/p3.png">
+                    <h1>Allen</h1>
+                    <h2 class="notopmargin">怪蜀黍</h2>
 
-                    <img class="col-md-4" src="images/index/page3_pic1.png">
-                    <img class="col-md-4" src="images/index/page3_pic2.png">
-                    <img class="col-md-4" src="images/index/page3_pic3.png">
-
-
+                    <p>“永远十八的怪蜀黎”</p>
                 </div>
-                <div class="col-md-8 col-md-offset-2 am-padding-bottom-xl am-padding-top-xl">
-                    <img src="images/index/page3_txt3.png" alt="">
+                <div class="col_one_fifth nomargin" style="background-color: #2B8EB5;width: 20%">
+                    <div class="divider"></div>
+                    <img src="images/p4.png">
+                    <h1>Hans</h1>
+                    <h2 class="notopmargin">登月舱大管家</h2>
+
+                    <p>“我也不知道要说啥”</p>
                 </div>
+                <div class="col_one_fifth col_last nomargin" style="background-color: #4A4542;width: 20%">
+                    <div class="divider"></div>
+                    <img src="images/p5.png">
+                    <h1>Jianli</h1>
+                    <h2 class="notopmargin">神秘的王老师</h2>
 
-
+                    <p>“~~~~~”</p>
+                </div>
             </div>
+
+            <div class="content-wrap nobottompadding dark" style="background-color: #50B5E3">
+                <!--团队详细人员-->
+                <div class="container clearfix full-screen">
+
+
+                    <!-- Portfolio Filter
+                    ============================================= -->
+                    <ul id="portfolio-filter" class="clearfix">
+
+                        <li class="activeFilter"><a href="#" data-filter="*">所有成员</a></li>
+                        <li><a href="#" data-filter=".pf-of-team">团队成员</a></li>
+                        <li><a href="#" data-filter=".pf-studnet">学生成员</a></li>
+
+
+                    </ul><!-- #portfolio-filter end -->
+
+                    <div id="portfolio-shuffle">
+                        <i class="icon-random"></i>
+                    </div>
+
+                    <div class="clear"></div>
+
+                    <!-- Portfolio Items
+                    ============================================= -->
+                    <div id="portfolio" class="portfolio-6 clearfix">
+
+                        <article class="portfolio-item pf-of-team">
+                            <div class="portfolio-image">
+                                <a href="portfolio-single.html">
+                                    <img src="/images/team/p1.png">
+                                </a>
+                                <div class="portfolio-overlay">
+                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
+                                </div>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="portfolio-single.html">Name</a></h3>
+                                <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                            </div>
+                        </article>
+
+                        <article class="portfolio-item pf-of-team">
+                            <div class="portfolio-image">
+                                <a href="portfolio-single.html">
+                                    <img src="/images/team/p2.png">
+                                </a>
+                                <div class="portfolio-overlay">
+                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
+                                </div>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="portfolio-single.html">Name</a></h3>
+                                <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                            </div>
+                        </article>
+                        <article class="portfolio-item pf-of-team">
+                            <div class="portfolio-image">
+                                <a href="portfolio-single.html">
+                                    <img src="/images/team/p3.png">
+                                </a>
+                                <div class="portfolio-overlay">
+                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
+                                </div>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="portfolio-single.html">Name</a></h3>
+                                <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                            </div>
+                        </article>
+                        <article class="portfolio-item pf-of-team">
+                            <div class="portfolio-image">
+                                <a href="portfolio-single.html">
+                                    <img src="/images/team/p4.png">
+                                </a>
+                                <div class="portfolio-overlay">
+                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
+                                </div>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="portfolio-single.html">Name</a></h3>
+                                <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                            </div>
+                        </article>
+                        <article class="portfolio-item pf-of-team">
+                            <div class="portfolio-image">
+                                <a href="portfolio-single.html">
+                                    <img src="/images/team/p5.png">
+                                </a>
+                                <div class="portfolio-overlay">
+                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
+                                </div>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="portfolio-single.html">Name</a></h3>
+                                <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                            </div>
+                        </article>
+                        <article class="portfolio-item pf-of-team">
+                            <div class="portfolio-image">
+                                <a href="portfolio-single.html">
+                                    <img src="/images/team/p6.png">
+                                </a>
+                                <div class="portfolio-overlay">
+                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
+                                </div>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="portfolio-single.html">Name</a></h3>
+                                <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                            </div>
+                        </article>
+                        <article class="portfolio-item pf-of-team">
+                            <div class="portfolio-image">
+                                <a href="portfolio-single.html">
+                                    <img src="/images/team/jay.png">
+                                </a>
+                                <div class="portfolio-overlay">
+                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
+                                </div>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="portfolio-single.html">Name</a></h3>
+                                <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                            </div>
+                        </article>
+
+
+
+                    </div><!-- #portfolio end -->
+
+                    <!-- Portfolio Script
+                    ============================================= -->
+                    <script type="text/javascript">
+
+                        jQuery(window).load(function(){
+
+                            var $container = $('#portfolio');
+
+                            $container.isotope({ transitionDuration: '0.65s' });
+
+                            $('#portfolio-filter a').click(function(){
+                                $('#portfolio-filter li').removeClass('activeFilter');
+                                $(this).parent('li').addClass('activeFilter');
+                                var selector = $(this).attr('data-filter');
+                                $container.isotope({ filter: selector });
+                                return false;
+                            });
+
+                            $('#portfolio-shuffle').click(function(){
+                                $container.isotope('updateSortData').isotope({
+                                    sortBy: 'random'
+                                });
+                            });
+
+                            $(window).resize(function() {
+                                $container.isotope('layout');
+                            });
+
+                        });
+
+                    </script><!-- Portfolio Script End -->
+
+                </div>
+            </div>
+
 
             <div class="content-wrap" style="background-color: #F2F2F2">
 
