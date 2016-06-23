@@ -35,6 +35,7 @@
     <link rel="import" href="components/header.html">
     <link rel="import" href="components/footer.html">
     <link rel="import" href="components/gallary.html">
+    <link rel="import" href="components/team-member.html">
 
     <!-- Document Title
     ============================================= -->
@@ -88,12 +89,16 @@
                         </li>
 
                         <li id="dom-about" class="current"><a href="/about.html">
-                            <div>关于我们</div>
+                            <div>团队介绍</div>
+                        </a>
+                        </li>
+                        <li id="dom" class="current"><a href="/about.html">
+                            <div>加入我们</div>
                         </a>
                         </li>
 
-
                     </ul>
+
 
 
                 </nav><!-- #primary-menu end -->
@@ -123,7 +128,10 @@
     ============================================= -->
     <section id="content">
 
+
         <div class="content-wrap nobottompadding">
+
+
 
             <div class="container clearfix">
 
@@ -183,6 +191,57 @@
                         <span>一个由95后创始人率领的年轻团队开始了一场大胆的教育创新，项目代号：登月舱。</span>
                     </div>
                 </div>
+            </div>
+
+            <div class="section dark full-screen noborder notoppadding nomargin" style="background-image: url('images/joinus_bg.png')">
+                <!--加入我们-->
+                <h1 class="heading-block col-md-12 center topmargin-lg">加入登月舱<br>让我们一起探索不一样的高中生活</h1>
+
+                <div class="col-md-12 center">
+                    <div class="am-btn-group doc-js-btn-1" data-am-button>
+                        <label class="am-btn am-btn-primary">
+                            <input type="radio" name="options" value="全部职位" id="option1">全部职位
+                        </label>
+
+                    </div>
+                    <script>
+                        // 获取选中的值
+                        $(function() {
+                            var $radios = $('[name="options"]');
+                            $radios.on('change',function() {
+                                console.log('单选框当前选中的是：', $radios.filter(':checked').val());
+                            });
+                        });
+                    </script>
+                </div>
+                <h3 class="col-md-2 col-md-offset-8 center">欢迎 <a class="icon-email" href="mailto:hr@dengyuecang.com">投递简历</a></h3>
+                <div class="col-md-8 col-md-offset-2">
+                    <table class="am-table am-table-bordered am-table-radius">
+                        <thead>
+                        <tr>
+                            <th>岗位</th>
+                            <th>职能</th>
+                            <th>地点</th>
+                            <th>时间</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>web实习生</td>
+                            <td>产品部门</td>
+                            <td>北京市</td>
+                            <td>2012-10-01</td>
+                        </tr>
+                        <tr>
+                            <td>活动运营</td>
+                            <td>运营部门</td>
+                            <td>北京市</td>
+                            <td>2012-10-01</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+
             </div>
         </div>
 

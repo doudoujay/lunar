@@ -1,0 +1,30 @@
+<link rel="import"
+      href="../bower_components/polymer/polymer.html">
+
+<dom-module id="dom-team-member">
+    <template>
+        <article class="portfolio-item pf-of-team">
+            <div class="portfolio-image">
+                <a href="portfolio-single.html">
+                    <img src="../images/page4_head.png">
+                </a>
+                <div class="portfolio-overlay">
+                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
+                </div>
+            </div>
+            <div class="portfolio-desc">
+                <h3><a href="portfolio-single.html">Name</a></h3>
+                <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+            </div>
+        </article>
+
+    </template>
+</dom-module>
+
+<script>
+    Polymer({
+        is: "dom-team-member"
+    });
+</script>
