@@ -31,7 +31,6 @@
 @font-face {
     font-family: 'lantinghei';
     src: url('fonts/DroidSansFallback.ttf');
-    src: url('fonts/DroidSansFallback.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }

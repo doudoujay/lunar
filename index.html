@@ -26,6 +26,10 @@
     <script type="text/javascript" src="js/plugins.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
 
+    <!--Fullpage-->
+    <link rel="stylesheet" type="text/css" href="bower_components/fullpage.js/jquery.fullPage.css" />
+    <script type="text/javascript" src="bower_components/fullpage.js/jquery.fullPage.min.js"></script>
+
     <!--Amazeui-->
     <link rel="stylesheet" href="bower_components/amazeui/amazeui-2.5.2/dist/css/amazeui.min.css">
     <script type="text/javascript" src="bower_components/amazeui/amazeui-2.5.2/dist/js/amazeui.min.js"></script>
@@ -87,7 +91,7 @@
                 <!-- Primary Navigation
                 ============================================= -->
                 <nav id="primary-menu" class="dark">
-
+                    <!--TODO:需要干掉link来适配fullpage-->
                     <ul>
                         <li id="dom-index"><a href="#" data-scrollto="#">
                             <div>主页</div>
@@ -124,6 +128,7 @@
         </div>
 
     </header><!-- #header end -->
+
 
     <section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix">
 
@@ -260,9 +265,10 @@
 
     <!-- Content
     ============================================= -->
+
     <section id="content">
 
-        <div class="section full-screen noborder notoppadding notopmargin nobottompadding nobottommargin"
+        <div class="section full-screen noborder nomargin nopadding"
              style="background-size: cover; background-color: white" id="base">
             <!--月球基地-->
             <div id="lunarbased_hype_container"
@@ -274,7 +280,7 @@
 
         </div>
 
-        <div class="section parallax nobottommargin nobottomborder notopmargin" style="background-color: #FEC32B " id="app">
+        <div class="section full-screen nomargin nopadding" style="background-color: #FEC32B " id="app">
             <!--牛逼app-->
             <div class="container clearfix">
 
@@ -284,16 +290,16 @@
 
                 <div style="position: relative; margin-bottom: -50px;" data-height-lg="415" data-height-md="342"
                      data-height-sm="262" data-height-xs="160" data-height-xxs="102">
-                    <div class="col-md-offset-4 col-md-4">
+                    <div class="col-md-offset-4 col-md-4" data-animate="fadeInUp">
                         <img src="images/page2_iphone.png" style="position: absolute; z-index: 0"
-                             data-animate="fadeInUp" class="center">
+                              class="center">
                         <div style="z-index: 1;padding-top: 200px" class="col-md-12 center">
 
-                            <h2 class="col-md-12" data-animate="bounceIn">生活可以变得<br>更酷、更有意义</h2>
+                            <h2 class="col-md-12" >生活可以变得<br>更酷、更有意义</h2>
 
                             <button name="submit" value="Submit"
                                     class="button button-3d nomargin" style="background-color: transparent; top: 50px; color: #78B6FF; border-bottom: 1px solid #78B6FF; border-top: 1px solid #78B6FF; border-left: 1px solid #78B6FF;border-right: 1px solid #78B6FF;"
-                                    data-animate="fadeInUp" data-delay="300">获得内测资格
+                            >获得内测资格
                             </button>
                         </div>
 
@@ -306,361 +312,363 @@
 
         </div>
 
-        <div class="content-wrap notoppadding nobottompadding">
+        <div class="section dark nomargin nopadding center" id="team">
+            <div class="col_one_fifth nomargin full-screen" style="background-color: #F4AC00; width: 20%" data-animate="fadeInUp">
+                <div class="divider"></div>
+                <img src="images/page4_head.png">
+                <h1>Jason</h1>
+                <h2 class="notopmargin">舱里第一个人类</h2>
 
-            <div class="section dark noborder notoppadding nobottompadding center nomargin" id="team">
-                <div class="col_one_fifth nomargin" style="background-color: #F4AC00; width: 20%" data-animate="fadeInUp">
-                    <div class="divider"></div>
-                    <img src="images/page4_head.png">
-                    <h1>Jason</h1>
-                    <h2 class="notopmargin">舱里第一个人类</h2>
-
-                    <p>“我觉得问题的本质不在这里...”</p>
-                    <div class="divider"></div>
-                </div>
-                <div class="col_one_fifth nomargin" style="background-color: #8DB222;width: 20%" data-animate="fadeInDown">
-                    <div class="divider"></div>
-                    <img src="images/p2.png">
-                    <h1>Zale</h1>
-                    <h2 class="notopmargin">皮条君</h2>
-
-                    <p>“你们都没我可爱”</p>
-                    <div class="divider"></div>
-                </div>
-                <div class="col_one_fifth nomargin" style="background-color: #FA6548;width: 20%" data-animate="fadeInUp">
-                    <div class="divider"></div>
-                    <img src="images/p3.png">
-                    <h1>Allen</h1>
-                    <h2 class="notopmargin">怪蜀黍</h2>
-
-                    <p>“永远十八的怪蜀黎”</p>
-                    <div class="divider"></div>
-                </div>
-                <div class="col_one_fifth nomargin" style="background-color: #2B8EB5;width: 20%" data-animate="fadeInDown">
-                    <div class="divider"></div>
-                    <img src="images/p4.png">
-                    <h1>Hans</h1>
-                    <h2 class="notopmargin">登月舱大管家</h2>
-
-                    <p>“我也不知道要说啥”</p>
-                    <div class="divider"></div>
-                </div>
-                <div class="col_one_fifth col_last nomargin" style="background-color: #4A4542;width: 20%" data-animate="fadeInUp">
-                    <div class="divider"></div>
-                    <img src="images/p5.png">
-                    <h1>Jianli</h1>
-                    <h2 class="notopmargin">神秘的王老师</h2>
-
-                    <p>“~~~~~”</p>
-                    <div class="divider"></div>
-                </div>
+                <p>“我觉得问题的本质不在这里...”</p>
+                <div class="divider"></div>
             </div>
+            <div class="col_one_fifth nomargin full-screen" style="background-color: #8DB222;width: 20%" data-animate="fadeInDown">
+                <div class="divider"></div>
+                <img src="images/p2.png">
+                <h1>Zale</h1>
+                <h2 class="notopmargin">皮条君</h2>
 
-            <div class="content-wrap nobottompadding dark" style="background-color: #50B5E3">
-                <!--团队详细人员-->
-                <div class="container clearfix full-screen">
+                <p>“你们都没我可爱”</p>
+                <div class="divider"></div>
+            </div>
+            <div class="col_one_fifth nomargin full-screen" style="background-color: #FA6548;width: 20%" data-animate="fadeInUp">
+                <div class="divider"></div>
+                <img src="images/p3.png">
+                <h1>Allen</h1>
+                <h2 class="notopmargin">怪蜀黍</h2>
+
+                <p>“永远十八的怪蜀黎”</p>
+                <div class="divider"></div>
+            </div>
+            <div class="col_one_fifth nomargin full-screen" style="background-color: #2B8EB5;width: 20%" data-animate="fadeInDown">
+                <div class="divider"></div>
+                <img src="images/p4.png">
+                <h1>Hans</h1>
+                <h2 class="notopmargin">登月舱大管家</h2>
+
+                <p>“我也不知道要说啥”</p>
+                <div class="divider"></div>
+            </div>
+            <div class="col_one_fifth col_last nomargin full-screen" style="background-color: #4A4542;width: 20%" data-animate="fadeInUp">
+                <div class="divider"></div>
+                <img src="images/p5.png">
+                <h1>Jianli</h1>
+                <h2 class="notopmargin">神秘的王老师</h2>
+
+                <p>“~~~~~”</p>
+                <div class="divider"></div>
+            </div>
+        </div>
+
+        <div class="section nomargin nopadding dark" style="background-color: #50B5E3">
+            <!--团队详细人员-->
+            <div class="container clearfix full-screen">
 
 
-                    <!-- Portfolio Filter
-                    ============================================= -->
-                    <ul id="portfolio-filter" class="clearfix">
+                <!-- Portfolio Filter
+                ============================================= -->
+                <ul id="portfolio-filter" class="clearfix">
 
-                        <li class="activeFilter"><a href="#" data-filter="*">所有成员</a></li>
-                        <li><a href="#" data-filter=".pf-of-team">团队成员</a></li>
-                        <li><a href="#" data-filter=".pf-studnet">学生成员</a></li>
+                    <li class="activeFilter"><a href="#" data-filter="*">所有成员</a></li>
+                    <li><a href="#" data-filter=".pf-of-team">团队成员</a></li>
+                    <li><a href="#" data-filter=".pf-studnet">学生成员</a></li>
 
 
-                    </ul><!-- #portfolio-filter end -->
+                </ul><!-- #portfolio-filter end -->
 
-                    <div id="portfolio-shuffle">
-                        <i class="icon-random"></i>
-                    </div>
+                <div id="portfolio-shuffle">
+                    <i class="icon-random"></i>
+                </div>
 
-                    <div class="clear"></div>
+                <div class="clear"></div>
 
-                    <!-- Portfolio Items
-                    ============================================= -->
-                    <div id="portfolio" class="portfolio-6 clearfix center">
+                <!-- Portfolio Items
+                ============================================= -->
+                <div id="portfolio" class="portfolio-6 clearfix center">
 
-                        <article class="portfolio-item pf-of-team">
-                            <div class="portfolio-image">
-                                <a href="portfolio-single.html">
-                                    <img src="/images/team/p1.png">
-                                </a>
-                                <div class="portfolio-overlay">
-                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                    <article class="portfolio-item pf-of-team">
+                        <div class="portfolio-image">
+                            <a href="portfolio-single.html">
+                                <img src="/images/team/p1.png">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 
-                                </div>
                             </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="portfolio-single.html">徐健</a></h3>
-                                <h3>攻城狮</h3>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-single.html">徐健</a></h3>
+                            <h3>攻城狮</h3>
+                        </div>
+                    </article>
+
+                    <article class="portfolio-item pf-of-team">
+                        <div class="portfolio-image">
+                            <a href="portfolio-single.html">
+                                <img src="/images/team/p2.png">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
                             </div>
-                        </article>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-single.html">王鹏</a></h3>
+                            <h3>iOS程序猿</h3>
+                        </div>
+                    </article>
+                    <article class="portfolio-item pf-of-team">
+                        <div class="portfolio-image">
+                            <a href="portfolio-single.html">
+                                <img src="/images/team/p3.png">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 
-                        <article class="portfolio-item pf-of-team">
-                            <div class="portfolio-image">
-                                <a href="portfolio-single.html">
-                                    <img src="/images/team/p2.png">
-                                </a>
-                                <div class="portfolio-overlay">
-                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-
-                                </div>
                             </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="portfolio-single.html">王鹏</a></h3>
-                                <h3>iOS程序猿</h3>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-single.html">李芳</a></h3>
+                            <h3>Android程序员</h3>
+                        </div>
+                    </article>
+                    <article class="portfolio-item pf-of-team">
+                        <div class="portfolio-image">
+                            <a href="portfolio-single.html">
+                                <img src="/images/team/p4.png">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
                             </div>
-                        </article>
-                        <article class="portfolio-item pf-of-team">
-                            <div class="portfolio-image">
-                                <a href="portfolio-single.html">
-                                    <img src="/images/team/p3.png">
-                                </a>
-                                <div class="portfolio-overlay">
-                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-single.html">陈某某</a></h3>
+                            <h3>设计狮</h3>
+                        </div>
+                    </article>
+                    <article class="portfolio-item pf-of-team">
+                        <div class="portfolio-image">
+                            <a href="portfolio-single.html">
+                                <img src="/images/team/p5.png">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 
-                                </div>
                             </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="portfolio-single.html">李芳</a></h3>
-                                <h3>Android程序员</h3>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-single.html">瓶子</a></h3>
+                            <h3>码字员</h3>
+                        </div>
+                    </article>
+                    <article class="portfolio-item pf-of-team">
+                        <div class="portfolio-image">
+                            <a href="portfolio-single.html">
+                                <img src="/images/team/p6.png">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
                             </div>
-                        </article>
-                        <article class="portfolio-item pf-of-team">
-                            <div class="portfolio-image">
-                                <a href="portfolio-single.html">
-                                    <img src="/images/team/p4.png">
-                                </a>
-                                <div class="portfolio-overlay">
-                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-single.html">马东</a></h3>
+                            <h3>运营狗</h3>
+                        </div>
+                    </article>
+                    <article class="portfolio-item pf-of-team">
+                        <div class="portfolio-image">
+                            <a href="portfolio-single.html">
+                                <img src="/images/team/jay.png">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
 
-                                </div>
                             </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="portfolio-single.html">陈某某</a></h3>
-                                <h3>设计狮</h3>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-single.html">Jay</a></h3>
+                            <h3>前端程序猿</h3>
+                        </div>
+                    </article>
+                    <article class="portfolio-item pf-of-team">
+                        <div class="portfolio-image">
+                            <a href="portfolio-single.html">
+                                <img src="/images/team/fish.png">
+                            </a>
+                            <div class="portfolio-overlay">
+                                <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                                <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+
                             </div>
-                        </article>
-                        <article class="portfolio-item pf-of-team">
-                            <div class="portfolio-image">
-                                <a href="portfolio-single.html">
-                                    <img src="/images/team/p5.png">
-                                </a>
-                                <div class="portfolio-overlay">
-                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="portfolio-single.html">瓶子</a></h3>
-                                <h3>码字员</h3>
-                            </div>
-                        </article>
-                        <article class="portfolio-item pf-of-team">
-                            <div class="portfolio-image">
-                                <a href="portfolio-single.html">
-                                    <img src="/images/team/p6.png">
-                                </a>
-                                <div class="portfolio-overlay">
-                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="portfolio-single.html">马东</a></h3>
-                                <h3>运营狗</h3>
-                            </div>
-                        </article>
-                        <article class="portfolio-item pf-of-team">
-                            <div class="portfolio-image">
-                                <a href="portfolio-single.html">
-                                    <img src="/images/team/jay.png">
-                                </a>
-                                <div class="portfolio-overlay">
-                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="portfolio-single.html">Jay</a></h3>
-                                <h3>前端程序猿</h3>
-                            </div>
-                        </article>
-                        <article class="portfolio-item pf-of-team">
-                            <div class="portfolio-image">
-                                <a href="portfolio-single.html">
-                                    <img src="/images/team/fish.png">
-                                </a>
-                                <div class="portfolio-overlay">
-                                    <a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                                    <a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="portfolio-single.html">小鱼</a></h3>
-                                <h3>攻城狮</h3>
-                            </div>
-                        </article>
+                        </div>
+                        <div class="portfolio-desc">
+                            <h3><a href="portfolio-single.html">小鱼</a></h3>
+                            <h3>攻城狮</h3>
+                        </div>
+                    </article>
 
 
 
 
-                    </div><!-- #portfolio end -->
+                </div><!-- #portfolio end -->
 
-                    <!-- Portfolio Script
-                    ============================================= -->
-                    <script type="text/javascript">
+                <!-- Portfolio Script
+                ============================================= -->
+                <script type="text/javascript">
 
-                        jQuery(window).load(function(){
+                    jQuery(window).load(function(){
 
-                            var $container = $('#portfolio');
+                        var $container = $('#portfolio');
 
-                            $container.isotope({ transitionDuration: '0.65s' });
+                        $container.isotope({ transitionDuration: '0.65s' });
 
-                            $('#portfolio-filter a').click(function(){
-                                $('#portfolio-filter li').removeClass('activeFilter');
-                                $(this).parent('li').addClass('activeFilter');
-                                var selector = $(this).attr('data-filter');
-                                $container.isotope({ filter: selector });
-                                return false;
-                            });
-
-                            $('#portfolio-shuffle').click(function(){
-                                $container.isotope('updateSortData').isotope({
-                                    sortBy: 'random'
-                                });
-                            });
-
-                            $(window).resize(function() {
-                                $container.isotope('layout');
-                            });
-
+                        $('#portfolio-filter a').click(function(){
+                            $('#portfolio-filter li').removeClass('activeFilter');
+                            $(this).parent('li').addClass('activeFilter');
+                            var selector = $(this).attr('data-filter');
+                            $container.isotope({ filter: selector });
+                            return false;
                         });
 
-                    </script><!-- Portfolio Script End -->
+                        $('#portfolio-shuffle').click(function(){
+                            $container.isotope('updateSortData').isotope({
+                                sortBy: 'random'
+                            });
+                        });
 
-                </div>
+                        $(window).resize(function() {
+                            $container.isotope('layout');
+                        });
+
+                    });
+
+                </script><!-- Portfolio Script End -->
+
             </div>
+        </div>
 
 
-            <div class="content-wrap" style="background-color: #F2F2F2">
 
-                <div class="container clearfix" style="background-color: #F2F2F2">
+        <div class="section nomargin nopadding" style="background-color: #F2F2F2">
 
-                    <!-- Postcontent
-                    ============================================= -->
-                    <div class="col-md-6" style="line-height: 0.6">
-                        <div class="col-md-12">
-                            <img src="images/index/page4_txt1.png" class="col-md-6 col-md-offset-3" alt="">
+            <div class="container clearfix" style="background-color: #F2F2F2">
+
+                <!-- Postcontent
+                ============================================= -->
+                <div class="col-md-6" style="line-height: 0.6">
+                    <div class="col-md-12">
+                        <img src="images/index/page4_txt1.png" class="col-md-6 col-md-offset-3" alt="">
+                    </div>
+                    <div class="topmargin-lg">
+                        <p class="nomargin" title="Phone Number"><img src="images/index/contact_iconPhone.png"> (91)
+                            8547 632521</p><br>
+                        <p class="nomargin" title="Fax"><img src="images/index/contact_iconAdress.png">
+                            北京市海淀区大泥湾路北大附中南楼月球基地</p><br>
+                        <p class="nomargin" title="Email Address"><img src="images/index/contact_iconEmail.png"><a
+                                href="mailto:hi@dengyuecang.com"> hi@dengyuecang.com</a></p>
+
+                    </div>
+
+                    <div id="contact-form-result" data-notify-type="success"
+                         data-notify-msg="<i class=icon-ok-sign></i> 成功发送给阿舱啦~"></div>
+
+                    <form class="nobottommargin topmargin-sm" id="template-contactform" name="template-contactform">
+
+                        <div class="form-process"></div>
+
+                        <div class="col_half">
+                            <input type="text" placeholder="姓名" id="template-contactform-name"
+                                   name="template-contactform-name" value="" class="sm-form-control required"/>
                         </div>
-                        <div class="topmargin-lg">
-                            <p class="nomargin" title="Phone Number"><img src="images/index/contact_iconPhone.png"> (91)
-                                8547 632521</p><br>
-                            <p class="nomargin" title="Fax"><img src="images/index/contact_iconAdress.png">
-                                北京市海淀区大泥湾路北大附中南楼月球基地</p><br>
-                            <p class="nomargin" title="Email Address"><img src="images/index/contact_iconEmail.png"><a
-                                    href="mailto:hi@dengyuecang.com"> hi@dengyuecang.com</a></p>
 
+                        <div class="col_half col_last">
+                            <input type="text" placeholder="电话" id="template-contactform-tel"
+                                   name="template-contactform-tel" value="" class="required sm-form-control"
+                                   onkeyup="this.value=this.value.replace(/\D/g,'')"
+                                   onafterpaste="this.value=this.value.replace(/\D/g,'')"/>
                         </div>
 
-                        <div id="contact-form-result" data-notify-type="success"
-                             data-notify-msg="<i class=icon-ok-sign></i> 成功发送给阿舱啦~"></div>
-
-                        <form class="nobottommargin topmargin-sm" id="template-contactform" name="template-contactform">
-
-                            <div class="form-process"></div>
-
-                            <div class="col_half">
-                                <input type="text" placeholder="姓名" id="template-contactform-name"
-                                       name="template-contactform-name" value="" class="sm-form-control required"/>
-                            </div>
-
-                            <div class="col_half col_last">
-                                <input type="text" placeholder="电话" id="template-contactform-tel"
-                                       name="template-contactform-tel" value="" class="required sm-form-control"
-                                       onkeyup="this.value=this.value.replace(/\D/g,'')"
-                                       onafterpaste="this.value=this.value.replace(/\D/g,'')"/>
-                            </div>
-
-                            <div class="col_full">
+                        <div class="col_full">
                                 <textarea type="tel" class="required sm-form-control" placeholder="说些什么..."
                                           id="template-contactform-message" name="template-contactform-message" rows="5"
                                           cols="30"></textarea>
-                            </div>
+                        </div>
 
-                            <div class="col_full hidden">
-                                <input type="text" id="template-contactform-botcheck"
-                                       name="template-contactform-botcheck" value="" class="sm-form-control"/>
-                            </div>
+                        <div class="col_full hidden">
+                            <input type="text" id="template-contactform-botcheck"
+                                   name="template-contactform-botcheck" value="" class="sm-form-control"/>
+                        </div>
 
-                            <div class="col_full">
-                                <button name="submit" type="submit" id="submit-button" tabindex="5" value="Submit"
-                                        class="button button-3d nomargin col-md-12" style="background-color: #fec12b">发送
-                                </button>
-                            </div>
+                        <div class="col_full">
+                            <button name="submit" type="submit" id="submit-button" tabindex="5" value="Submit"
+                                    class="button button-3d nomargin col-md-12" style="background-color: #fec12b">发送
+                            </button>
+                        </div>
 
-                        </form>
-                        <script>
-                            $("#template-contactform").validate({
-                                submitHandler: function (form) {
+                    </form>
+                    <script>
+                        $("#template-contactform").validate({
+                            submitHandler: function (form) {
 
-                                    var name = document.getElementById('template-contactform-name').value;
-                                    var tel = document.getElementById('template-contactform-tel').value;
-                                    var msg = document.getElementById('template-contactform-message').value;
-                                    submitForm(name, tel, msg)
+                                var name = document.getElementById('template-contactform-name').value;
+                                var tel = document.getElementById('template-contactform-tel').value;
+                                var msg = document.getElementById('template-contactform-message').value;
+                                submitForm(name, tel, msg)
 
-                                }
-                            });
-                        </script>
-                    </div>
-
-
-                    <!-- Sidebar
-                    ============================================= -->
-                    <div class="col-md-6 col_last nobottommargin center">
-                        <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=02c3bb8d9678bfa020ba90fda9202dd5"></script>
-                        <div id="allmap" style="width:100%;height:500px;"></div>
-                        <!--<img src="images/index/contact_map.png" alt="">-->
-                        <script type="text/javascript">
-                            // 百度地图API功能
-                            var map = new BMap.Map("allmap");
-                            var point = new BMap.Point(116.326742,39.983228);
-                            var marker = new BMap.Marker(point);  // 创建标注
-                            map.addOverlay(marker);              // 将标注添加到地图中
-                            map.centerAndZoom(point, 15);
-                            var opts = {
-                                width : 200,     // 信息窗口宽度
-                                height: 100,     // 信息窗口高度
-                                title : "登月舱" , // 信息窗口标题
-                                enableMessage:true,//设置允许信息窗发送短息
-                                message:"北京市海淀区大泥湾路北大附中南楼月球基地"
                             }
-                            var infoWindow = new BMap.InfoWindow("地址：北京市东城区王府井大街88号乐天银泰百货八层", opts);  // 创建信息窗口对象
-                            marker.addEventListener("click", function(){
-                                map.openInfoWindow(infoWindow,point); //开启信息窗口
-                            });
-                        </script>
-                    </div><!-- .sidebar end -->
-
+                        });
+                    </script>
                 </div>
+
+
+                <!-- Sidebar
+                ============================================= -->
+                <div class="col-md-6 col_last nobottommargin center">
+                    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=02c3bb8d9678bfa020ba90fda9202dd5"></script>
+                    <div id="allmap" style="width:100%;height:500px;"></div>
+                    <!--<img src="images/index/contact_map.png" alt="">-->
+                    <script type="text/javascript">
+                        // 百度地图API功能
+                        var map = new BMap.Map("allmap");
+                        var point = new BMap.Point(116.326742,39.983228);
+                        var marker = new BMap.Marker(point);  // 创建标注
+                        map.addOverlay(marker);              // 将标注添加到地图中
+                        map.centerAndZoom(point, 15);
+                        var opts = {
+                            width : 200,     // 信息窗口宽度
+                            height: 100,     // 信息窗口高度
+                            title : "登月舱" , // 信息窗口标题
+                            enableMessage:true,//设置允许信息窗发送短息
+                            message:"北京市海淀区大泥湾路北大附中南楼月球基地"
+                        }
+                        var infoWindow = new BMap.InfoWindow("地址：北京市东城区王府井大街88号乐天银泰百货八层", opts);  // 创建信息窗口对象
+                        marker.addEventListener("click", function(){
+                            map.openInfoWindow(infoWindow,point); //开启信息窗口
+                        });
+                    </script>
+                </div><!-- .sidebar end -->
 
             </div>
 
-
         </div>
+        <div class="section"></div>
 
     </section><!-- #content end -->
-
+    <script type="text/javascript">
+        $(function() {
+            $("#content").fullpage();
+        });
+    </script>
+    
     <!-- Footer
     ============================================= -->
     <dom-footer></dom-footer>
